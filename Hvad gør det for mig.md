@@ -1,6 +1,7 @@
-Title: Hvad får jeg ud af det?
-poster: /theme/img/t3.jpg
-quote: Vektor er en oplevelse for livet!
+---
+layout: default
+title: Hvad får jeg ud af det?
+---
 
 Som vektor får man lov til at tage ansvar og selvstændigt have indflydelse på de projekter man arbejder med. Erfaringerne med at planlægge en rustur, introtur, introdag og alle de andre småting der kommer, kan uden tvivl beskrives som "erfaring med projektplanlægning". På rusturen og introturen skal der holdes styr på økonomi, materialer, logistik, tidsplaner og en masse andet, alt sammen noget som man som vektor får lov at være en stor del af.
 

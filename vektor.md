@@ -1,6 +1,7 @@
-Title: Vektor
-poster: /theme/img/t2.jpg
-quote: Vektor er en oplevelse for livet!
+---
+layout: default
+title: Vektor
+---
 
 Som vektor kommer du til at være en del af to hold: Et retningshold og et tværhold. Retningsholdet består af vektorer fra samme retning som dig og tværholdet af vektorer fra forskellige retninger. På retningsholdet planlægges den første dag for de ny studerende og andre retningsspecifikke arrangmenter, som I i fællesskab bliver enige om. På tværholdet står i for at planlægge og afholde rusturen.
 
