@@ -10,3 +10,4 @@ Udover erfaring får du som vektor uddannelse i talerteknik, førstehjælp, konf
 Som vektor får du et godt netværk på DTU og i PF, både i form af KABS, Hyttebumser, med-vektorer og russer. Dette netværk er helt unikt, og kan vise sig at være yderst relevant i forbindelse med faglige og sociale projekter og evt. videre arbejde  i PF.
 
 Søger du som vektor, vil der fra den 26-28. oktober være ansættelsessamtaler. Vi regner derfor med, at du afsætter tid til din samtale her. Du vil få svar på din ansøgning den 29. oktober, hvor du, hvis du bliver valgt, om aftenen vil blive budt velkommen sammen med dine nye medvektorer.
+

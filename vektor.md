@@ -9,3 +9,4 @@ Som vektor vil din første officielle opgave være, at modtage de nystartende p�
 
 Onsdag den 27. januar tager alle vektorene med deres russer på rustur. Ud over at stå for planlægningen af rusturen og de tilhørende aktiviteter, skal du som vektor på rusturen have et blandet hold russer fra forskellige retninger.
 Efter rusturen står du som vektor til rådighed for dine russer i forbindelse med spørgsmål eller problemer. Du vil derfor, i samarbejde med dine russer, aftale et ugentlig “kagemøde”, hvor evt. spørgsmål kan blive stillet. Som vektor står du også ansvarlig for at hjælpe med afholdning af hyttetur med retningen, julefrokost med tværholdet og evt.  andre arrangmenter som der bliver taget initiativ til. På denne måde varer din vektorperiode over to semestre.
+

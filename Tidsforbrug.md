@@ -19,4 +19,5 @@ Derudover er der førstehjælpsundervisning i foråret man skal deltage i, Der e
 
 Det skal siges, at den tid og det arbejde der lægges i vektorhvervet, ikke kan måles med de bekendtskaber, den nye viden samt de personlige erfaringer man får sig i løbet af sin vektorperiode.
 
+
 Så hvad venter du på? Få noget kul på og hop ombord på Studiestarts-Ekspressen!

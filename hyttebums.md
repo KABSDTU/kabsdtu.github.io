@@ -8,3 +8,4 @@ Du kan og vil gerne lave mad på vOPtur den 13. til 15. november? Det er en ford
 Lyder det som noget for dig? Så send en ansøgning.
 
 Samtaler afholdes mandag, tirsdag og onsdag i uge 43.
+
