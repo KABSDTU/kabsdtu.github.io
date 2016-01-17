@@ -3,5 +3,5 @@ layout: default
 title: Studiestarten
 ---
 
-I Studiestarten på DTU ansættes der 30 vektorer fordelt 3 hold, som tager imod de ca. 200 russer, der starter til vinter. Hertil tilgår 7 KABS, som har vinterstart på deres retning og 6 KABS, som skal arrangere vinterrusture.
+I studiestarten ansættes ANTAL vektorer fordelt på ANTAL hold, som sammen tager imod de ca. 1700?? russer, som starter til sommer. Hertil tilgår 29 KABS, som står for sommerstarten for deres retning og arrangering af rusturer. KABS, Vektorer og Hyttebumser vil sammen skabe den bedst mulige studiestart for de kommende russer.
 

@@ -3,21 +3,14 @@ layout: default
 title: Tidsforbrug
 ---
 
-Det kræver tid at være vektor (mere i nogle perioder end andre). Man skal regne med et aftenmøde om ugen indtil eksamensperioden og et møde om ugen i efterfølgende 3-ugers. Som udgangspunkt er sommerferien fri, men der er rustur i sidste uge i august (surprise!) og inden da en forberedelsestur på omkring en uges tid. Man er selv med i planlægningen af denne tur.
+Det kræver tid at være vektor. Nogle perioder er mere tidskrævende end andre. Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning til OPtur samt i 3 ugers inden sommerferien. Som udgangspunkt vil julimåned være fri – dog man mere end velkommen til at joine KABS til fest på Roskilde Festival. Den fjerde uge i august er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt. Regn med at sætte tid af i august måned til de resterende forberedelser. 
+Vektorarbejdet er udover forberedelsesturerne meget fleksibelt – dette er bl.a. at planlægge diverse sociale events, holde styr på økonomien internt eller eksternt og hygge en masse om sine russer. Dog er der nogle datoer, hvor det vil være nødvendigt at deltage i: 
 
-Sammen med tværholdet og retningsholdet planlægges der to forberedelsesture, hvor rusturen og introturen planlægges. Længde og tidspunkt af disse kan variere, men regn med at sætte en uge af i sidst i sommerferien til forberedelsesturen til rusturen. 
- 
-
-Udover forberedelsesturene er vektorarbejdet er meget fleksibelt, dette arbejde kan bl.a. bestå af at arrangere forskellige sociale events, overskue økonomien på et vektorhold eller en rustur eller hygge med sine (søde) russer. Der er dog nogle datoer hvor er det nødvendigt at man deltager: 
- 
- - Undervisningsdagen (15. marts)
- - OPtur (27. til 31. marts)
- - Introdagen (21. august)
- - Rusturen (24. til 28. august og for weekend den 21. til 23.)
-
-Derudover er der førstehjælpsundervisning i foråret man skal deltage i, Der er dog flere datoer at kan vælge imellem. 
-
-Det skal siges, at den tid og det arbejde der lægges i vektorhvervet, ikke kan måles med de bekendtskaber, den nye viden samt de personlige erfaringer man får sig i løbet af sin vektorperiode.
-
-
-Så hvad venter du på? Få noget kul på og hop ombord på Studiestarts-Ekspressen!
+<li>Hej-Vektor-Fest (25. februar 2016)</li>
+<li>Optur (18. marts til 22. marts)</li>
+<li>Uddannelsesdage (2. april Og 17. april)</li>
+<li>Førstehjælp (??)</li>
+<li>Introdag (19. august 2016)</li>
+<li>Rustur (22. til 26. August)</li>
+<li>Første semester dag (d. 29. august)</li>
+Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektor periode. 

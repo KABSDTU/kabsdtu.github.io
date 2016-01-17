@@ -3,11 +3,9 @@ layout: default
 title: Hvad får jeg ud af det?
 ---
 
-Som vektor får man lov til at tage ansvar og selvstændigt have indflydelse på de projekter man arbejder med. Erfaringerne med at planlægge en rustur, introtur, introdag og alle de andre småting der kommer, kan uden tvivl beskrives som "erfaring med projektplanlægning". På rusturen og introturen skal der holdes styr på økonomi, materialer, logistik, tidsplaner og en masse andet, alt sammen noget som man som vektor får lov at være en stor del af.
-
-Udover erfaring får du som vektor uddannelse i talerteknik, førstehjælp, konflikthåndtering og mange andre personorienterede evner der hjælper dig med at være imødekommende overfor de nystartende og opmærksom på deres behov og problemer. Som vektor vil du deltage i vores uddannelsestur, vOPtur, vil der, udover det nævnte, vil der være forskellige oplæg som omhandler PF-opbygning, bestyrelsen, klubber du kan være en del af, S-Huset og andre relevante tilbud til de nystartende.
-
-Som vektor får du et godt netværk på DTU og i PF, både i form af KABS, Hyttebumser, med-vektorer og russer. Dette netværk er helt unikt, og kan vise sig at være yderst relevant i forbindelse med faglige og sociale projekter og evt. videre arbejde  i PF.
-
-Søger du som vektor, vil der fra den 26-28. oktober være ansættelsessamtaler. Vi regner derfor med, at du afsætter tid til din samtale her. Du vil få svar på din ansøgning den 29. oktober, hvor du, hvis du bliver valgt, om aftenen vil blive budt velkommen sammen med dine nye medvektorer.
+Du vil som vektor få lov til at tage ansvar og sætte dit præg på diverse projekter for studiestarten og din rustur. De erfaringer man får ved at planlægge en rustur, introtur, introdag, osv. vil kunne bruges fremadrettet. På rusturen og retningshytteturen skal der være styr på økonomi, tidsplaner, materialer og mm., som giver dig, som vektor, muligheden for et større ansvar. 
+Efter rusturen skal du som vektor stå til rådighed for dine russer mht. spørgsmål og problemer dertil. Du skal aftale et ugentligt kagemøde, hvor dine russer har rig mulighed for at stille dig spørgsmål og opfølgning på hvordan det går generelt. Du er ansvarlig for at hjælpe til med afholdelse af retningshyttetur, rusturs julefrokost og evt. andre arrangementer, der kan tages initiativ til. Din vektorperiode løber over to semestre. 
+Du vil som vektor blive uddannet i diverse talerteknikker, konflikthåndtering samt andre personorienterede evner. Disse er med til at give et godt grundlag og hjælpe dig til at være imødekommende overfor de nystartende og have fokus på deres behov. Derudover vil du som vektor opnå et meget større indblik i opbygning af PF, bestyrelsen og diverse klubber og lignende, som tilbyder en masse for de nystartende. 
+Søger du som vektor vil der være ansættelsessamtaler med den pågældende KABS på ønsket retning d. 22-24. februar, så det forventes at du afsætter tid til din samtale her. Du vil få svar på din ansøgning d. 25, hvor du vil blive budt velkommen om aftenen sammen med dine nye medvektorer. 
+Som vektor opbygger du et godt netværk på DTU og i PF. Et enestående netværk, som kan være relevant fremover ved sociale som faglige projekter og lignende i bl.a. PF.
 

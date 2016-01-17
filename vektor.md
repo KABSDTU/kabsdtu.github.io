@@ -3,10 +3,9 @@ layout: default
 title: Vektor
 ---
 
-Som vektor kommer du til at være en del af to hold: Et retningshold og et tværhold. Retningsholdet består af vektorer fra samme retning som dig og tværholdet af vektorer fra forskellige retninger. På retningsholdet planlægges den første dag for de ny studerende og andre retningsspecifikke arrangmenter, som I i fællesskab bliver enige om. På tværholdet står i for at planlægge og afholde rusturen.
+Du vil gerne være vektor, ik?
 
-Som vektor vil din første officielle opgave være, at modtage de nystartende på introdagen tirsdag den 26. januar. Det er her de nystartende møder deres medstuderende for første gang og også første gang du møder dit vektorhold, som du skal følge gennem semesteret. På denne dag bliver de studerende informeret om deres studie, de bliver vist rundt på campus osv.
+Som vektor kommer du til at være en del af to hold: et retningshold og et tværhold. Retningsholdet består af vektorer, som er vektor på samme retning som dig, og tværholdet består af vektorer for forskellige retninger. Disse hold er dem som du skal samarbejde i gennem din vektorperiode. På tværholdet står I for at planlægge og afholde rustur. I retningsholdet står man for at planlægge introdagen for de nye studerende, samt andre retningsfaglige arrangementer, som i – som retningsvektorer - beslutter jer for at afholde. 
 
-Onsdag den 27. januar tager alle vektorene med deres russer på rustur. Ud over at stå for planlægningen af rusturen og de tilhørende aktiviteter, skal du som vektor på rusturen have et blandet hold russer fra forskellige retninger.
-Efter rusturen står du som vektor til rådighed for dine russer i forbindelse med spørgsmål eller problemer. Du vil derfor, i samarbejde med dine russer, aftale et ugentlig “kagemøde”, hvor evt. spørgsmål kan blive stillet. Som vektor står du også ansvarlig for at hjælpe med afholdning af hyttetur med retningen, julefrokost med tværholdet og evt.  andre arrangmenter som der bliver taget initiativ til. På denne måde varer din vektorperiode over to semestre.
+Din første officielle opgave som vektor er, at modtage de nystartende på introdagen. Det er her, de nye studerende møder deres medstuderende for første gang, samt du introduceres for dit vektorhold, som du skal følge gennem semestret. Det er altså her de nye studerende skaber et førstehåndsindtryk af DTU, så de bliver på denne dag introduceret til deres studie, campus og meget mere.
 
