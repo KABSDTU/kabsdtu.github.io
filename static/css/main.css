@@ -57,7 +57,7 @@ header aside {
 .header-container {
   position: fixed;
   background-color: rgba(30,30,30,0.8);
-  width: 350px;
+  width: 250px;
   height: 100%;
 }
 
