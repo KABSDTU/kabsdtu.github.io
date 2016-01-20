@@ -6,7 +6,7 @@ body {
 
 #container {
   margin: auto;
-  font-family: Roboto Condensed;
+  font-family: 'Droid Serif', serif;;
   color: #dbdee3;
   background-image: url("/static/img/ttrain.jpg");
   background-size: cover;
@@ -37,8 +37,8 @@ h1, h2, h3, h4 {
 }
 
 article a {
-  color: #59f;
-  border-bottom: 1px solid #59f;
+  color: #FFBF00;
+  border-bottom: 1px solid #FFBF00;
   text-decoration: none;
 }
 
@@ -94,8 +94,8 @@ nav ul li a:hover {
 
 h1.title {
   color: rgba(0,0,0,0);
-  height: 100px;
-  background-image: url("/static/img/logo-fyldt-skinne.svg");
+  height: 150px;
+  background-image: url("/static/img/logo-skygge.svg");
   background-size: contain;
   background-repeat: no-repeat;
   margin: 20px 20px 0;
@@ -127,7 +127,7 @@ h1.title {
 }
 
 .new {
-  color: #ff2929;
+  color: #FFBF00;
   padding-left: 1em;
   font-size: 90%;
 }
@@ -186,7 +186,7 @@ Form
 */
 
 input, textarea, select, button { 
-  font-family: "Roboto Condensed";
+  font-family: 'Droid Serif', serif;
 }
 
 input, textarea {
