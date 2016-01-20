@@ -1,7 +1,7 @@
 /* Intentionally left blank */
 
 body {
-  background-color: #6A0888;
+  background-color: #DF0101;
 }
 
 #container {
@@ -87,7 +87,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #ff2929;
+  background-color: #FFBF00;
   color: #fff;
   box-shadow: 0 2px 0 rgba(0,0,0,0.1);
 }
