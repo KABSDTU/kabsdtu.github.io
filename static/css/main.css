@@ -1,12 +1,12 @@
 /* Intentionally left blank */
 
 body {
-  background-color: #DF0101;
+  background-color: rgba(145,0,165,1);
 }
 
 #container {
   margin: auto;
-  font-family: 'Droid Serif', serif;;
+  font-family: 'Roboto Condensed';
   color: #dbdee3;
   background-image: url("/static/img/ttrain.jpg");
   background-size: cover;
@@ -37,8 +37,8 @@ h1, h2, h3, h4 {
 }
 
 article a {
-  color: #FFBF00;
-  border-bottom: 1px solid #FFBF00;
+  color: rgba(0,150,0,1);
+  border-bottom: 1px solid rgba(0,150,0,1);
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #FFBF00;
+  background-color: rgba(0,150,0,1);
   color: #fff;
   box-shadow: 0 2px 0 rgba(0,0,0,0.1);
 }
@@ -95,7 +95,7 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0,0,0,0);
   height: 180px;
-  background-image: url("/static/img/logo-skygge.svg");
+  background-image: url("/static/img/logo-aubergine-clean.svg");
   background-size: contain;
   background-repeat: no-repeat;
   margin: 20px 20px 0;
@@ -127,7 +127,7 @@ h1.title {
 }
 
 .new {
-  color: #FFBF00;
+  color: rgba(0,150,0,1);
   padding-left: 1em;
   font-size: 90%;
 }
@@ -186,7 +186,7 @@ Form
 */
 
 input, textarea, select, button { 
-  font-family: 'Droid Serif', serif;
+  font-family: 'Roboto Condensed';
 }
 
 input, textarea {

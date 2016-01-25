@@ -2,9 +2,4 @@
 layout: default
 title: KABS
 ---
-<h1>KABS16 holder øje med dig!</h1>
-
-<div id="poster-image" style="background-image: url('/static/img/kabs.jpg');">
-</div>
-
-<p>Vi ved, hvad du laver!</p>
+<p>Mere om KABS16 kommer snart! Følg med den 3. februar fra kl. 12.</p>
