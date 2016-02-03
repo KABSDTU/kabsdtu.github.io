@@ -6,7 +6,7 @@ body {
 
 #container {
   margin: auto;
-  font-family: 'Roboto Condensed';
+  font-family: 'Droid Serif', serif;
   color: #dbdee3;
   background-image: url("/static/img/ttrain.jpg");
   background-size: cover;
