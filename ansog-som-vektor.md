@@ -4,5 +4,4 @@ title: Ansøg som Vektor
 ---
 
 <p>Ansøgningen til Vektor er desværre ikke åben endnu. Men fortvivl ikke, den åbner allerede d. 3. feb 2016!</p>
-
 <p>Ansøgningen til Vektor sker ved at udfylde og sende <a href="https://docs.google.com/forms/d/1ZH5R0FioM0zEHXnFITPUXdYUZjtITj2yAmN6iOI7K7w/edit?usp=drive_web">ansøgningsformularen</a>.</p>
