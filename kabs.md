@@ -10,8 +10,8 @@ title: KABS
 <table border="1">
 <tr>
 <td><style="background-color:(214,36,36,1)"><b>Ansvarspost</b></td>
-<td><style="background-color:(214,36,36,1)"></font><b>Ansvarlig(e) KABS</b></td>
-<td><style="background-color:(214,36,36,1)"></font><b>Kontaktinfo</b></td>
+<td><style="background-color:(214,36,36,1)"><b>Ansvarlig(e) KABS</b></td>
+<td><style="background-color:(214,36,36,1)"><b>Kontaktinfo</b></td>
 </tr>
 <tr>
 <td>AnlægsKABS</td>
