@@ -22,7 +22,7 @@ title: KABS
 <tr>
 <td>BadeKABS</td>
 <td>Julie Franck</td>
-<td></td>
+<td>julie.r.franck@hotmail.com</td>
 </tr>
 <tr>
 <td>FlaskeKABS</td>
