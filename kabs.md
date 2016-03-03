@@ -20,7 +20,7 @@ title: KABS
 </tr>
 <tr>
 <td>BadeKABS</td>
-<td>Julie Franck, Casper, DT, Lisa, Linnet</td>
+<td>Julie Franck</td>
 <td></td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ title: KABS
 <tr>
 <td>Fredagsbarskontakt</td>
 <td>Lena Alstrøm</td>
-<td></td>
+<td>s143880@student.dtu.dk</td>
 </tr>
 <tr>
 <td>KagemødeKABS</td>
