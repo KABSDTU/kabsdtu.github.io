@@ -219,6 +219,24 @@ form ul {
   list-style: none;
 }
 
+table {
+    height: 30px;
+    border-collapse: collapse;
+}
+
+tr:hover {background-color: rgba(255,132,0,1)}
+
+th {
+    background-color:(214,36,36,1);
+    color: white;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+
 @media screen and (max-width:1000px) {
 
   
