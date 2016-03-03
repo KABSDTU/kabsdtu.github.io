@@ -4,6 +4,7 @@ title: KABS
 ---
 
 <p>KABS står for Koordinator af Bachelor Studiestarten. Der er 29 KABS, som hver har en retning og en rustur, hvoraf to af rusturene er henholdsvis almindelig og alkoholfri weekendtur.</p>
+<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os over vores mail: kabsdtu@gmail.com</p>
 
 <p>
 <div style="overflow-x:auto;">
@@ -16,7 +17,7 @@ title: KABS
 <tr>
 <td>AnlægsKABS</td>
 <td>Sebastian Linnet, Mads Lind</td>
-<td></td>
+<td><a href="https://www.facebook.com/sebastian.linnet">Facebook</a> (Linnet), </td>
 </tr>
 <tr>
 <td>BadeKABS</td>
