@@ -9,9 +9,9 @@ title: KABS
 <div style="overflow-x:auto;">
 <table border="1">
 <tr>
-<td><b>Ansvarspost</b></td>
-<td><b>Ansvarlig(e) KABS</b></td>
-<td><b>Kontaktinfo</b></td>
+<td><font style="background-color:(214,36,36,1)"><b>Ansvarspost</b></td>
+<td><font style="background-color:(214,36,36,1)"></font><b>Ansvarlig(e) KABS</b></td>
+<td><font style="background-color:(214,36,36,1)"></font><b>Kontaktinfo</b></td>
 </tr>
 <tr>
 <td>AnlægsKABS</td>
