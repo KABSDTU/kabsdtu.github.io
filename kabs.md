@@ -8,11 +8,11 @@ title: KABS
 <p>
 <div style="overflow-x:auto;">
 <table border="1">
-<th>
+<tr>
 <td><b>Ansvarspost</b></td>
 <td><b>Ansvarlig(e) KABS</b></td>
 <td><b>Kontaktinfo</b></td>
-</th>
+</tr>
 <tr>
 <td>AnlægsKABS</td>
 <td>Sebastian Linnet, Mads Lind</td>
