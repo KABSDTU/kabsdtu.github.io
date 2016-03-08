@@ -17,7 +17,7 @@ title: KABS
 <tr>
 <td>AnlægsKABS</td>
 <td>Sebastian Linnet, Mads Lind</td>
-<td><a href="https://www.facebook.com/sebastian.linnet">Facebook</a> (Linnet), </td>
+<td>anlaeg.kabs@gmail.com</td>
 </tr>
 <tr>
 <td>BadeKABS</td>
@@ -27,7 +27,7 @@ title: KABS
 <tr>
 <td>FlaskeKABS</td>
 <td>Erik Vibe-Hastrup, Daniel Thage</td>
-<td></td>
+<td>Daniel: Daniel.Thage@gmail.com, +45 40551735</td>
 </tr>
 <tr>
 <td>Fredagsbarskontakt</td>
@@ -37,22 +37,22 @@ title: KABS
 <tr>
 <td>KagemødeKABS</td>
 <td>Jeppe Rung, Mathias Tang</td>
-<td></td>
+<td>Jeppe: <a href="https://www.facebook.com/jeppe.rung">Facebook</a>, Tang: s145077@student.dtu.dk</td>
 </tr>
 <tr>
 <td>MødeKABS</td>
 <td>Naja Nielsen</td>
-<td></td>
+<td>s134373@student.dtu.dk</td>
 </tr>
 <tr>
 <td>PR-KABS</td>
-<td>Sofie Berglykke</td>
-<td></td>
+<td>Sofie Svovlgaard Berglykke</td>
+<td>sofiie48@hotmail.com</td>
 </tr>
 <tr>
 <td>Økonomiansvarlig</td>
 <td>Mathias Tang</td>
-<td></td>
+<td>s145077@student.dtu.dk</td>
 </tr>
 </table>
 </div>
