@@ -27,7 +27,7 @@ title: KABS
 <tr>
 <td>FlaskeKABS</td>
 <td>Erik Vibe-Hastrup, Daniel Thage</td>
-<td>Daniel: Daniel.Thage@gmail.com, +45 40551735</td>
+<td>oel.kabs@gmail.com</td>
 </tr>
 <tr>
 <td>Fredagsbarskontakt</td>
@@ -48,6 +48,11 @@ title: KABS
 <td>PR-KABS</td>
 <td>Sofie Svovlgaard Berglykke</td>
 <td>sofiie48@hotmail.com</td>
+</tr>
+<tr>
+<td>TillidsKABS</td>
+<td>Anna Deleuran og Mads Lind</td>
+<td></td>
 </tr>
 <tr>
 <td>Økonomiansvarlig</td>
