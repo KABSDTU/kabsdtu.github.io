@@ -2,8 +2,8 @@
 layout: default
 title: Ansøg som Hyttebums
 ---
-<h1>Ansøgningen til hyttebums er åben!</h1>
+<h1>Ansøgningen til hyttebums er lukket!</h1>
 
-<p>Brænder du også for at lave mad på årets sommerrusture? Eller brænder du bare på?
-Du kan søge lige nu og indtil d. 8. april kl. 23.59 ved at udfylde <a href="https://docs.google.com/forms/d/1q19dMxsm9HDs8IfbDhoPj1mJXiSDriOt8hCIGaTN8WM/viewform">ansøgningsskemaet</a>. Find flere informationer omkring det at være <a href="https://blivawesome.dk/hyttebums.html">hyttebums</a>.
+<p>Brænder du også for at lave mad på årets vinterrusture? Eller brænder du bare på?
+Find flere informationer omkring det at være <a href="https://blivawesome.dk/hyttebums.html">hyttebums</a>, og hold dig opdateret om, hvornår tilmeldingen åbner på siden her.
 </p>
