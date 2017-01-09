@@ -13,13 +13,13 @@ title: Tidsforbrug
 
 <p>Vektorarbejdet er udover forberedelsesturene meget fleksibelt – dette er bl.a. at planlægge diverse sociale events, holde styr på økonomien internt eller eksternt og hygge en masse om sine russer. Dog er der nogle datoer, hvor det vil være nødvendigt at deltage i: </p>
 
-<li>Hej-Vektor-Fest (27. oktober 2016)</li>
-<li>Uddannelsesdage (30. oktober og 7. januar)</li>
-<li>vOptur (11. til 13. november)</li>
-<li>Førstehjælp (??)</li>
-<li>Introdag (24. januar 2016)</li>
-<li>Rustur (25. til 28. januar)</li>
-<li>Første semester dag (d. 30. januar)</li>
-<li>Vinter joint (10. februar)</li>
+<li>Hej-Vektor-Fest (23. Februar 2017)</li>
+<li>Uddannelsesdage (Dato kommer!)</li>
+<li>Optur (7. til 12. April 2017)</li>
+<li>Førstehjælp (Dato på vej!)</li>
+<li>Introdag (25. August 2017)</li>
+<li>Rustur (28. August til 1. September 2017)</li>
+<li>Første semester dag (d. 4. September)</li>
+<li>Rusjoint (Dato lige om hjørnet!)</li>
 
 <p>Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektor periode. </p>

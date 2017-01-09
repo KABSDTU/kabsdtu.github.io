@@ -26,7 +26,7 @@ title: KABS
 </tr>
 <tr>
 <td>FlaskeKABS</td>
-<td>Erik Vibe-Hastrup, Daniel Thage</td>
+<td>David Madsen, Oscar Vist Salo</td>
 <td>oel.kabs@gmail.com</td>
 </tr>
 <tr>
@@ -56,8 +56,8 @@ title: KABS
 </tr>
 <tr>
 <td>Økonomiansvarlig</td>
-<td>Mathias Tang</td>
-<td>s145077@student.dtu.dk</td>
+<td>Oscar Vist Salo</td>
+<td></td>
 </tr>
 </table>
 </div>
