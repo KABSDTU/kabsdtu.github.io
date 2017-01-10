@@ -2,7 +2,7 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1>Ansøgningen til Vektor er lukket!</h1>
+<h1>Ansøgningen til Vektor åbner snart!</h1>
 
 <p>Ansøgningen til Vektor i sommerstarten 2017 åbner lige om lidt! Hold øje med denne side eller spørg en KABS for mere info.
 </p>
