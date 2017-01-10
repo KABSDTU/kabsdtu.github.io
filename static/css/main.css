@@ -122,8 +122,8 @@ h1.title {
 }
 
 .header-container:hover aside ul li a {
-  color: #59f;
-  border-bottom: 1px solid #59f;
+  color: #ffcc00;
+  border-bottom: 1px solid #ffcc00;
 }
 
 .new {
@@ -224,7 +224,7 @@ table {
 }
 
 th {
-    background-color:(214,36,36,1);
+    background-color:(222,154,29,1);
     color: white;
 }
 
