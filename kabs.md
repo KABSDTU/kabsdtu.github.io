@@ -25,6 +25,7 @@ title: KABS
   <li>Jesper Kisum - C. Geofysik og rumteknologi</li>
   <li>Johanne Sall - C. Softwareteknologi</li>
   <li>Josefine Maribo Schuler - D. Produktion og D. Proces og Innovation</li>
+  <li>Karen Scharling Dyhr - C. Vand, bioressourcer og miljømanagement</li>
   <li>Kristian Brink - D. Bygningsdesign</li>
   <li>Laura Kleist Elmlund Kohl - C. Teknisk Biomedicin</li>
   <li>Marianne Hecht - C. Kvantitativ Biologi og Sygdomsmodellering</li>
