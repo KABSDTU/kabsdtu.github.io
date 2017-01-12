@@ -17,7 +17,7 @@ title: KABS
   <li>Christoffer Voigt - C. Netværksteknologi og IT</li>
   <li>Daniel Styrbæk - C. Byggeteknologi</li>
   <li>Daniel Voss - D. Byggeri og infrastuktur</li>
-  <li>David Madsen - D. Fødevaresikkerhed og kvalitet<li>
+  <li>David Madsen - D. Fødevaresikkerhed og kvalitet</li>
   <li>Fanny Timian - C. Design og Innovation</li>
   <li>Helene Swartz - D. Maskinteknik</li>
   <li>Jacob Grove - D. Trafik og Transport (D. Mobilitet, Transport og Logistik) </li>
@@ -36,5 +36,4 @@ title: KABS
   <li>Sophie Eg Jensen - D. Eksport og Teknologi</li>
   <li>Thomas Røpke - C. Medicin og Teknologi</li>
   <li>Tor Noema Nørgaard - C. Bioteknologi</li>
-
 </ul>
