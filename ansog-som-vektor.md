@@ -2,9 +2,11 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1>Ansøgningen til Vektor åbner snart!</h1>
+<h1>Ansøgningen til Vektor17 er nu åben!</h1>
 
-<p>Ansøgningen til Vektor i sommerstarten 2017 åbner lige om lidt! Hold øje med denne side eller spørg en KABS for mere info.
+<p>Så er det nu du skal ansøge til at blive Vektor17! Ansøgningen lukker den 17. Februar.
 </p>
+
+<a href="https://goo.gl/forms/3Nh3jj5HiL0Tpyvj1">Ansøg nu!</a>
 
 <p>Vil du vide mere om det at være vektor kan du læse mere under fanen <a href="https://blivawesome.dk/vektor.html">Vektor</a>.</p>
