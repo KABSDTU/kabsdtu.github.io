@@ -14,7 +14,7 @@ title: Tidsforbrug
 <p>Vektorarbejdet er udover forberedelsesturene meget fleksibelt – dette er bl.a. at planlægge diverse sociale events, holde styr på økonomien internt eller eksternt og hygge en masse om sine russer. Dog er der nogle datoer, hvor det vil være nødvendigt at deltage i: </p>
 
 <li>Hej-Vektor-Fest (23. Februar 2017)</li>
-<li>Uddannelsesdage (Dato kommer!)</li>
+<li>Uddannelsesdage (19. Marts og 6. Maj)</li>
 <li>Optur (7. til 12. April 2017)</li>
 <li>Førstehjælp (Dato på vej!)</li>
 <li>Introdag (25. August 2017)</li>
