@@ -7,7 +7,7 @@ title: Tidsforbrug
 <div id="poster-image" style="background-image: url('/static/img/t2.jpg');">
 </div>
 
-<p>Det kræver tid at være vektor. Nogle perioder er mere tidskrævende end andre. Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning til vOPtur samt i 3 ugers inden vinterferien. Den fjerde uge i januar er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt. </p>
+<p>Det kræver tid at være vektor. Nogle perioder er mere tidskrævende end andre. Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning op til OPtur samt i slutningen af sommerferien. Den sidste uge i August er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt. </p>
 
 <p>Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ansvarlig for din ønskede retning.</p> 
 
