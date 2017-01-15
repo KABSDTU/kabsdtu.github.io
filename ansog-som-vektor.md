@@ -8,6 +8,6 @@ title: Ansøg som Vektor
 </p>
 
 
-<h1><a href="https://goo.gl/forms/3Nh3jj5HiL0Tpyvj1">Ansøg nu!</a></h1>
+<h1><a href="https://goo.gl/forms/3Nh3jj5HiL0Tpyvj1"><img src="static/img/button_ansoeg-nu.png"/></a></h1>
 
 <p>Vil du vide mere om det at være vektor kan du læse mere under fanen <a href="https://blivawesome.dk/vektor.html">Vektor</a>.</p>
