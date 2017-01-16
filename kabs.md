@@ -16,7 +16,7 @@ title: KABS
   <li>Christian Brabrand - C. Produktion og Konstruktion</li>
   <li>Christoffer Voigt - C. Netværksteknologi og IT</li>
   <li>Daniel Styrbæk - C. Byggeteknologi</li>
-  <li>Daniel Voss - D. Byggeri og infrastuktur</li>
+  <li>Daniel Voss - D. Byggeri og infrastuktur og D. Arktisk Teknologi</li>
   <li>David Madsen - D. Fødevaresikkerhed og kvalitet</li>
   <li>Fanny Timian - C. Design og Innovation</li>
   <li>Helene Swartz - D. Maskinteknik</li>
