@@ -1,0 +1,4 @@
+pygments: true
+permalink: '/:title'
+_exclude: [vendor]
+markdown: kramdown

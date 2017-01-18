@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="673.22833"
+   id="svg3539"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kabs16-logo-skygge.svg">
+  <defs
+     id="defs3541">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3540"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3542"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3544"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3546"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset3548"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3550"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3552"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3554"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3556"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3558"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset3560"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3562"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3296"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3298"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3300"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3302"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3304"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3306"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3564" />
+      <feFlood
+         id="feFlood3566"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite3568"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3570"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset3572"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3574"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3576"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3578"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3580"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3582"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset3584"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3586"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3588"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3590"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3592"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3594"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset3596"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3598"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3244"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3246"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3248"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3250"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3252"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3254"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3220"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3222"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3224"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3226"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3228"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3230"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3208"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3210"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3212"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3214"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3216"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3218"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3600"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3602"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3604"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3606"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset3608"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3610"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4428"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4430"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4432"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4434"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset4436"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4438"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3028"
+       inkscape:label="Inner Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable glow inside"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood3030"
+         flood-opacity="0.5"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite3032"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3034"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3036"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3038"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3052" />
+      <feFlood
+         id="feFlood3054"
+         flood-opacity="0.5"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite3056"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3058"
+         stdDeviation="50"
+         result="blur" />
+      <feOffset
+         id="feOffset3060"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3062"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3078" />
+      <feGaussianBlur
+         id="feGaussianBlur3080"
+         stdDeviation="10"
+         result="result8"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite3082"
+         in2="result8"
+         result="result6"
+         in="fbSourceGraphic"
+         operator="in" />
+      <feComposite
+         id="feComposite3084"
+         in2="result6"
+         operator="in"
+         result="result11" />
+      <feFlood
+         id="feFlood3086"
+         result="result10"
+         in="result11"
+         flood-opacity="1"
+         flood-color="rgb(255,222,85)" />
+      <feBlend
+         id="feBlend3088"
+         in2="result10"
+         mode="normal"
+         in="result11"
+         result="result12" />
+      <feComposite
+         id="feComposite3090"
+         in2="fbSourceGraphic"
+         result="result2"
+         operator="in"
+         in="result12" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415836"
+     inkscape:cx="490"
+     inkscape:cy="380"
+     inkscape:current-layer="layer1"
+     id="namedview3543"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="mm" />
+  <metadata
+     id="metadata3545">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-70.866155)">
+    <path
+       style="fill:#ff8400;fill-opacity:1;stroke:none;filter:url(#filter3028)"
+       d="m 371.92911,616.11976 c 0,0 112.8937,65.3079 142.2165,10.8846 0,0 -55.7135,9.5241 -20.5259,-20.4086 35.1876,-29.9329 35.1876,-29.9329 35.1876,-29.9329 0,0 60.1121,-32.654 41.0521,-99.3223 0,0 -2.9324,-14.9665 -26.3907,-21.7694 0,0 20.5261,20.4088 4.3985,35.3751 0,0 -15.6112,13.5255 -29.323,-24.4904 -11.6713,-32.3588 0,-50.3415 0,-50.3415 l 0,0 c 0,0 27.8569,-38.0963 -19.06,-73.4714 0,0 14.6614,14.9663 -13.1952,51.7021 0,0 -35.1876,51.702 -52.7814,-17.6876 0,0 2.9322,-50.3415 32.2552,-63.9472 0,0 24.9245,-17.6876 13.1953,-34.0146 -11.7291,-16.327 -11.7291,-14.9664 -11.7291,-14.9664 0,0 10.2631,25.8509 -33.7214,38.0962 0,0 -76.2399,38.0963 -57.1799,81.6349 0,0 27.8568,84.3561 -16.1277,73.4714 0,0 -29.323,-6.8029 -21.9923,-51.7021 0,0 -10.2631,46.2598 -21.9921,59.8656 0,0 -46.9169,87.0771 55.7135,151.0245 z"
+       id="path30950-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccccsccccccsccccccc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <text
+       xml:space="preserve"
+       style="font-size:166.3434906px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4428);font-family:Kokila;-inkscape-font-specification:Kokila Bold"
+       x="96.269608"
+       y="275.99313"
+       id="text3845-4-3-6-20"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4241169,0,0,1.3871191,0.58408468,115.37613)"><tspan
+         sodipodi:role="line"
+         id="tspan3847-0-22-18-0"
+         x="96.269608"
+         y="275.99313"
+         style="font-size:166.3434906px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke:none;font-family:Kokila;-inkscape-font-specification:Kokila Bold">KABS 16 </tspan></text>
+    <path
+       style="fill:#d62424;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3600)"
+       d="m 120.41501,492.77806 c 0,0 14.97279,-7.3922 35.5974,-7.9898 20.62459,-0.5974 50.10289,-19.5371 50.10289,-19.5371 0,0 19.6103,-22.6578 18.9608,-32.7813 -0.6496,-10.1235 -3.2248,-12.7403 -3.2248,-12.7403 0,0 -4.3301,-8.0803 -23.3823,-7.9879 17.7076,22.7255 -3.8397,33.9517 -3.8397,33.9517 0,0 -22.22,22.6351 -31.15339,27.2266 -8.9334,4.5915 -25.09141,2.8932 -25.09141,2.8932 z"
+       id="path3905-5-6-1-2-8-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:#d62424;fill-opacity:1;stroke:#000000;stroke-width:3.16236639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 75.623676,347.62399 c 0,0 5.268893,-10.16339 10.089358,-14.13223 0,0 25.864906,-14.35825 39.125676,-18.61746 l 44.4267,24.45459 z"
+       id="path3913-7-1-6-45-9-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#d62424;fill-opacity:1;stroke:#000000;stroke-width:3.16236639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 78.498445,366.06273 -3.075052,-17.1645 c 0,0 25.912857,-18.00427 38.068447,-21.90861 l 18.54577,12.19536 22.4698,20.61598 z"
+       id="path3909-1-4-8-5-2-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#d62424;fill-opacity:1;stroke:#000000;stroke-width:3.16236639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 118.0882,326.11851 7.47924,-10.8736 30.60548,15.58286 -18.97812,20.61737 z"
+       id="path3911-1-5-2-5-17-7-8-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#d62424;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3208)"
+       d="m 136.9375,474.69056 c 0,0 -19.13199,-13.6582 -8.0336,-43.9141 0,0 15.6108,-16.2074 39.27781,-10.0329 23.66709,6.1742 35.29009,15.3561 35.29009,15.3561 0,0 -24.4304,31.9553 -40.94139,37.2586 -16.51121,5.3033 -25.59291,1.3323 -25.59291,1.3323 z"
+       id="path3907-2-3-7-1-9-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:#ff8400;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3220)"
+       d="m 168.97791,430.39696 14.44849,12.5797 13.047,0.1144 c 0,0 11.8621,-8.9763 12.181,-13.3836 0.3191,-4.4077 -7.6232,-15.6327 -7.6232,-15.6327 l -14.4829,-9.9852 -13.6168,3.5127 z"
+       id="path3915-7-2-6-1-5-9-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3244)"
+       d="m 155.16151,475.85666 c 0,0 -22.24271,-15.2419 -17.61671,-49.4461 8.1473,-4.3389 9.21841,-4.4049 9.21841,-4.4049 0,0 -3.53251,10.6056 28.90889,44.0971"
+       id="path4112-2-1-5-4-13-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3588)"
+       d="m 114.52571,605.87159 c 0,0 47.8654,-73.6663 206.1261,-40.0655 160.4498,34.0655 173.4611,31.199 173.4611,31.199 0,0 163.0277,4.8665 239.6751,-60.8313 l 11.558,-6.0832 -15.8162,-15.8161 0,0 c 0,0 -65.6977,66.9144 -231.1587,63.2646 l -181.7117,-32.7041 c -60.4448,-13.3089 -125.94241,-27.023 -205.1752,35.1373"
+       id="path3873-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccccccc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:#ff8400;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3576)"
+       d="m 733.90811,509.15486 8.4754,19.235 39.5917,-31.4513 c 0,0 6.9706,0.9915 5.4371,-5.5463 -1.5335,-6.5376 -3.0752,-9.7309 -3.0752,-9.7309 0,0 -6.1896,-3.5752 -10.8497,1.0592 -4.6602,4.6347 -39.5793,26.4343 -39.5793,26.4343 z"
+       id="path4190-8-2-5-4-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88750005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3296)"
+       d="m 771.65961,484.06016 c 0,0 10.0725,-0.1475 10.8331,5.6299"
+       id="path4192-7-1-1-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:#ff8400;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3552)"
+       d="m 719.60271,552.83046 25.6175,-20.0557 c 0,0 0.051,-20.9033 -12.3359,-24.7093 l -22.5072,15.5723 11.5917,12.2431 z"
+       id="path4188-9-7-7-07-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+    <path
+       style="fill:#ff8400;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3540)"
+       d="m 705.37961,527.46926 c 0,0 17.8203,-0.068 11.5609,24.7851 l 2.3106,5.6259 c 0,0 8.5391,-6.6851 5.4844,-24.7774 0,0 -5.396,-11.1762 -12.3606,-14.6757 z"
+       id="path4186-2-6-6-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\MetteBBrock\Dropbox\DTU\KABS 16\kabs-stor-logo-ny-skygge.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4054964,0,0,1.4054964,-100.93226,-239.35755)" />
+  </g>
+</svg>
