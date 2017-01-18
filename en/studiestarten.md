@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Studiestarten
+title: The Study Start
 ---
-<h1>Studiestarten</h1>
+<h1>The Study Start</h1>
 
 <div id="poster-image" style="background-image: url('/static/img/t6.jpg');">
 </div>
 
-<p>I studiestarten ansættes ca. 220 vektorer fordelt på 29 hold, som sammen tager imod de nye russer, som starter til August. Dette koordineres af 29 KABS, som står for uddannelsesdage, OPTur, retninger og meget andet i forbindelse med studiestarten. KABS, vektorer og hyttebumser skaber i fællesskab den bedst mulige studiestart for de kommende russer.</p>
+<p>The study start hires around 220 vectors divided into 29 groups. Together they welcome the russes that begin in August. This is coordinated by 29 KABS, that takes care of educational days, OPtur, study programmes and much more related to the study start. KABS, vectors and hyttebumser jointly creates the best possible study start for the russes.
+</p>
 
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Tidsforbrug
+title: Time consumption
 ---
-<h1>Tidsforbrug som Vektor</h1>
+<h1>Time spent on being a vector</h1>
 
 <div id="poster-image" style="background-image: url('/static/img/t2.jpg');">
 </div>
 
-<p>Det kræver tid at være vektor. Nogle perioder er mere tidskrævende end andre. Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning op til OPtur samt i slutningen af sommerferien. Den sidste uge i August er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt. </p>
+<p>It takes time to be a vector. Some periods are more demanding than others. As a minimum, you should count on one evening meeting per week and a bigger effort to make a costume for OPtur, as well as by the end of the summer break. The last week in August is the rus trip, which is preceded by a preparation trip, that each group has to plan.</p>
 
-<p>Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ansvarlig for din ønskede retning.</p> 
+<p>If you apply as a vector, there will be an interview with the KABS that is responsible for the study programme you applied for.</p> 
 
-<p>Vektorarbejdet er udover forberedelsesturene meget fleksibelt – dette er bl.a. at planlægge diverse sociale events, holde styr på økonomien internt eller eksternt og hygge en masse om sine russer. Dog er der nogle datoer, hvor det vil være nødvendigt at deltage i: </p>
+<p>The vector work is very flexible except for the preparation trips. This work includes the planning of various social events, keeping a budget internally or externally and to make sure your russes are satisfied. However, there are some dates, that requires participation to be a vector: </p>
 
-<li>Hej-Vektor-Fest (23. Februar 2017)</li>
-<li>Uddannelsesdage (19. Marts og 6. Maj)</li>
-<li>Optur (7. til 12. April 2017)</li>
-<li>Førstehjælp (Dato på vej!)</li>
-<li>Introdag (25. August 2017)</li>
-<li>Rustur (28. August til 1. September 2017)</li>
-<li>Første semester dag (d. 4. September)</li>
-<li>Rusjoint (Dato lige om hjørnet!)</li>
+<li>Hello-Vector-Party (23rd of February, 2017)</li>
+<li>Educational days (19th of March and 6th of May)</li>
+<li>OPtur (7th through 11th of April 2017)</li>
+<li>First Aid (Dato on the way!)</li>
+<li>Intro-day (25th of August 2017)</li>
+<li>Rus trip (28th of August through the 1st of September 2017)</li>
+<li>First day of the semester (4th of September)</li>
+<li>Rusjoint (Date on the way!)</li>
 
-<p>Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektor periode. </p>
+<p>The time and effort that is put into the vector work can’t be measured against the friendship and the personal experience that is gained during the vector period.</p>
