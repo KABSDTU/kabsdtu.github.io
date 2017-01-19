@@ -1,4 +1,4 @@
 pygments: true
-permalink: '/:title'
+permalink: '/en/:title'
 _exclude: [vendor]
 markdown: kramdown
