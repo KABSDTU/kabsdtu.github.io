@@ -15,7 +15,7 @@ title: Tidsforbrug
 
 <li>Hej-Vektor-Fest (23. Februar 2017)</li>
 <li>Uddannelsesdage (19. Marts og 6. Maj)</li>
-<li>Optur (7. til 12. April 2017)</li>
+<li>Optur (7. til 11. April 2017)</li>
 <li>Førstehjælp (Dato på vej!)</li>
 <li>Introdag (25. August 2017)</li>
 <li>Rustur (28. August til 1. September 2017)</li>
