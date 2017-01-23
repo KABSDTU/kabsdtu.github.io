@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: en
 title: Hvad am I getting out of it?
 ---
 <h1>What does it actually do for me?</h1>
