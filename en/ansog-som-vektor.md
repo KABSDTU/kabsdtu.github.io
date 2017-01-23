@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: en
 title: Apply as a Vector
 ---
 <h1>The application for Vector17 is now open!</h1>
