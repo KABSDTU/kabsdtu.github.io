@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: en
 title: Time consumption
 ---
 <h1>Time spent on being a vector</h1>
