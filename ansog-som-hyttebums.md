@@ -8,3 +8,4 @@ title: Ansøg som Hyttebums
 
 <h1><a href="https://goo.gl/forms/3PtMrAIrtyizOGIx2">Ansøg nu!</a></h1>
 
+<p>Deadline for ansøgning er den 6. februar klokken 20:17!!!</p>
