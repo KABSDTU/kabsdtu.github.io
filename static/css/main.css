@@ -1,7 +1,7 @@
 /* Intentionally left blank */
 
 body {
-  background-color: rgba(255,204,0,1);
+  background-color: rgba(1,165,45,1);
 }
 
 #container {
@@ -24,7 +24,7 @@ article {
   position: relative;
   top: 2em;
   width: 600px;
-  background-color: rgba(255,204,0,0.8);
+  background-color: rgba(1,165,45,0.8);
   left: 300px;
   padding: 2em;
   z-index: 10;
@@ -37,8 +37,8 @@ h1, h2, h3, h4 {
 }
 
 article a {
-  color: rgba(255,132,0,1);
-  border-bottom: 1px solid rgba(255,132,0,1);
+  color: rgba(1,165,45,1);
+  border-bottom: 1px solid rgba(0,168,16,1);
   text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ header aside {
 
 .header-container {
   position: fixed;
-  background-color: rgba(255,204,0,0.8);
+  background-color: rgba(2,221,31,0.8);
   width: 250px;
   height: 100%;
 }
@@ -87,7 +87,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgba(255,132,0,1);
+  background-color: rgba(0,204,27,1);
   color: #fff;
   box-shadow: 0 2px 0 rgba(0,0,0,0.1);
 }
@@ -95,7 +95,7 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0,0,0,0);
   height: 180px;
-  background-image: url("/static/img/KABS17Cheddar.png");
+  background-image: url("/static/img/KABS17Blad.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin: 20px 20px 0;
@@ -118,7 +118,7 @@ h1.title {
   color: inherit;
   text-decoration: none;
   transition: color .3s, border .3s;
-  border-bottom: 1px solid rgba(85,153,255,0);
+  border-bottom: 1px solid rgba(29,114,35,0);
 }
 
 .header-container:hover aside ul li a {
@@ -127,7 +127,7 @@ h1.title {
 }
 
 .new {
-  color: rgba(255,132,0,1);
+  color: rgba(0,140,9,1);
   padding-left: 1em;
   font-size: 90%;
 }
@@ -224,7 +224,7 @@ table {
 }
 
 th {
-    background-color:(222,154,29,1);
+    background-color:(0,170,12,1);
     color: white;
 }
 
