@@ -50,6 +50,10 @@ header aside {
   font-size: 70%;
 }
 
+header a {
+  text-decoration: none;
+}
+
 /*
  Header
 */
