@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: en
 title: Apply as cabin bum
 ---
 <h1>Become a cabin bum!</h1>
