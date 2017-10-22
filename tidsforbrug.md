@@ -14,7 +14,7 @@ title: Tidsforbrug
 <li>Hej-Vektor-Fest (26. oktober 2017)</li>
 <li>Uddannelsesdage (25. November)</li>
 <li>Optur (10-12 november)</li>
-<li>Førstehjælp (Dato på vej!)</li>
+<li>Førstehjælp (18. november)</li>
 <li>Introdag (22. januar 2018)</li>
 <li>Rustur (23. januar til 26. januar 2017)</li>
 
