@@ -2,10 +2,10 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1>Ansøgningen til VinterVektor17 er åben!</h1>
+<h1>Ansøgningen til Vektor18 er åben!</h1>
 
-<p>Så er det tid til at blive vintervektor! Ansøgningen lukker den 22. oktober!<br/>
-  <a href="https://docs.google.com/forms/d/1FPSjaTFIfkd44Ehvjm6SxCSvUlCb9Vno_noVFlLz790/edit"><img src="https://blivawesome.dk/static/img/button_ansoeg-nu.png"/></a>
+<p>Så er det tid til at blive vektor! Ansøgningen lukker den 9. februar!<br/>
+  <a style="text-align: center;" href="https://docs.google.com/forms/d/e/1FAIpQLSfF-AG_3xQPgcAW_ZV7ALlu6sFINGpYk8Xfgd7NRHKOIal5tw/viewform"><button class="applyBtn">Ansøg nu! </button></a>
   
 </p>
 

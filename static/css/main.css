@@ -1,14 +1,15 @@
 /* Intentionally left blank */
 
 body {
-  background-color: rgba(1,165,45,1);
+  background-color: rgba(216, 152, 38,1);
 }
 
 #container {
   margin: auto;
-  font-family: 'Droid Serif', serif;
+  top:0;
+  font-family: 'Droid', sans-serif;
   color: #ffffff;
-  background-image: url("/static/img/background1.jpg");
+  background-image: url("/static/img/mainBaggrund.jpeg");
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
@@ -24,7 +25,7 @@ article {
   position: relative;
   top: 2em;
   width: 600px;
-  background-color: rgba(1,165,45,0.8);
+  background-color: rgba(0, 0, 0,0.8);
   left: 300px;
   padding: 2em;
   z-index: 10;
@@ -37,13 +38,16 @@ h1, h2, h3, h4 {
 }
 
 article a {
-  color: rgba(1,255,8,1);
-  border-bottom: 1px solid rgba(0,168,16,1);
+  color: rgba(215,142,71,1);
+
+
   text-decoration: none;
 }
 
 /*
  Aside
+
+ rgba(0, 0, 0,0.8)
 */
 
 header aside {
@@ -60,14 +64,14 @@ header a {
 
 .header-container {
   position: fixed;
-  background-color: rgba(2,221,31,0.8);
+  background-color: rgba(0, 0, 0,0.8);
   width: 250px;
   height: 100%;
 }
 
 nav ul li a, .header-container aside h2, .header-container aside h3 {
-  padding-left: 1em; 
-  
+  padding-left: 1em;
+
 }
 
 nav ul {
@@ -91,18 +95,19 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgba(0,204,27,1);
+  background-color: rgba(216,152,38,1);
   color: #fff;
   box-shadow: 0 2px 0 rgba(0,0,0,0.1);
 }
 
 h1.title {
   color: rgba(0,0,0,0);
-  height: 180px;
-  background-image: url("/static/img/KABS17Blad.png");
+  height: 141px;
+  background-image: url("/static/img/kamelLogo.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  margin: 20px 20px 0;
+  /*border-radius: 80px;*/
+  margin-top: 0 !important; 
 }
 
 .header-container aside h2 {
@@ -131,7 +136,7 @@ h1.title {
 }
 
 .new {
-  color: rgba(0,140,9,1);
+  color: rgba(246,239,81,1);
   padding-left: 1em;
   font-size: 90%;
 }
@@ -178,19 +183,32 @@ footer {
   width: 250px;
   height: 50px;
   bottom: 0;
-  background-image: url('/static/img/pfdtu.svg');
+  background-image: url('/static/img/pfDtu.png');
   background-size: contain;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  margin-bottom: 1em; 
+  margin-bottom: 1em;
 }
 
 /*
 Form
 */
 
-input, textarea, select, button { 
-  font-family: 'Droid Serif', serif;
+.applyBtn{
+  width: 300px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 0;
+  border-radius: 25px;
+  font-size: 3em;
+  color: white;
+  background-color: rgba(215,142,38,1);
+}
+
+input, textarea, select, button {
+  font-family: 'Droid', sans-serif;
 }
 
 input, textarea {
@@ -224,57 +242,57 @@ form ul {
 }
 
 table {
-    border-collapse: collapse;
+  border-collapse: collapse;
 }
 
 th {
-    background-color:(0,170,12,1);
-    color: white;
+  background-color:(0,170,12,1);
+  color: white;
 }
 
 th, td {
-    padding: 15px;
-    text-align: left;
+  padding: 15px;
+  text-align: left;
 }
 
 
 @media screen and (max-width:1000px) {
 
-  
-  
+
+
   .header-container {
     position: static;
     width: 100%;
   }
-  
+
   header {
     width: 250px;
     margin: 0 auto;
   }
-  
+
   #container {
     position: static;
     width: 100%;
     padding: 0;
     margin: 0;
   }
-  
+
   article {
     position: static;
     width: auto;
     padding: 2em;
   }
-  
+
   #poster-image {
     width: 100%;
   }
-  
+
   footer {
     position: static;
     width: 100%;
     margin-bottom: 0;
   }
-  
+
   aside {
     display: none;
   }
