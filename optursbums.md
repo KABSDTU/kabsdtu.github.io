@@ -4,7 +4,7 @@ title: OPtursbums
 ---
 <h1>OPtursbums i 2018?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/t4.jpg');">
+<div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
 </div>
 
 <p>

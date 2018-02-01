@@ -4,7 +4,7 @@ title: Hyttebums
 ---
 <h1>Hyttebums i 2018?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/t4.jpg');">
+<div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
 </div>
 
 <p>Er du vild med mad, eller bare vild? Som hyttebums på en sommerrustur står du sammen med dine medhyttebumser for at planlægge menuen, indkøbe råvarerne, lave maden og opretholde det nødvendige niveau af hygiejne i køkkenet under rusturen. Samtidig er du med til at skabe den unikke rustursstemning sammen med det vektorhold, som afholder rusturen.</p>

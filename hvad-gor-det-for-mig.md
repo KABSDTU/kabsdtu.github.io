@@ -4,7 +4,7 @@ title: Hvad får jeg ud af det?
 ---
 <h1>Hvad gør det egentlig for mig?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/hvadgordetformigMel.jpg');">
+<div id="poster-image" style="background-image: url('/static/img/hvadgordetformig.jpg');">
 </div>
 
 <p>Du vil som vektor få lov til at tage ansvar og sætte dit præg på diverse projekter for studiestarten og din rustur. De erfaringer man får ved at planlægge en rustur, introtur, introdag, osv. vil kunne bruges fremadrettet. På rusturen og retningshytteturen skal der være styr på økonomi, tidsplaner, materialer og mm., som giver dig, som vektor, muligheden for et større ansvar.</p>

@@ -1,7 +1,7 @@
 /* Intentionally left blank */
 
 body {
-  background-color: rgba(216, 152, 38,1);
+  background-color: rgba(26,34,66,1);
 }
 
 #container {
@@ -95,7 +95,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgba(216,152,38,1);
+  background-color: rgba(255,238,0,1);
   color: #fff;
   box-shadow: 0 2px 0 rgba(0,0,0,0.1);
 }
@@ -103,11 +103,11 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0,0,0,0);
   height: 141px;
-  background-image: url("/static/img/kamelLogo.jpg");
+  background-image: url("/static/img/kabsLogo.png");
   background-size: contain;
   background-repeat: no-repeat;
   /*border-radius: 80px;*/
-  margin-top: 0 !important; 
+  margin-top: 0 !important;
 }
 
 .header-container aside h2 {
@@ -136,7 +136,7 @@ h1.title {
 }
 
 .new {
-  color: rgba(246,239,81,1);
+  color: rgba(255,238,0,1);
   padding-left: 1em;
   font-size: 90%;
 }
@@ -203,8 +203,9 @@ Form
   border: 0;
   border-radius: 25px;
   font-size: 3em;
-  color: white;
-  background-color: rgba(215,142,38,1);
+  font-weight: bold;
+  color: rgba(25,25,25,1);
+  background-color: rgba(255,238,0,1);
 }
 
 input, textarea, select, button {
@@ -303,4 +304,3 @@ th, td {
     display: none;
   }
 }
-
