@@ -1,3 +1,13 @@
+---
+numOfKABS: 30
+numOfVectors: 250
+
+
+articleColor: rgba(210, 95, 95, 0.9)
+backgroundColor: rgba(220, 220, 215, 1)
+navbarColor: rgba(230, 120, 120, 0.8)
+---
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -10,7 +20,6 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Link til billede på Facebook forhåndsvisning -->
-        <meta property="og:image" content="https://blivawesome.dk/static/img/kabs18.jpg"/>
         <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400italic,700,700italic,300italic,300' rel='stylesheet' type='text/css'>
 
@@ -18,20 +27,18 @@
         <link rel="stylesheet" href="/static/css/main.css">
 
         <script src="/static/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <![if !IE]>
-        <link rel="icon" href="url("../static/img/KABS17Cheddar.png")" type="image/x-icon" />
-        <![endif]>
+
         <!-- This is needed for IE -->
-        <link rel="shortcut icon" href="url("../static/img/favicon.ico")" 
+        <link rel="shortcut icon" href="url("../static/img/kabsLogo.png")" 
         type="image/ico" />
     </head>
-    <body>
+    <body style="background-color: {{backgroundColor}} ">
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
     <div id="container">
-        <div class="header-container">
+        <div class="header-container" style="background-color: {{navbarColor}}">
             <header class="wrapper clearfix">
                 <a href="/"><h1 class="title">&nbsp;</h1></a>
                 <nav>
@@ -65,7 +72,7 @@
 
         <div class="main-container">
             <div class="main wrapper clearfix">
-            <article>
+            <article >
             
             {{ content }}
             </article>

@@ -7,7 +7,7 @@ title: The Study Start
 <div id="poster-image" style="background-image: url('/static/img/studiestarten.jpg');">
 </div>
 
-<p>The study start hires around 250 vektors divided into 31 groups. Together they welcome the russes that begin in August. This is coordinated by 31 KABS, that takes care of educational days, OPtur, study programmes and much more related to the study start. KABS, vektors and hyttebumser jointly creates the best possible study start for the russes.
+<p>The study start hires around 250 vectors divided into 30 groups. Together they welcome the russes that begin in August. This is coordinated by 30 KABS, that takes care of educational days, OPtur, study programmes and much more related to the study start. KABS, vectors and hyttebumser jointly creates the best possible study start for the russes.
 </p>
 
 

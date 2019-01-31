@@ -1,4 +1,4 @@
-pygments: true
+highlighter: true
 permalink: '/:title'
 _exclude: [vendor]
 markdown: kramdown
