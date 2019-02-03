@@ -28,5 +28,5 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 
 
 <p>
-	Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektor periode.
+	Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode.
 </p>
