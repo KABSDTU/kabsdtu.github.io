@@ -3,7 +3,7 @@ layout: en
 title: vector
 ---
 
-<h1>So you want to be a vector, huh?</h1>
+<h1>Do you want to be a vector?</h1>
 
 <div id="poster-image" style="background-image: url('/static/img/vektor.jpg');">
 </div>
