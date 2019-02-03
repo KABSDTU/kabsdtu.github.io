@@ -24,7 +24,7 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <li>Anden Uddannelsesdag (27. april)</li>
 <li>Førstehjælp (kommer senere)</li>
 <li>Introdag (23. august)</li>
-<li>Rustur (kommer senere)</li>
+<li>Rustur 23. - 30. august afhængig af type</li>
 
 
 <p>

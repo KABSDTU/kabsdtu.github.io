@@ -17,8 +17,8 @@ title: Time consumption
 <li>First educational day (17. March)</li>
 <li>OPtur (12. - 16. April)</li>
 <li>Second educational day (27. April)</li>
-<li>First Aid (kommer senere)</li>
+<li>First Aid (coming soon)</li>
 <li>Intro-day (23. August)</li>
-<li>Rus trip; Four day (coming soon), Weekend (coming soon)</li>
+<li>Rus trip (23.  - 30. August)</li>
 
 <p>The time and effort that is put into the vector work can’t be measured against the friendship and the personal experience that is gained during the vector period.</p>
