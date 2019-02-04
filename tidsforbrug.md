@@ -22,7 +22,7 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <li>Første Uddannelsesdag (17. marts)</li>
 <li>OPtur (12. - 16. april)</li>
 <li>Anden Uddannelsesdag (27. april)</li>
-<li>Førstehjælp (kommer senere)</li>
+<li>Førstehjælp (En af dagene: 1., 2. 8. eller 9. juni)</li>
 <li>Introdag (23. august)</li>
 <li>Rustur 23. - 30. august afhængig af type</li>
 

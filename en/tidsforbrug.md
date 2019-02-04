@@ -13,12 +13,12 @@ title: Time consumption
 
 <p>The vector work is very flexible except for the preparation trips. This work includes the planning of various social events, keeping a budget internally or externally and to make sure your russes are satisfied. However, there are some dates, that requires participation to be a vector:</p>
 
-<li>Hello-vector-Party (28. February)</li>
-<li>First educational day (17. March)</li>
-<li>OPtur (12. - 16. April)</li>
-<li>Second educational day (27. April)</li>
-<li>First Aid (coming soon)</li>
-<li>Intro-day (23. August)</li>
-<li>Rus trip (23.  - 30. August)</li>
+<li>Hello-vector-Party (28th Februaryy)</li>
+<li>First educational day (17th March)</li>
+<li>OPtur (12th - 16th April)</li>
+<li>Second educational day (27th April)</li>
+<li>First Aid (One if the following days: 1st, 2nd, 8th or 9th June)</li>
+<li>Intro-day (23th August)</li>
+<li>Rus trip (23th  - 30th August depending on the type of trip)</li>
 
 <p>The time and effort that is put into the vector work can’t be measured against the friendship and the personal experience that is gained during the vector period.</p>
