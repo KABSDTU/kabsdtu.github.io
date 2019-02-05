@@ -33,7 +33,7 @@ title: KABS
 <li>	Louise Vomb Boje Lund	-	BEng. Architectural Engineering	</li>
 <li>	Oscar Hoffmann	-	BEng. Global Business Engineering	</li>
 <li>	Troels Toy Christoffersen	-	BEng. Electrical Engineering & BEng. Electrical Energy Technology	</li>
-<li>	TBA	-	BEng. Food Safety and Quality	</li>
+<li>	Olivia Nygaard Mark-	BEng. Food Safety and Quality	</li>
 <li>	Stine Malene Kure	-	BEng. Chemical and Bio Engineering & BEng. Chemical Engineering and International Business	</li>
 <li>	Henrik Guldal Stefansen	-	BEng. Mechanical Engineering	</li>
 <li>	Niels Peter Moos	-	BEng. Mobility Transport and Logistics	</li>
