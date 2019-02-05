@@ -33,7 +33,7 @@ title: KABS
 <li>	Louise Vomb Boje Lund	-	D. Bygningsdesign	</li>
 <li>	Oscar Hoffmann	-	D. Eksport og Teknologi	</li>
 <li>	Troels Toy Christoffersen	-	D. Elektroteknologi og D. Elektrisk Energiteknologi	</li>
-<li>		Olivia Nygaard Mark-	D. Fødevaresikkerhed og -kvalitet	</li>
+<li>	Olivia Nygaard Mark 	-	D. Fødevaresikkerhed og -kvalitet	</li>
 <li>	Stine Malene Kure	-	D. Kemi- og Bioteknik og D. Kemiteknik og International Business	</li>
 <li>	Henrik Guldal Stefansen	-	D. Maskinteknik	</li>
 <li>	Niels Peter Moos	-	D. Mobilitet, Transport og Logistik	</li>
