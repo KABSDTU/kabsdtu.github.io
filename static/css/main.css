@@ -1,7 +1,7 @@
 /* Intentionally left blank */
 
 body {
-  background-color: rgba(255, 220, 205);
+  background-color: rgb(220, 220, 190, 1);
 }
 
 #container {
@@ -29,7 +29,7 @@ article {
   padding: 2em;
   z-index: 10;
   margin-bottom: 2em;
-  background-color: rgba(210, 95, 95, 0.9);
+  background-color: rgba(105, 140, 45, 0.9);
   line-height: 1.5;
 }
 
@@ -63,7 +63,7 @@ header a {
   position: fixed;
   width: 250px;
   height: 100%;
-  background-color:rgba(230, 120, 120, 0.8); 
+  background-color: rgba(105, 140, 45, 0.9);
   text-align:left;
 }
 
@@ -104,7 +104,6 @@ h1.title {
   background-image: url("/static/img/kabsLogo.png");
   background-size: contain;
   background-repeat: no-repeat;
-  margin: 0 0 0 15px;
 }
 
 .header-container aside h2 {
@@ -202,7 +201,7 @@ Form
   font-size: 3em;
   font-weight: bold;
   color: rgba(255, 255, 255, 1);
-  background-color: rgba(250, 180, 180, 1);
+  background-color: rgb(190, 190, 185);
 }
 
 input, textarea, select, button {
