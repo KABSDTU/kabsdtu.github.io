@@ -37,7 +37,6 @@ title: KABS
 <li>	Stine Malene Kure	-	BEng. Chemical and Bio Engineering & BEng. Chemical Engineering and International Business	</li>
 <li>	Henrik Guldal Stefansen	-	BEng. Mechanical Engineering	</li>
 <li>	Niels Peter Moos	-	BEng. Mobility Transport and Logistics	</li>
-<li>	Anders Bagger Lindblom	-	BEng. Process and Innovation & BEng. Manufacturing and Management	</li>
 <li>	Magnus Stjernborg Koch	-	BEng. Software Technology & BEng. IT and Economics	</li>
 <li>	Linus Knoop	-	BEng. Healthcare Technology og BEng. IT Electronics	</li>
 </ul>

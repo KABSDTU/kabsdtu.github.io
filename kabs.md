@@ -37,7 +37,6 @@ title: KABS
 <li>	Stine Malene Kure	-	D. Kemi- og Bioteknik og D. Kemiteknik og International Business	</li>
 <li>	Henrik Guldal Stefansen	-	D. Maskinteknik	</li>
 <li>	Niels Peter Moos	-	D. Mobilitet, Transport og Logistik	</li>
-<li>	Anders Bagger Lindblom	-	D. Proces og Innovation og D. Produktion	</li>
 <li>	Magnus Stjernborg Koch	-	D. Softwareteknologi og D. IT og Økonomi	</li>
 <li>	Linus Knoop	-	D. Sundhedsteknologi og D. IT-elektronik	</li>
 
