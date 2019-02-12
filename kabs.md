@@ -27,17 +27,18 @@ title: KABS
 <li>	Søren Sandgaard	-	C. Produktion og Konstruktion	</li>
 <li>	Felix Larsen	-	C. Softwareteknologi	</li>
 <li>	Marie Sjørslev Pedersen	-	C. Strategisk Analyse og Systemdesign	</li>
-<li>	Mikkel Swartz	-	C. Teknisk Biomedicin	</li>
+<li>	Mikkel Swartz		-	C. Teknisk Biomedicin	</li>
 <li>	Josephine F. B. Ramsløv	-	C. Vand, Bioressourcer og Miljømanagement	</li>
 <li>	Alexander Torp Jørgensen	-	D. Byggeri og Infrastruktur og D. Arktisk Teknologi	</li>
 <li>	Louise Vomb Boje Lund	-	D. Bygningsdesign	</li>
-<li>	Oscar Hoffmann	-	D. Eksport og Teknologi	</li>
+<li>	Oscar Hoffmann		-	D. Eksport og Teknologi	</li>
 <li>	Troels Toy Christoffersen	-	D. Elektroteknologi og D. Elektrisk Energiteknologi	</li>
 <li>	Olivia Nygaard Mark 	-	D. Fødevaresikkerhed og -kvalitet	</li>
 <li>	Stine Malene Kure	-	D. Kemi- og Bioteknik og D. Kemiteknik og International Business	</li>
 <li>	Henrik Guldal Stefansen	-	D. Maskinteknik	</li>
 <li>	Niels Peter Moos	-	D. Mobilitet, Transport og Logistik	</li>
 <li>	Magnus Stjernborg Koch	-	D. Softwareteknologi og D. IT og Økonomi	</li>
-<li>	Linus Knoop	-	D. Sundhedsteknologi og D. IT-elektronik	</li>
+<li>	Linus Knoop		-	D. Process og Innovation & D. Produktion </li>
+<li>	TBA			-   	D. Sundhedsteknologi og D. IT-elektronik </li>
 
 </ul>

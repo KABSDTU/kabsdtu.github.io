@@ -38,5 +38,8 @@ title: KABS
 <li>	Henrik Guldal Stefansen	-	BEng. Mechanical Engineering	</li>
 <li>	Niels Peter Moos	-	BEng. Mobility Transport and Logistics	</li>
 <li>	Magnus Stjernborg Koch	-	BEng. Software Technology & BEng. IT and Economics	</li>
-<li>	Linus Knoop	-	BEng. Healthcare Technology og BEng. IT Electronics	</li>
+<li>	Linus Knoop	- BEng. Process and Innovation & BEng. Manufacturing and Management		</li>
+<li>	TBA		- BEng. Healthcare Technology & BEng. IT Electronics </li>
+
+
 </ul>
