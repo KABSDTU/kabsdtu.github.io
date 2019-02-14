@@ -4,7 +4,7 @@ title: Hyttebums
 ---
 <h1>Hyttebums i 2019?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
+<div id="poster-image" style="background-image: url('/static/img/Hyttebombz.jpg');">
 </div>
 
 <p>
