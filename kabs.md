@@ -39,6 +39,6 @@ title: KABS
 <li>	Niels Peter Moos	-	D. Mobilitet, Transport og Logistik	</li>
 <li>	Magnus Stjernborg Koch	-	D. Softwareteknologi og D. IT og Økonomi	</li>
 <li>	Linus Knoop		-	D. Process og Innovation & D. Produktion </li>
-<li>	TBA			-   	D. Sundhedsteknologi og D. IT-elektronik </li>
+<li>	Hans Kristian Bech Hansen		-   	D. Sundhedsteknologi og D. IT-elektronik </li>
 
 </ul>
