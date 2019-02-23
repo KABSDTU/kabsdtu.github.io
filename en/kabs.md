@@ -39,7 +39,7 @@ title: KABS
 <li>	Niels Peter Moos	-	BEng. Mobility Transport and Logistics	</li>
 <li>	Magnus Stjernborg Koch	-	BEng. Software Technology & BEng. IT and Economics	</li>
 <li>	Linus Knoop	- BEng. Process and Innovation & BEng. Manufacturing and Management		</li>
-<li>	TBA		- BEng. Healthcare Technology & BEng. IT Electronics </li>
+<li>	Hans Kristian Bech Hansen		- BEng. Healthcare Technology & BEng. IT Electronics </li>
 
 
 </ul>
