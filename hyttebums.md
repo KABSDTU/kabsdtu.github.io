@@ -14,6 +14,6 @@ title: Hyttebums
 </p>
 
 <p>
-    Rusturene ligger i slutningen august, mens weekendturene ligger i weekenden op til. Du kan søge alene eller sammen med dine venner, som et hold. Der skal som udgangspunkt bruges 3 hyttebumser på hver rustur. <b>Ansøgninger og datoer kommer i løbet af foråret!</b>
+    Rusturene ligger i slutningen august, mens weekendturene ligger i weekenden op til. Du kan søge alene eller sammen med dine venner, som et hold. Der skal som udgangspunkt bruges 3 hyttebumser på hver rustur. 
 </p>
 
