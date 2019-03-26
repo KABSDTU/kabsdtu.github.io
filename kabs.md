@@ -15,7 +15,7 @@ title: KABS
 <li>	Maya Lee Pedersen	-	C. Bygningsdesign	</li>
 <li>	Andreas Goltermann	-	C. Bæredygtig Energidesign	</li>
 <li>	Mathias Albrechtsen	-	C. Design og Innovation	</li>
-<li>	Jan Olsen	-	C. Elektroteknologi C. Netværksteknologi	</li>
+<li>	Jan Olsen	-	C. Elektroteknologi C. Netværksteknologi og IT	</li>
 <li>	Kamma Nørrelund Pedersen	-	C. Fysik og Nanoteknologi	</li>
 <li>	Valdemar Søgaard	-	C. General Engineering	</li>
 <li>	Louise Frost	-	C. General Engineering	</li>
