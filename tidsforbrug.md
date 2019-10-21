@@ -23,7 +23,9 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <li>vOPtur (15. - 17. november)</li>
 <li>Førstehjælp (4. eller 5. januar)</li>
 <li>Anden Uddannelsesdag (11. januar)</li>
+<li>Introdag (28. januar) </li>
+<li>Rustur (29. januar - 1. februar)</li>
 
 <p>
-	Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode.
+Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode.
 </p>
