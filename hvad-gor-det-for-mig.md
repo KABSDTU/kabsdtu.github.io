@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Hvad får jeg ud af det?
+title: Hvad gør det for *mig*
 ---
-<h1>Hvad får jeg ud af det?</h1>
+<h1>Hvad gør det for <i>mig?</i></h1>
 
 <div id="poster-image" style="background-image: url('/static/img/hvadgordetformig.jpg');">
 </div>

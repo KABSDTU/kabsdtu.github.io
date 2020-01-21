@@ -8,37 +8,40 @@ title: KABS
 <p>KABS står for Koordinator af Bachelor Studiestarten. Der er {{layout.numOfKABS}} KABS, som hver har en retning og en rustur, hvoraf tre af rusturene er weekendture, hvor en af dem er alkoholfri. </p>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os over vores mail: kabs@pf.dk</p>
 
-<h2>KABS19:</h2>
+<h2>KABS20:</h2>
+
 <ul>
-<li>	Rolf Glenny Mogensen	-	C. Bioteknologi	</li>
-<li>	Mette Steinlei Christensen	-	C. Byggeteknologi	</li>
-<li>	Maya Lee Pedersen	-	C. Bygningsdesign	</li>
-<li>	Andreas Goltermann	-	C. Bæredygtig Energidesign	</li>
-<li>	Mathias Albrechtsen	-	C. Design og Innovation	</li>
-<li>	Jan Olsen	-	C. Elektroteknologi C. Netværksteknologi og IT	</li>
-<li>	Kamma Nørrelund Pedersen	-	C. Fysik og Nanoteknologi	</li>
-<li>	Valdemar Søgaard	-	C. General Engineering	</li>
-<li>	Louise Frost	-	C. General Engineering	</li>
-<li>	Bjørt Óladóttir Joensen	-	C. Geofysik og Rumteknologi	</li>
-<li>	Kaare Halskov Anholm	-	C. Kemi og Teknologi	</li>
-<li>	Rasmus Aagaard	-	C. Kunstig Intelligens og Data	</li>
-<li>	Robert Mandsfelt Eriksen	-	C. Kvantitativ Biologi og Sygdomsmodellering  & C. Medicin og Teknologi	</li>
-<li>	Viktor Stenby Johansson	-	C. Matematik og Teknologi	</li>
-<li>	Søren Sandgaard	-	C. Produktion og Konstruktion	</li>
-<li>	Felix Larsen	-	C. Softwareteknologi	</li>
-<li>	Marie Sjørslev Pedersen	-	C. Strategisk Analyse og Systemdesign	</li>
-<li>	Mikkel Swartz		-	C. Teknisk Biomedicin	</li>
-<li>	Josephine F. B. Ramsløv	-	C. Vand, Bioressourcer og Miljømanagement	</li>
-<li>	Alexander Torp Jørgensen	-	D. Byggeri og Infrastruktur og D. Arktisk Teknologi	</li>
-<li>	Louise Vomb Boje Lund	-	D. Bygningsdesign	</li>
-<li>	Oscar Hoffmann		-	D. Eksport og Teknologi	</li>
-<li>	Troels Toy Christoffersen	-	D. Elektroteknologi og D. Elektrisk Energiteknologi	</li>
-<li>	Olivia Nygaard Mark 	-	D. Fødevaresikkerhed og -kvalitet	</li>
-<li>	Stine Malene Kure	-	D. Kemi- og Bioteknik og D. Kemiteknik og International Business	</li>
-<li>	Henrik Guldal Stefansen	-	D. Maskinteknik	</li>
-<li>	Niels Peter Moos	-	D. Mobilitet, Transport og Logistik	</li>
-<li>	Magnus Stjernborg Koch	-	D. Softwareteknologi og D. IT og Økonomi	</li>
-<li>	Linus Knoop		-	D. Process og Innovation & D. Produktion </li>
-<li>	Hans Kristian Bech Hansen		-   	D. Sundhedsteknologi og D. IT-elektronik </li>
+
+<li>	Elisa Marie Martiny	-	C. Bioteknologi	</li>
+<li>	Sofie Bøwig Rasmussen	-	C. Byggeteknologi	</li>
+<li>	Cecilie Marie Truelsen	-	C. Bygningsdesign	</li>
+<li>	Bao Ngoc Vu	-	C. Bæredygtigt Energidesign	</li>
+<li>	Jakob Johannes Høyer Madsen	-	C. Design og Innovation	</li>
+<li>	Jakob Malte Skou Lindstad	-	C. Cyberteknologi samt C. Elektroteknologi	</li>
+<li>	Andreas Baltzer Skov	-	C. Fysik og Nanoteknologi	</li>
+<li>	Victor Smith de Vasconcellos Roslyng-Jensen	-	C. General Engineering	</li>
+<li>	Sofus Albert Høgsbro Rose	-	C. General Engineering	</li>
+<li>	Benjamin Büll Elsholm	-	C. Geofysik og Rumteknologi	</li>
+<li>	Nanna Mortensen	-	C. Kemi og Teknologi	</li>
+<li>	Niels Kjær Ersbøll	-	C. Kunstig Intelligens og Data	</li>
+<li>	Elisabeth Marie Heegaard	-	C. Matematik og Teknologi	</li>
+<li>	Viktor Stenby Johansson	-	C. Medicin og Teknologi samt C. Kvantitativ Biologi og Sygdomsmodellering	</li>
+<li>	Julie Munck Bertelsen	-	C. Produktion og Konstruktion	</li>
+<li>	Peter Riis Christiansen	-	C. Softwareteknologi	</li>
+<li>	Nanna Søtang Steenberg Olsen	-	C. Strategisk Analyse og Systemdesign	</li>
+<li>	Helene Vingborg Toft		-	C. Teknisk Biomedicin	</li>
+<li>	Mei Stagaard Therkelsen	-	C. Vand, Bioressourcer og Miljømanagement	</li>
+<li>	Kamilla Bøgeskov Rasmussen	-	D. Byggeri og Infrastruktur og D. Arktisk Teknologi	<!-- Torp 2.0 #D. Fisk --> </li>
+<li>	Christian Broberg Christensen	-	D. Bygningsdesign	</li>
+<li>	Rikke Brauer Clemmensen		-	D. Eksport og Teknologi	</li>
+<li>	Bjarke Nilsson	-	D. Elektroteknologi og D. Elektrisk Energiteknologi	</li>
+<li>	Karoline Broskov Skytthe 	-	D. Fødevaresikkerhed og -kvalitet	</li>
+<li>	Thøger Kappel	-	D. Produktion samt D. Process og Innovation	</li>
+<li>	Mads Hyre-Jensen	-	D. Kemi og Bioteknik samt D. Kemiteknik og International Business	</li>
+<li>	Tim K. Hammer	-	D. Maskinteknik	</li>
+<li>	Signe Bonde Tronsen	-	D. Mobilitet, Transport og Logistik	</li>
+<li>	Tanja Sølvsten	-	D. Softwareteknologi	</li>
+<li>	Frederik Lenk	-	D. IT og Økonomi	</li>
+<li>	Christoffer Binzer Bjørner	-	D. Sundhedsteknologi samt IT-elektronik	</li>
 
 </ul>

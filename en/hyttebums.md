@@ -2,7 +2,7 @@
 layout: en
 title: Cabin Bum
 ---
-<h1>Cabin bum in 2017?</h1>
+<h1>Cabin bum in 2020?</h1>
 
 <div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
 </div>

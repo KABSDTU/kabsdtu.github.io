@@ -2,7 +2,7 @@
 layout: default
 title: Ansøg som OPtursbums
 ---
-<h1>Ansøgningen til OPtursbums19 er åben!</h1>
+<h1>Ansøgningen til OPtursbums20 er åben!</h1>
 
 <p>
 	Så er det tid til at OPtur skal have nogle bumser!<br/>
