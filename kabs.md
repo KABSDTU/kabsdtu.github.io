@@ -25,7 +25,7 @@ title: KABS
 <li>	Nanna Mortensen	-	C. Kemi og Teknologi	</li>
 <li>	Niels Kjær Ersbøll	-	C. Kunstig Intelligens og Data	</li>
 <li>	Elisabeth Marie Heegaard	-	C. Matematik og Teknologi	</li>
-<li>	Viktor Stenby Johansson	-	C. Medicin og Teknologi samt C. Kvantitativ Biologi og Sygdomsmodellering	</li>
+<li>	Frederik Peetz-Schou Larsen	-	C. Medicin og Teknologi samt C. Kvantitativ Biologi og Sygdomsmodellering	</li>
 <li>	Julie Munck Bertelsen	-	C. Produktion og Konstruktion	</li>
 <li>	Peter Riis Christiansen	-	C. Softwareteknologi	</li>
 <li>	Nanna Søtang Steenberg Olsen	-	C. Strategisk Analyse og Systemdesign	</li>
