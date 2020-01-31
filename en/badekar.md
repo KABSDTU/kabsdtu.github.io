@@ -8,12 +8,12 @@ title: Bathtub/Beverage
 
 <a style="text-align: center" href="https://goo.gl/forms/wB3X0HwOokoppj5k1">
 	<button class="applyBtn">
-	  Order bathtub!!
+	  Order bathtub
 	</button>
 </a>
 
 <a style="text-align: center; padding: 2px" href="https://docs.google.com/forms/d/e/1FAIpQLSd1r7yO_zGJ9vySUZScjNhkhC8-u4dhB4ZBfAE04ySnNj3Z7A/viewform">
 	<button class="applyBtn"> 
-		Order beaverages!!
+		Order beverages
 	</button>
 </a>
