@@ -1,4 +1,8 @@
-/* Intentionally left blank */
+:root {
+  --article-color: rgba(229, 173, 46, 0.9);
+  --nav-color: rgba(233, 182, 77, 0.9);
+  --cdwn-color: rgba(233, 182, 77, 0.5);
+}
 
 body {
   background-color: rgb(244, 236, 223);
@@ -29,7 +33,7 @@ article {
   padding: 2em;
   z-index: 10;
   margin-bottom: 2em;
-  background-color: rgba(229, 173, 46, 0.9);
+  background-color: var(--article-color);
   line-height: 1.5;
 }
 
@@ -66,7 +70,7 @@ header a {
   position: fixed;
   width: 250px;
   height: 100%;
-  background-color: rgba(233, 182, 77, 0.9);
+  background-color: var(--nav-color);
   text-align: left;
 }
 
@@ -144,6 +148,40 @@ h1.title {
 a:hover .new {
   color: #fff;
   transition: color 0.3s, border 0.3s;
+}
+
+/*
+  Coutdown timer
+*/
+#clockdiv {
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+  background-color: var(--cdwn-color);
+}
+
+#clockdiv > div {
+  padding: 10px;
+  border-radius: 3px;
+  /* background-color: ; */
+  display: inline-block;
+}
+
+#clockdiv div > span {
+  padding: 15px;
+  border-radius: 3px;
+  /* background-color: #00816a; */
+  display: inline-block;
+}
+
+.smalltext {
+  padding-top: 5px;
+  font-size: 16px;
+}
+
+.seconds {
+  color: red;
 }
 
 /*
