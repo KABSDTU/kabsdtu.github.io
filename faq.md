@@ -22,7 +22,7 @@ D. 22-28 August: Rustursugen (Alt efter hvornår på ugen kommer an på hvilken 
 </p>
 
 <h3><b>Hvornår og hvordan søger man?</b></h3>
-<p>Sidste søgefrist er d. 14 februar, der vil et par uger før komme et link op på KABS DTU, hvor man kan søge.</p>
+<p>Sidste søgefrist er d. 14 februar, der vil et par uger før komme et link op på denne side, hvor man kan søge, se <a href="/ansog-som-vektor.html">Ansøg nu</a>. Et link vil yderligere blive sat op på KABS DTU.</p>
 
 <h3><b>Hvad betyder det at være vektor for en anden linje?</b></h3>
 <p>Hvis man har søgt for en retning hvor der er flere ansøgninger end vektorpladser, kan man få tilbudt at være vektor for en anden linje end sin egen. At være vektor for en anden linje end ens egen indeholder alle de samme oplevelser som at være vektor for sin egen linje. En fordel ved at være vektor for en anden linje er at det givere en et meget bredere netværk på DTU, man kommer til at kende mange som man ellers aldrig ville have mødt. Da vektorer hovedsageligt er sociale vejleder, og ikke faglige, gør det ikke spor at man ikke læser det samme som sine russere. Hvis der er noget retningsspecifikt som du som vektor skal vide, skal du ikke være bekymret, du vil få al information af vide af den KABS der står for den pågældende retning.</p>
