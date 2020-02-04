@@ -1,10 +1,13 @@
 ---
 layout: en
-title: Bathtub/Beverage
+title: Bathtub/Beverages
 ---
 
-<h1>Bathtub and Beverage</h1>
+<h1>Bathtub and Beverages</h1>
 <p>Order a bathtub and beverages or your trip won't be as fun</p>
+
+<div id="poster-image" style="background-image: url('/static/img/laeske.jpg');">
+</div>
 
 <a style="text-align: center" href="https://goo.gl/forms/wB3X0HwOokoppj5k1">
 	<button class="applyBtn">

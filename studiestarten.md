@@ -4,7 +4,7 @@ title: Studiestarten
 ---
 <h1>Studiestarten</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/studiestarten.jpg');">
+<div id="poster-image" style="background-image: url('/static/img/studiestarten.PNG');">
 </div>
 
 <p>

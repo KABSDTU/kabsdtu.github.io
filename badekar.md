@@ -6,6 +6,9 @@ title: Badekar/Læske
 <h1>Gode varer man kan få hjælp til fra KABS</h1>
 <p>Bestil badekar og læske her (ellers bliver jeres tur nok ikke så stort et hit)</p>
 
+<div id="poster-image" style="background-image: url('/static/img/laeske.jpg');">
+</div>
+
 <a style="text-align: center; padding: 3px" href="https://goo.gl/forms/wB3X0HwOokoppj5k1">
 	<button class="applyBtn"> 
 		Bestil badekar 

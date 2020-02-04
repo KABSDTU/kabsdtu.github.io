@@ -5,7 +5,7 @@ title: Tidsforbrug
 
 <h1>Tidsforbrug som Vektor</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/tidsforbrug.gif');">
+<div id="poster-image" style="background-image: url('/static/img/tidsforbrug.jpg');">
 </div>
 
 <p>

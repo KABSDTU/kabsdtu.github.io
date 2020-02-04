@@ -3,9 +3,9 @@ layout: default
 title: Vektor
 ---
 
-<h1>Du vil gerne være vektor, ik'?</h1>
+<h1>Vil du være en del af studiestarten?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/vektor.gif');">
+<div id="poster-image" style="background-image: url('/static/img/vektor.jpg');">
 </div>
 
 <p>

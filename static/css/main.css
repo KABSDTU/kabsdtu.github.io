@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(229, 173, 46, 0.9);
-  --nav-color: rgba(233, 182, 77, 0.9);
-  --cdwn-color: rgba(233, 182, 77, 0.5);
+  --article-color: rgba(130, 20, 42, 0.8);
+  --nav-color: rgba(143, 21, 46, 0.8);
+  --cdwn-color: rgba(143, 21, 46, 0.5);
 }
 
 body {
-  background-color: rgb(244, 236, 223);
+  background-color: rgb(243, 223, 223);
 }
 
 #container {
@@ -46,6 +46,8 @@ h4 {
 
 article a {
   text-decoration: none;
+  font-weight: bold;
+  color: #159acf;
 }
 
 /*
@@ -108,10 +110,11 @@ nav ul li a:hover {
 
 h1.title {
   color: rgba(0, 0, 0, 0);
-  height: 200px;
+  height: 140px;
   background-image: url("/static/img/kabsLogo.png");
   background-size: contain;
   background-repeat: no-repeat;
+  text-align: center;
 }
 
 .header-container aside h2 {
@@ -154,6 +157,7 @@ a:hover .new {
   Coutdown timer
 */
 #clockdiv {
+  color: #fff;
   display: inline-block;
   font-weight: 100;
   text-align: center;
@@ -163,15 +167,11 @@ a:hover .new {
 
 #clockdiv > div {
   padding: 10px;
-  border-radius: 3px;
-  /* background-color: ; */
   display: inline-block;
 }
 
 #clockdiv div > span {
   padding: 15px;
-  border-radius: 3px;
-  /* background-color: #00816a; */
   display: inline-block;
 }
 
@@ -181,7 +181,7 @@ a:hover .new {
 }
 
 .seconds {
-  color: red;
+  color: #cf5d74;
 }
 
 /*
