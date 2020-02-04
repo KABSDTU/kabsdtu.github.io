@@ -40,7 +40,7 @@ title: KABS
 <li>	Mads Hyre-Jensen	-	BEng. Chemical and Bio Engineering & BEng. Chemical Engineering and International Business	</li>
 <li>	Tim K. Hammer	-	BEng. Mechanical Engineering	</li>
 <li>	Signe Bonde Tronsen	-	BEng. Mobility Transport and Logistics	</li>
-<li>	Tanja Sølvsten	-	Software Technology	</li>
+<li>	Tanja Sølvsten	-	BEng. Software Technology	</li>
 <li>	Frederik Lenk	-	BEng. IT and Economics	</li>
 <li>	Christoffer Binzer Bjørner	-	BEng. Healthcare Technology & BEng. IT Electronics </li>
 
