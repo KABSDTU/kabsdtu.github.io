@@ -31,14 +31,14 @@ title: KABS
 <li>	Nanna Søtang Steenberg Olsen	-	C. Strategisk Analyse og Systemdesign	</li>
 <li>	Helene Vingborg Toft		-	C. Teknisk Biomedicin	</li>
 <li>	Mei Stagaard Therkelsen	-	C. Vand, Bioressourcer og Miljømanagement	</li>
-<li>	Kamilla Bøgeskov Rasmussen	-	D. Byggeri og Infrastruktur og D. Arktisk Teknologi	<!-- Torp 2.0 #D. Fisk --> </li>
+<li>	Kamilla Bøgeskov Rasmussen	-	D. Byggeri og Infrastruktur, D. Arktisk Teknologi samt D. Fiskeriteknologi	<!-- Torp 2.0 #D. Fisk --> </li>
 <li>	Christian Broberg Christensen	-	D. Bygningsdesign	</li>
 <li>	Rikke Brauer Clemmensen		-	D. Eksport og Teknologi	</li>
 <li>	Bjarke Nilsson	-	D. Elektroteknologi og D. Elektrisk Energiteknologi	</li>
 <li>	Karoline Broskov Skytthe 	-	D. Fødevaresikkerhed og -kvalitet	</li>
 <li>	Thøger Kappel	-	D. Produktion samt D. Process og Innovation	</li>
-<li>	Mads Hyre-Jensen	-	D. Kemi og Bioteknik samt D. Kemiteknik og International Business	</li>
-<li>	Tim K. Hammer	-	D. Maskinteknik	</li>
+<li>	Mads Hyre-Jensen	-	D. Kemi- og Bioteknik samt D. Kemiteknik og International Business	</li>
+<li>	Tim Kaastrup Hammer	-	D. Maskinteknik	</li>
 <li>	Signe Bonde Tronsen	-	D. Mobilitet, Transport og Logistik	</li>
 <li>	Tanja Sølvsten	-	D. Softwareteknologi	</li>
 <li>	Frederik Lenk	-	D. IT og Økonomi	</li>

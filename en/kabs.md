@@ -31,14 +31,14 @@ title: KABS
 <li>	Nanna Søtang Steenberg Olsen	-	BSc. Strategical Analysis and Systems Design	</li>
 <li>	Helene Vingborg Toft		-	BSc. Human Life Science Engineering	</li>
 <li>	Mei Stagaard Therkelsen	-	BSc. Environmental Engineering	</li>
-<li>	Kamilla Bøgeskov Rasmussen -	BEng. Civil Engineering & BEng. Arctic Technology	<!-- Torp 2.0 #D. Fisk --> </li>
+<li>	Kamilla Bøgeskov Rasmussen -	BEng. Civil Engineering, BEng. Arctic Technology & BEng. Fishing technology	<!-- Torp 2.0 #D. Fisk --> </li>
 <li>	Christian Broberg Christensen	-	BEng. Architectural Engineering	</li>
 <li>	Rikke Brauer Clemmensen		-	BEng. Global Business Engineering	</li>
 <li>	Bjarke Nilsson	-	BEng. Electrical Engineering & BEng. Electrical Energy Technology	</li>
 <li>	Karoline Broskov Skytthe 	-	BEng. Food Safety and Quality	</li>
 <li>	Thøger Kappel	-	BEng. Process and Innovation & BEng. Manufacturing and Management	</li>
 <li>	Mads Hyre-Jensen	-	BEng. Chemical and Bio Engineering & BEng. Chemical Engineering and International Business	</li>
-<li>	Tim K. Hammer	-	BEng. Mechanical Engineering	</li>
+<li>	Tim Kaastrup Hammer	-	BEng. Mechanical Engineering	</li>
 <li>	Signe Bonde Tronsen	-	BEng. Mobility Transport and Logistics	</li>
 <li>	Tanja Sølvsten	-	BEng. Software Technology	</li>
 <li>	Frederik Lenk	-	BEng. IT and Economics	</li>
