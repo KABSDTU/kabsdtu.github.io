@@ -9,7 +9,7 @@ title: Badekar/Læske
 <div id="poster-image" style="background-image: url('/static/img/laeske.jpg');">
 </div>
 
-<a style="text-align: center; padding: 3px" href="https://goo.gl/forms/wB3X0HwOokoppj5k1">
+<a style="text-align: center; padding: 3px" href="https://docs.google.com/forms/d/e/1FAIpQLSfGbt7b1HoxcoKrOFYdXYkG9svmy6ulJQjnXTSXFk-9OxKWVQ/viewform?usp=sf_link">
 	<button class="applyBtn"> 
 		Bestil badekar 
 	</button>
