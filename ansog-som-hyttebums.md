@@ -3,6 +3,6 @@ layout: default
 title: Ansøg som Hyttebums
 ---
 <h1> Ansøgningen er lukket</h1>
-<p>Ansøgningen som hyttebums for I år er desværre slut. </p>
-<p>Vi takker for alle ansøgninger. </p>
+<p>Ansøgningen til vinterbums åbner snarest. </p>
+<p>Vi glæder os til at høre fra jer </p>
 

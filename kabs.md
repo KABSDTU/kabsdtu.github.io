@@ -15,7 +15,7 @@ title: KABS
 <li>	Elisa Marie Martiny	-	C. Bioteknologi	</li>
 <li>	Sofie Bøwig Rasmussen	-	C. Byggeteknologi	</li>
 <li>	Cecilie Marie Truelsen	-	C. Bygningsdesign	</li>
-<li>	Bao Ngoc Vu	-	C. Bæredygtigt Energidesign	</li>
+<li>	Bao Ngoc Vu	-	C. Bæredygtigt Energidesign, BEng. Chemical and Bio Engineering & BEng. Chemical Engineering	</li>
 <li>	Jakob Johannes Høyer Madsen	-	C. Design og Innovation	</li>
 <li>	Jakob Malte Skou Lindstad	-	C. Cyberteknologi samt C. Elektroteknologi	</li>
 <li>	Andreas Baltzer Skov	-	C. Fysik og Nanoteknologi	</li>
@@ -37,7 +37,7 @@ title: KABS
 <li>	Bjarke Nilsson	-	D. Elektroteknologi og D. Elektrisk Energiteknologi	</li>
 <li>	Karoline Broskov Skytthe 	-	D. Fødevaresikkerhed og -kvalitet	</li>
 <li>	Thøger Kappel	-	D. Produktion samt D. Process og Innovation	</li>
-<li>	Mads Hyre-Jensen	-	D. Kemi- og Bioteknik samt D. Kemiteknik og International Business	</li>
+<li style="text-decoration: line-through;">	Mads Hyre-Jensen	-	D. Kemi- og Bioteknik samt D. Kemiteknik og International Business	</li>
 <li>	Tim Kaastrup Hammer	-	D. Maskinteknik	</li>
 <li>	Signe Bonde Tronsen	-	D. Mobilitet, Transport og Logistik	</li>
 <li>	Tanja Sølvsten	-	D. Softwareteknologi	</li>

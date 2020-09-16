@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(130, 20, 42, 0.8);
-  --nav-color: rgba(143, 21, 46, 0.8);
-  --cdwn-color: rgba(143, 21, 46, 0.5);
+  --article-color: rgba(32, 115, 145, 0.8);
+  --nav-color: rgba(32, 115, 145, 0.8);
+  --cdwn-color: rgba(32, 115, 145, 0.5);
 }
 
 body {
-  background-color: rgb(243, 223, 223);
+  background-color: rgb(234, 244, 247);
 }
 
 #container {

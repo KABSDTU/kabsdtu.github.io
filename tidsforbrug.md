@@ -19,12 +19,13 @@ I slut august er der rustur, og forinden en forberedelsestur, som man, som tvær
 Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ansvarlig for din ønskede retning.
 </p>
 
-<li>Hej-Vektor-Fest (20. februar)</li>
-<li>Første Uddannelsesdag (18. april)</li>
-<li>OPtur (3. - 7. juni)</li>
-<li>Førstehjælp (En af følgende dage: 13., 14., 20. eller 21. juni)</li>
-<li>Introdag (21. august) </li>
-<li>Rustur (22. - 28. august)</li>
+<li>Hej-Vektor-Fest (Nærmere info kommer)</li>
+<li>Første Uddannelsesdag (7. November)</li>
+<li>OPtur (13. - 15. November)</li>
+<li>Anden uddannelsesdag (9. Januar)</li>
+<li>Førstehjælp (16. Januar)</li>
+<li>Introdag (26. Januar) </li>
+<li>Rustur (27. - 30. Januar)</li>
 
 <p>
 Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode.
