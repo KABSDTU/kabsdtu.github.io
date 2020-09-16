@@ -25,7 +25,7 @@ title: KABS
 <li>	Nanna Mortensen	-	BSc. Chemistry and Technology	</li>
 <li>	Niels Kjær Ersbøll	-	BSc. Artificial Intelligence and Data	</li>
 <li>	Elisabeth Marie Heegaard	-	BSc. Mathematics and Technology	</li>
-<li>	Viktor Stenby Johansson	-	BSc. Quantitative Biology and Disease Modelling & BSc. Biomedical Engineering	</li>
+<li>	Frederik Peetz-Schou Larsen	-	BSc. Quantitative Biology and Disease Modelling & BSc. Biomedical Engineering	</li>
 <li>	Julie Munck Bertelsen	-	BSc. Mechanical Engineering	</li>
 <li>	Peter Riis Christiansen	-	BSc. Software Technology	</li>
 <li>	Nanna Søtang Steenberg Olsen	-	BSc. Strategical Analysis and Systems Design	</li>
