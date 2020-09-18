@@ -17,5 +17,5 @@ title: Hey! Bund lige
 <p>Bund lige </p>
 <p>Bund lige igen </p>
 
-<p>Vi glæder os til at I brækker jer med os  </p>
+<p>Vi glæder os til at I bunder jer med os  </p>
 

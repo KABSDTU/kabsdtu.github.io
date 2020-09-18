@@ -3,6 +3,8 @@ layout: en
 title: Apply as a vector
 ---
 
-<h1>The application for WinterVector'21 is opening on friday 18th of September</h1>
+<h1>WinterVector'21 info </h1>
+<p> Unfortunately it is not possible for only-english speaking vectors to apply for the winter start. If you speak danish please visit the danish application site.</p>
 
-<p>If you want to know more about what it means to be a vector, read more under the tab <a href="vektor.html">vector</a>.</p>
+
+<p>If you want to know more about what it means to be a vector, read more under the tab <a href="vektor.html">here</a>.</p>
