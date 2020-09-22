@@ -13,12 +13,12 @@ title: FAQ
 
 <h3><b>Hvilke datoer er vigtige at sætte af til at være vektor?</b></h3>
 <p>Der er visse datoer der er vigtige for dig at møde op til<br/>
-D. 15. Marts: Første uddannelsesdag<br/>
-D. 3. til d. 7. April: Optur<br/>
-D. 18. April: Anden uddannelsesdag<br/>
-Enten lørdag eller søndag i uge 23 og 24: Et af førstehjælpskurserne<br/>
-D. 21. August: Russsernes introdag<br/>
-D. 22-28 August: Rustursugen (Alt efter hvornår på ugen kommer an på hvilken tur du skal på)<br/>
+D. 7. November: Første uddannelsesdag<br/>
+D. 13. til d. 15. November: Optur<br/>
+D. 9. Januar: Anden uddannelsesdag<br/>
+D. 16 Januar: Førstehjælp<br/>
+D. 26. Januar: Russsernes introdag<br/>
+D. 27-30 August: Rustursugen - Bemærk: Ligger i samme uge som PF-Skituren<br/>
 </p>
 
 <h3><b>Hvornår og hvordan søger man?</b></h3>
