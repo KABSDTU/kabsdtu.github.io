@@ -21,7 +21,7 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 
 <li>Hej-Vektor-Fest (Nærmere info kommer)</li>
 <li>Første Uddannelsesdag (7. November)</li>
-<li>OPtur (13. - 15. November)</li>
+<li>vOPtur (20. - 22. November)</li>
 <li>Anden uddannelsesdag (9. Januar)</li>
 <li>Førstehjælp (16. Januar)</li>
 <li>Introdag (26. Januar) </li>
