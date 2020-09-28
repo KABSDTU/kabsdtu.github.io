@@ -14,7 +14,7 @@ title: FAQ
 <h3><b>Hvilke datoer er vigtige at sætte af til at være vektor?</b></h3>
 <p>Der er visse datoer der er vigtige for dig at møde op til<br/>
 D. 7. November: Første uddannelsesdag<br/>
-D. 13. til d. 15. November: Optur<br/>
+D. 20. til d. 22. November: vOptur<br/>
 D. 9. Januar: Anden uddannelsesdag<br/>
 D. 16 Januar: Førstehjælp<br/>
 D. 26. Januar: Russsernes introdag<br/>
