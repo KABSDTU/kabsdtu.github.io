@@ -38,5 +38,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-    window.location.replace("https://bund.nu")
+    window.location.href = "https://bund.nu";
 }
