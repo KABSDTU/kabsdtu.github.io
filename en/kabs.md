@@ -5,7 +5,7 @@ title: KABS
 
 <h1>KABS</h1>
 
-<p>KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are a total of 31 KABS, that each have their study programme and rus trip, three of which are weekendtrips, with one of these being alcohol-free.</p>
+<p>KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are a total of 31 KABS, that each have their study programme and rus trip, three of which are weekendtrips, with one of these being alcohol-free. Along with this we also have Mix-Trips, which are rus trips on which english is spoken, as well as rus trips and one day trips on campus.</p>
 <p>To get in touch with KABS, you are always welcome to contact us on our mail: kabs@pf.dk</p>
 
 <h2>KABS21:</h2>
