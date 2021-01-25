@@ -12,14 +12,16 @@ title: FAQ
 <p>Som standard skal du møde op til et ugentligt vektor-møde, hvilken dag på ugen får I besluttet indbyrdes i jeres tildelte vektorhold. Du skal også forvente at bruge lidt mere tid, da der også vil være opgaver du ville påtage dig uden for møderne.</p>
 
 <h3><b>Hvilke datoer er vigtige at sætte af til at være vektor?</b></h3>
-<p>Der er visse datoer der er vigtige for dig at møde op til<br/>
-D. 7. November: Første uddannelsesdag<br/>
-D. 20. til d. 22. November: vOptur<br/>
-D. 9. Januar: Anden uddannelsesdag<br/>
-D. 16 Januar: Førstehjælp<br/>
-D. 26. Januar: Russsernes introdag<br/>
-D. 27-30 August: Rustursugen - Bemærk: Ligger i samme uge som PF-Skituren<br/>
-</p>
+<p>Der er visse datoer der er vigtige for dig at møde op til:<br/>
+
+<li>Hej-Vektor-Fest (18. Februar)</li>
+<li>Første Uddannelsesdag (14. Marts)</li>
+<li>OPtur: part 1 (uddannelsesdag) (27. Marts)</li>
+<li>Anden uddannelsesdag (17. April)</li>
+<li>OPtur: part 2 (OPtur) (29. April - 2. Maj)</li>
+<li>Førstehjælp (5./6./12. eller 13. Juni)</li>
+<li>Introdag (20. August) </li>
+<li>Rustur (21. - 27. August)</li>
 
 <h3><b>Hvornår og hvordan søger man?</b></h3>
 <p>Se <a href="/ansog-som-vektor.html">Ansøg nu</a>.</p>
