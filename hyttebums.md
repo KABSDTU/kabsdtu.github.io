@@ -2,7 +2,7 @@
 layout: default
 title: Hyttebums
 ---
-<h1>Hyttebums i 2020?</h1>
+<h1>Hyttebums i 2021?</h1>
 
 <div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
 </div>
@@ -14,6 +14,6 @@ title: Hyttebums
 </p>
 
 <p>
-    Rusturene ligger i slutningen august, mens weekendturene ligger i weekenden op til. Du kan søge alene eller sammen med dine venner, som et hold. Der skal som udgangspunkt bruges 3 hyttebumser på hver rustur. 
+    Rusturene ligger i slutningen august, mens weekendturene ligger i weekenden op til. Du kan søge alene eller sammen med dine venner, som et hold. Der skal som udgangspunkt bruges 3-4 hyttebumser på hver rustur. 
 </p>
 
