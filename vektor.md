@@ -13,7 +13,7 @@ title: Vektor
 	Retningsholdet består af vektorer, der er vektor for samme retning som dig, mens tværholdet består af vektorer fra forskellige retningshold. 
 	Disse hold er dem, du skal samarbejde i gennem din vektorperiode. 
 	På tværholdet står i for at planlægge og afholde rustur. På retningsholdet står I for at planlægge introdagen for de nye studerende, samt andre retningsfaglige arrangementer. 
-	Hvis man er vektor for General Engineering kan ens retningshold og tværhold være det samme. Hvis du gerne vil vide mere om det at være vektor for General Engineering så tryk på <a href="/internationale-ture.html">Internationale ture</a>
+	Hvis man er vektor for General Engineering kan ens retningshold og tværhold være det samme. Hvis du gerne vil vide mere om det at være vektor for General Engineering så se <a href="/internationale-ture.html">Internationale ture</a>
 </p>
 
 <p>

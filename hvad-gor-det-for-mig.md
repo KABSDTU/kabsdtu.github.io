@@ -15,7 +15,7 @@ title: Hvad får jeg ud af det?
 </p>
 
 <p>
-	Som vektor opbygger du et godt netværk på DTU og i PF. Et enestående netværk, som kan være relevant fremover ved sociale som faglige projekter og lignende i bl.a. PF.
+	Som vektor opbygger du et enestående netværk på DTU og i PF, som kan være relevant fremover ved sociale som faglige projekter mm.
 </p>
 
 
