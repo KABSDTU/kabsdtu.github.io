@@ -13,7 +13,7 @@ body {
   top: 0;
   font-family: "Droid", sans-serif;
   color: #ffffff;
-  background-image: url("/static/img/mainBaggrund.jpeg");
+  background-image: url("/static/img/background.gif");
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
