@@ -37,13 +37,13 @@ title: KABS
 <li> 	Rosa Valdorf Pedersen	-	BEng. Chemical and Bio Engineering & BEng. Chemical Engineering and International Business	</li>
 <li>	Anders Birch Videbæk -	BEng. Civil Engineering & BEng. Arctic Technology	<!-- Torp 2.0 #D. Fisk --> </li>
 <li>	Camilla Lindhøj Rasmussen	-	BEng. Electrical Engineering & BEng. Electrical Energy Technology	</li>
-<li>	Katarina Ahrens 	-	BEng. Food Safety and Quality & BEng. Fishing technology	</li>
+<li>	Katharina Ahrens 	-	BEng. Food Safety and Quality & BEng. Fishing technology	</li>
 <li>	Zenia Enggaard Hansen		-	BEng. Global Business Engineering	</li>
 <li>	Emilie Vedsted Tronbjerg	-	BEng. Healthcare Technology & BEng. IT Electronics </li>
 <li>	Mina Ahmadi	-	BEng. IT and Economics	</li>
 <li>	Alexander Andreas Triantafillopoulos	-	BEng. Mechanical Engineering	</li>
 <li>	Andreas Juul Hallig	-	BEng. Mobility Transport and Logistics	</li>
-<li>	Victor Kildegaard Winsten	-	BEng. Process and Innovation & BEng. Manufacturing and Management	</li>
-<li>	Oliver Compres Poulsen	-	BEng. Software Technology	</li>
+<li>	Victor Kildegaard Winstén	-	BEng. Process and Innovation & BEng. Manufacturing and Management	</li>
+<li>	Oliver Comprés Poulsen	-	BEng. Software Technology	</li>
 
 </ul>
