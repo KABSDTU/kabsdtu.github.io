@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(86, 189, 39, 0.8);
-  --nav-color: rgba(86, 189, 39, 0.8);
+  --article-color: rgba(49, 18, 187, 0.8);
+  --nav-color: rgba(49, 18, 187, 0.8);
   --cdwn-color: rgba(26, 100, 128, 0.5);
 }
 
 body {
-  background-color: rgb(151, 219, 141);
+  background-color: rgb(100, 78, 196);
 }
 
 #container {
@@ -13,8 +13,8 @@ body {
   top: 0;
   font-family: "Droid", sans-serif;
   color: #ffffff;
-  background-image: url("/static/img/background.gif");
-  background-size: cover;
+  background-image: url("/static/img/mainBaggrund.jpg");
+  background-size: contain;
   background-position: top;
   background-attachment: fixed;
   width: 1020px;
