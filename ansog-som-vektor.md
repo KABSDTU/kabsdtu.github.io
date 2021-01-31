@@ -2,10 +2,9 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1>Ansøgningen til SommerVektor21 åbner snart! </h1>
+<h1>Ansøgningen til SommerVektor21 er åben! </h1>
 
-<a style="text-align: center;">
-  	<button class="applyBtn"> Åbner d. 2/2 </button></a>
+<a style="text-align: center;" href="https://docs.google.com/forms/d/e/1FAIpQLScPm2EjdFrIDSpPfnO-fsviaPEUt4Ye2vzgALLbYGF98jGXCA/viewform?usp=sf_link"><button class="applyBtn">Ansøg nu!</button></a>
 
 Vil du vide mere om det at være vektor kan du læse mere under fanen
 <a href="/vektor">Vektor</a>
