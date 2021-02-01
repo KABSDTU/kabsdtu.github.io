@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(49, 18, 187, 0.8);
-  --nav-color: rgba(49, 18, 187, 0.8);
+  --article-color: rgba(7,22,184, 0.8);
+  --nav-color: rgba(7,22,184, 0.8);
   --cdwn-color: rgba(26, 100, 128, 0.5);
 }
 
 body {
-  background-color: rgb(100, 78, 196);
+  background-color: rgb(109, 155, 255);
 }
 
 #container {
@@ -14,7 +14,7 @@ body {
   font-family: "Droid", sans-serif;
   color: #ffffff;
   background-image: url("/static/img/mainBaggrund.jpg");
-  background-size: contain;
+  background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
   width: 1020px;
@@ -47,7 +47,7 @@ h4 {
 article a {
   text-decoration: none;
   font-weight: bold;
-  color: #159acf;
+  color: #59c3ec;
 }
 
 /*

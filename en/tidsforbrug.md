@@ -15,7 +15,6 @@ title: Time consumption
 
 <li>Hello-Vector-Party (18th February)</li>
 <li>First educational day (14th March)</li>
-<li>Opturs educational day (27th March) </li>
 <li>Second educational day (17th April) </li>
 <li>OPtur (19th April - 2nd May)</li>
 <li>First Aid (One if the following days: 5th, 6th, 12th or 13th June)</li>
