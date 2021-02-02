@@ -17,7 +17,7 @@ title: KABS
 <li>	Axel Andreas Schmidt Haugbølle	-	C. Bæredygtigt Energidesign	</li>
 <li>	Lea Emilie Reymond Ajslev	- C. Design og Innovation	</li>
 <li>	Rikke Hvidtfeldt Jensen	-	C. Elektroteknologi & C. Cyberteknologi	</li>
-<li>	Nicolai Lindaa Amin	-	C. Fysik og Hesteteknologi	</li>
+<li>	Nicolai Lindaa Amin	-	C. Fysik og Nanoteknologi	</li>
 <li>	Jacob Birkjær Marcussen	-	C. General Engineering	</li>
 <li>	Klaudia Anna Kacperska	-	C. General Engineering	</li>
 <li>	Bjørn Thuesen	-	C. Geofysik og Rumteknologi	</li>
