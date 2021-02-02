@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(86, 189, 39, 0.8);
-  --nav-color: rgba(86, 189, 39, 0.8);
+  --article-color: rgba(7,22,184, 0.8);
+  --nav-color: rgba(7,22,184, 0.8);
   --cdwn-color: rgba(26, 100, 128, 0.5);
 }
 
 body {
-  background-color: rgb(151, 219, 141);
+  background-color:rgb(144, 188, 255);
 }
 
 #container {
@@ -13,8 +13,8 @@ body {
   top: 0;
   font-family: "Droid", sans-serif;
   color: #ffffff;
-  background-image: url("/static/img/background.gif");
-  background-size: cover;
+  background-image: url("/static/img/mainBaggrund.jpg");
+  background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
   width: 1020px;
@@ -47,7 +47,7 @@ h4 {
 article a {
   text-decoration: none;
   font-weight: bold;
-  color: #159acf;
+  color: #59c3ec;
 }
 
 /*
@@ -181,7 +181,7 @@ a:hover .new {
 }
 
 .seconds {
-  color: #cf5d74;
+  color: rgb(144, 188, 255);
 }
 
 /*
@@ -243,8 +243,8 @@ Form
   border-radius: 25px;
   font-size: 2.5em;
   font-weight: bold;
-  color: rgba(255, 255, 255, 1);
-  background-color: rgb(190, 190, 185);
+  color: rgb(255, 255, 255);
+  background-color: rgb(144, 188, 255);
 }
 
 input,

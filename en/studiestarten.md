@@ -4,7 +4,7 @@ title: The Study Start
 ---
 <h1>The Study Start</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/studiestarten.gif');">
+<div id="poster-image" style="background-image: url('/static/img/studiestarten.jpg');">
 </div>
 
 <p>The study start hires around {{layout.numOfVectors}} vectors divided into {{layout.numOfKABS}} teams for the summer study start and around

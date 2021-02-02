@@ -26,9 +26,8 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 
 <li>Hej-Vektor-Fest (18. Februar)</li>
 <li>Første Uddannelsesdag (14. Marts)</li>
-<li>OPtur: part 1 (uddannelsesdag) (27. Marts)</li>
 <li>Anden uddannelsesdag (17. April)</li>
-<li>OPtur: part 2 (OPtur) (29. April - 2. Maj)</li>
+<li>OPtur (29. April - 2. Maj)</li>
 <li>Førstehjælp (5./6./12. eller 13. Juni)</li>
 <li>Introdag (20. August) </li>
 <li>Rustur (21. - 27. August)</li>
