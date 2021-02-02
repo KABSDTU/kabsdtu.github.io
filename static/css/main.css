@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(109, 155, 255);
+  background-color:rgb(144, 188, 255);
 }
 
 #container {
@@ -181,7 +181,7 @@ a:hover .new {
 }
 
 .seconds {
-  color: #cf5d74;
+  color: rgb(144, 188, 255);
 }
 
 /*
@@ -243,8 +243,8 @@ Form
   border-radius: 25px;
   font-size: 2.5em;
   font-weight: bold;
-  color: rgba(255, 255, 255, 1);
-  background-color: rgb(190, 190, 185);
+  color: rgb(255, 255, 255);
+  background-color: rgb(144, 188, 255);
 }
 
 input,
