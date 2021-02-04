@@ -55,12 +55,12 @@ Da vi har brug for at fordele frivillige i de forskellige dele af studiestarten,
 <h2>Valgmuligheder og forpligtelser</h2>
 <h3>Beskyttelse af personoplysninger</h3>
 <p>
-Vi gemmer dine personlige oplysninger på servere med begrænset adgang, som er placeret i kontrollerede faciliteter. Vi har sikkerhedsforanstaltninger, der løbende kontrollerer, om hvorvidt dine personoplysninger håndteres forsvarligt, med hensyntagen til dine rettighederKort sagt, så opbevarer vi dine personoplysninger fortoligt.
+Vi gemmer dine personlige oplysninger på servere med begrænset adgang, som er placeret i kontrollerede faciliteter. Vi har sikkerhedsforanstaltninger, der løbende kontrollerer, om hvorvidt dine personoplysninger håndteres forsvarligt, med hensyntagen til dine rettigheder. Kort sagt, så opbevarer vi dine personoplysninger fortoligt.
 </p>
 
 <h3>Indsigt i data</h3>
 <p>
-Hvis du ønsker at vide hvilken data vi har registreret om dig, i vores database, kan du kontakte os via kabs@pf.dk Da vi passer godt på dine oplysninger, vil du blive bedt om at identificere dig, før viudleverer nogen data.
+Hvis du ønsker at vide hvilken data vi har registreret om dig, i vores database, kan du kontakte os via kabs@pf.dk Da vi passer godt på dine oplysninger, vil du blive bedt om at identificere dig, før vi udleverer nogen data.
 </p>
 
 <h3>Opdatering af data</h3>
