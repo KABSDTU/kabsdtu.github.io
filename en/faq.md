@@ -15,7 +15,7 @@ title: FAQ
 <li>Hello-Vector-Party (18th February)</li>
 <li>First educational day (14th March)</li>
 <li>Second educational day (17th April) </li>
-<li>OPtur (19th April - 2nd May)</li>
+<li>OPtur (29th April - 2nd May)</li>
 <li>First Aid (One if the following days: 5th, 6th, 12th or 13th June)</li>
 <li>Intro-day (20th August)</li>
 <li>Rus trip (21th - 27th August depending on the type of trip)</li>
@@ -47,8 +47,8 @@ Since vectors is mainly social guides and not study guides, it doesn't matter th
 <h3><b>What does it mean to be a weekend vector?</b></h3>
 <p>As a weekend vector, the time before the rustrip is no different than for that of the other vectors, the difference lays after the rustrip, since you will not have a cake-group. It means that the vector period will be shorter, but you will still have the same vector experiences.</p>
 
-<h3><b>Do you have to be able to speak english to be a vector?</b></h3>
-<p>No, but you will be limited to the international trips, the GE-trip and the mixed-trips</p>
+<h3><b>Do you have to be able to speak danish to be a vector?</b></h3>
+<p>No, but you will be limited to the international trips, the GE-trip and the mixed-trips if you do not.</p>
 
 <br/>
 <p>Still missing an answer to the question you have? You are always welcome to write to our <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r">KABS Facebook</a> or to our mail at kabs@pf.dk and we will answer your questions. Do you have a question that you think wil be a valuable addition to the website? Send it to us <a href="https://forms.gle/Ne7cmd8cXtqCVYWw7">here</a>, and we will attempt to get all relevant questions on the website.</p>
