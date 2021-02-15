@@ -5,7 +5,7 @@ title: FAQ
 
 <h1>FAQ</h1>
 
-<p>There will of course be allot of questions, if you consider becoming a vector. To make this a little easier, we have gathered some of the most common questions in a FAQ (Frequently Asked Questions).</p>
+<p>There will of course be a lot of questions, if you consider becoming a vector. To make this a little easier, we have gathered some of the most common questions in a FAQ (Frequently Asked Questions).</p>
 
 <h3><b>How time consuming is it to be a vector on a day-to-day basis?</b></h3>
 <p>As a baseline you will need to show up to the weekly vector-meetings. Which day of the week you will decide amongst your assigned vector team. Also expect to spend a little more time, since there will be tasks you will take outside the meetings.</p>
@@ -23,6 +23,38 @@ title: FAQ
 
 <h3><b>When and where do you apply?</b></h3>
 <p>Deadline for the vector application is the 14th of February, a couple of weeks before that a link will be uploaded to KABS DTU, where you can apply.</p>
+
+<h3><b>What kinds of rustrips are offered?</b></h3>
+
+<ul>
+    <li> Rustrip with alcohol (Danish)
+        <ul>
+            <li>Consists of danish speaking vectors and russes</li>
+            <li>Takes place over 4 days in a cabin away from campus</li>
+        </ul>
+    </li>
+    <li> Weekend rustrip (Danish)
+        <ul>
+            <li>Takes place from friday to sunday in a cabin away from campus</li>
+            <li>Independent of your studyline, so you will not have a cake team</li>
+            <li>3 trips in total - 1 is without alcohol</li>
+        </ul>
+    </li>
+    <li> General Engineering (GE) trip with alcohol (English)
+        <ul>
+            <li>Consists of GE vectors and russes only</li>
+        </ul>
+    </li>
+    <li> Mix trip (English)
+        <ul>
+            <li>GE vectors and russes mixed with other studylines</li>
+            <li>2 trips in total - 1 is without alcohol</li>
+        </ul>
+    </li>
+    <li> 4-days rustrip on campus with alcohol (Danish)
+    </li>
+</ul>
+
 
 <h3><b>What does it mean to be vector for another studyline?</b></h3>
 <p>If you have applied for a studyline, where there more applicants than vector positions, you might get the offer to to be a vector for another studyline than your own.
