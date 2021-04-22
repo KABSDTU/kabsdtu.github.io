@@ -16,7 +16,7 @@ title: KABS
 <li>	Gustav Gamst Larsen	-	BSc. Artificial Intelligence and Data	</li>  
 <li>    Anne Marie Nørrelykke Rossen - BSc. Biomedical Engineering </li>
 <li>	Dan Ethan Herlev Hvid	-	BSc. Chemistry and Technology	</li>
-<li>	Line Aagrén Geert	-	BSc. Civil Engineering 	</li>
+<li>	Tobias Kusk Vigholt 	-	BSc. Civil Engineering 	</li>
 <li>	Lea Emilie Reymond Ajslev	- BSc. Design and Innovation	</li>
 <li>	Bjørn Thuesen	-	BSc. Earth and Space Physics and Engineering	</li>
 <li>	Rikke Hvidtfeldt Jensen	-	BSc. Electrical Engineering & Bsc. Network Technology and IT	</li>

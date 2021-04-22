@@ -26,6 +26,37 @@ title: FAQ
 <h3><b>Hvornår og hvordan søger man?</b></h3>
 <p>Se <a href="/ansog-som-vektor.html">Ansøg nu</a>.</p>
 
+<h3><b>Hvilke slags rusture bliver tilbudt?</b></h3>
+
+<ul>
+    <li> Rustur med alkohol (Dansk)
+        <ul>
+            <li>Består af dansktalende vektorer og russer</li>
+            <li>Foregår over 4 dage i en hytte væk fra campus</li>
+        </ul>
+    </li>
+    <li> Weekendrustur (Dansk)
+        <ul>
+            <li>Foregår fra fredag til søndag i en hytte væk fra campus</li>
+            <li>Uafhængig af din studieretning, så her har du som udgangspunkt ikke noget kagehold bagefter</li>
+            <li>3 ture i alt - 1 er uden alkohol</li>
+        </ul>
+    </li>
+    <li> General Engineering (GE) tur med alkohol (Engelsk)
+        <ul>
+            <li>Består udelukkende af GE-russer og -vektorer</li>
+        </ul>
+    </li>
+    <li> Mix trip (Engelsk)
+        <ul>
+            <li>GE-vektorer og -russer blandet med andre studieretninger</li>
+            <li>2 ture i alt - 1 er uden alkohol</li>
+        </ul>
+    </li>
+    <li> 4-dages rustur på campus med alkohol (Dansk)
+    </li>
+</ul>
+
 <h3><b>Hvad betyder det at være vektor for en anden linje?</b></h3>
 <p>Hvis man har søgt for en retning, hvor der er flere ansøgninger end vektorpladser, kan man få tilbudt at være vektor for en anden linje end sin egen. Det at være vektor for en anden linje end ens egen indeholder alle de samme oplevelser som at være vektor for sin egen linje. En fordel ved at være vektor for en anden linje er, at det giver en et meget bredere netværk på DTU, man kommer til at kende mange, som man ellers aldrig ville have mødt. Da vektorer hovedsageligt er sociale vejleder, og ikke faglige, gør det ikke spor, at man ikke læser det samme som sine russere. Hvis der er noget retningsspecifikt som du som vektor skal vide, skal du ikke være bekymret, du vil få al information af vide af den KABS der står for den pågældende retning.</p>
 
