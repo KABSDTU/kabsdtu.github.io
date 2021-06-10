@@ -9,7 +9,7 @@ title: Bathtub/Beverages
 <div id="poster-image" style="background-image: url('/static/img/laeske.jpg');">
 </div>
 
-<a style="text-align: center" href="https://docs.google.com/forms/d/e/1FAIpQLSfGbt7b1HoxcoKrOFYdXYkG9svmy6ulJQjnXTSXFk-9OxKWVQ/viewform?usp=sf_link">
+<a style="text-align: center" href="https://forms.gle/bbZ8T1Co8L4XXS5cA">
 	<button class="applyBtn">
 	  Order bathtub
 	</button>
