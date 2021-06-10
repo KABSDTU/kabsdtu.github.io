@@ -12,7 +12,7 @@ title: KABS
 
 <ul>
 
-<li>	Line Aagrén Geert	-	C. Byggeteknologi 	</li>
+<li>	Tobias Kusk Vigholt	-	C. Byggeteknologi 	</li>
 <li>	Johanne Skotte Steen-Hansen	- C. Bygningsdesign	</li>
 <li>	Axel Andreas Schmidt Haugbølle	-	C. Bæredygtigt Energidesign	</li>
 <li>	Lea Emilie Reymond Ajslev	- C. Design og Innovation	</li>
