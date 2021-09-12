@@ -30,7 +30,7 @@ title: KABS
 <li>	Nicolai Lindaa Amin	-	BSc. Physics and Nanotechnology	</li>
 <li>	Anton Thestrup Jørgensen	-	BSc. Software Technology	</li>
 <li>	Cecilie Kajberg Roer Jensen	-	BSc. Strategical Analysis and Systems Design	</li>
-<li>	Axel Andreas Schmidt Haugbølle	-	BSc. Sustainable Energy Design	</li>
+<li>	Axel Andreas Schmidt Haugbølle	-	BSc. Design of Sustainable Energy Systems	</li>
 
 
 <li>	Helena Tving Sjøholm Jensen	-	BEng. Architectural Engineering	</li>
