@@ -2,9 +2,9 @@
 layout: default
 title: Ansøg som Hyttebums
 ---
-<h1> Ansøgningen er lukket</h1>
+<h1> Ansøgningen åbner snart</h1>
 
-<p>Ansøgningen til rustursbums sommerstarten 2021 er lukket.</p>
+<p>Hold øje med den her side, den opdaterer snart ;)) .</p>
 <p>Vi ses til vinter.</p>
 <br />
 
