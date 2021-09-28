@@ -11,8 +11,8 @@ title: Tidsforbrug
 <p>
 Det kræver tid at være vektor. 
 Nogle perioder er mere tidskrævende end andre. 
-Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning op til OPtur.
-I slut august er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt.
+Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning op til vOPtur.
+I slut januar er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt.
 </p>
 
 <p>
@@ -24,13 +24,13 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <b>VIGTIGE DATOER:</b>
 </p>
 
-<li>Hej-Vektor-Fest (18. Februar)</li>
-<li>Første Uddannelsesdag (14. Marts)</li>
-<li>Anden uddannelsesdag (17. April)</li>
-<li>OPtur (29. April - 2. Maj)</li>
-<li>Førstehjælp (5./6./12. eller 13. Juni)</li>
-<li>Introdag (20. August) </li>
-<li>Rustur (21. - 27. August)</li>
+<li>Hej-Vektor-Fest (28. Oktober)</li>
+<li>Første Uddannelsesdag (14. November)</li>
+<li>vOPtur (19. - 21. November)</li>
+<li>Anden uddannelsesdag (8. Januar)</li>
+<li>Førstehjælp (16. Januar)</li>
+<li>Introdag (26. Januar) </li>
+<li>Rustur (27. - 30. Januar)</li>
 
 <p>
 Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode.
