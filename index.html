@@ -4,12 +4,45 @@ title: FarmerKABS søger vektorer
 ---
 
 
-<h1>FarmerKABS leder efter nogle is kolde vektorer!</h1>
+<h1>FarmerKABS søger vinterbumser!</h1>
 
-<p> Vektorerne skal hyres, og vi har brug for dig! Du skal ud og være lige så sej som din vektor var, og måske endda endnu sejere!
+<p> Rusturene i vinterstarten skal have noget dejlig mad, så hvis du er klar på at koge nogle boller og putte drejebøger
+  i fryseren, så er det dig vi leder efter. Søg her:
 </p>
-<p>Hvis det kunne være noget for dig, kig lige her: <a href="https://blivawesome.dk/ansog-som-vektor.html">Vektor</a></p>
 
+
+<br />
+<a
+  style="text-align: center;"
+  href="https://forms.gle/1PYpB8oFteyFn7r98"
+  ><button class="applyBtn">Ansøg nu!</button></a
+>
+<br />
+
+
+
+<div style="text-align: center; padding-bottom: 20px;">
+  <a href="/ansog-som-vektor">
+    <div id="clockdiv">
+      <div>
+        <span class="days"></span>
+        <div class="smalltext">Dage</div>
+      </div>
+      <div>
+        <span class="hours"></span>
+        <div class="smalltext">Timer</div>
+      </div>
+      <div>
+        <span class="minutes"></span>
+        <div class="smalltext">Minuter</div>
+      </div>
+      <div>
+        <span class="seconds"></span>
+        <div class="smalltext">Sekunder</div>
+      </div>
+    </div>
+  </a>
+</div>
 
 
 <div
@@ -17,3 +50,47 @@ title: FarmerKABS søger vektorer
   style="background-image: url('/static/img/forside.gif');"
 ></div>
 
+<script>
+  function getTimeRemaining(endtime) {
+    var t = Date.parse(endtime) - Date.parse(new Date());
+    var seconds = Math.floor((t / 1000) % 60);
+    var minutes = Math.floor((t / 1000 / 60) % 60);
+    var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+    var days = Math.floor(t / (1000 * 60 * 60 * 24));
+    return {
+      total: t,
+      days: days,
+      hours: hours,
+      minutes: minutes,
+      seconds: seconds
+    };
+  }
+
+  function initializeClock(id, endtime) {
+    var clock = document.getElementById(id);
+    var daysSpan = clock.querySelector(".days");
+    var hoursSpan = clock.querySelector(".hours");
+    var minutesSpan = clock.querySelector(".minutes");
+    var secondsSpan = clock.querySelector(".seconds");
+
+    function updateClock() {
+      var t = getTimeRemaining(endtime);
+
+      daysSpan.innerHTML = t.days;
+      hoursSpan.innerHTML = ("0" + t.hours).slice(-2);
+      minutesSpan.innerHTML = ("0" + t.minutes).slice(-2);
+      secondsSpan.innerHTML = ("0" + t.seconds).slice(-2);
+
+      if (t.total <= 0) {
+        clearInterval(timeinterval);
+      }
+    }
+
+    updateClock();
+    var timeinterval = setInterval(updateClock, 1000);
+  }
+
+  var deadline = new Date("November 24, 2021 23:59:00");
+  initializeClock("clockdiv", deadline);
+  document.getElementById("demo").innerHTML = deadline;
+</script>
