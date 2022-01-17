@@ -5,14 +5,14 @@ title: Tidsforbrug
 
 <h1>Tidsforbrug som Vektor</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/tidsforbrug.jpg');">
+<div id="poster-image-long" style="background-image: url('/static/img/bakerVector.webp');">
 </div>
 
 <p>
 Det kræver tid at være vektor. 
 Nogle perioder er mere tidskrævende end andre. 
-Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning op til vOPtur.
-I slut januar er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt.
+Man skal minimum regne med et aftenmøde om ugen og en større indsats ved kostumesyning op til i OPtur påsken.
+I august er der rustur, og forinden en forberedelsestur, som man, som tværhold, selv er herre over at få planlagt.
 </p>
 
 <p>
