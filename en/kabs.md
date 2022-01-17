@@ -12,38 +12,37 @@ title: KABS
 
 <ul>
 
-<li>	Johanne Skotte Steen-Hansen	-	BSc. Architectural Engineering	</li>
-<li>	Gustav Gamst Larsen	-	BSc. Artificial Intelligence and Data	</li>  
-<li>    Anne Marie Nørrelykke Rossen - BSc. Biomedical Engineering </li>
-<li>	Dan Ethan Herlev Hvid	-	BSc. Chemistry and Technology	</li>
-<li>	Tobias Kusk Vigholt 	-	BSc. Civil Engineering 	</li>
-<li>	Lea Emilie Reymond Ajslev	- BSc. Design and Innovation	</li>
-<li>	Bjørn Thuesen	-	BSc. Earth and Space Physics and Engineering	</li>
-<li>	Rikke Hvidtfeldt Jensen	-	BSc. Electrical Engineering & Bsc. Network Technology and IT	</li>
-<li>	Elena Victoria Lagard	-	BSc. Environmental Engineering	</li>
-<li>	Jacob Birkjær Marcussen	-	BSc. General Engineering	</li>
-<li>	Klaudia Anna Kacperska	-	BSc. General Engineering	</li>
-<li>	Jakob Højgaard		-	BSc. Life Science and Technology	</li>
-<li>	Lasse Rene		-	BSc. Life Science and Technology	</li>
-<li>	Michella Ravn Søndergaard	-	BSc. Mathematics and Technology	</li>
-<li>	Christian Bülow Fuglsang	-	BSc. Mechanical Engineering	</li>
-<li>	Nicolai Lindaa Amin	-	BSc. Physics and Nanotechnology	</li>
-<li>	Anton Thestrup Jørgensen	-	BSc. Software Technology	</li>
-<li>	Cecilie Kajberg Roer Jensen	-	BSc. Strategical Analysis and Systems Design	</li>
-<li>	Axel Andreas Schmidt Haugbølle	-	BSc. Design of Sustainable Energy Systems	</li>
+<li>	Adar Alan Benli	-	C. Biomedical Engineering	</li>
+<li>	Alan Yang	-	C. Data Science and Management	</li>
+<li>	Annemarie Louw-Pedersen	-	C. Mechanical Engineering (P&K)	</li>
+<li>	August Weijers	-	C. General Engineering	</li>
+<li>	Emil Hovgaard Wrona Olsen	-	C. Artificial Intelligence and Data	</li>
+<li>	Emil Nymark Trangeled	-	D. Software Technology	</li>
+<li>	Henrik Gjerding Hynkemejer	-	C. Earth and Space Physics and Engineering	</li>
+<li>	Ida Cecilie Hoielt	-	C. Design of Sustainable Energy Systems	</li>
+<li>	Isabella Hochstenbach Fink-Jensen	-	C. Chemistry and Technology	</li>
+<li>	Jacob Hagen Pedersen	-	D. Food Safety and Quality	</li>
+<li>	Jean-Victor Leif Joseph Bendixen-Fernex de Mongex	-	C. Physics and Nanotechnology	</li>
+<li>	Jonas Bøttzauw Pedersen	-	C. Software Technology	</li>
+<li>	Jonas Matthiesen	-	D. Electronic technology & D. Electronic Energytechnology	</li>
+<li>	Jonathan Schmidt Højlev	-	C. Architectural Engineering	</li>
+<li>	Karl Emil Jakobsen	-	D. Global Business Engineering	</li>
+<li>	Liv Didi Pedersen	-	D. Promo	</li>
+<li>	Michail Philip Harmandjiev (Mimo)	-	C. General Engineering	</li>
+<li>	Mike Linde	-	D. Promo	</li>
+<li>	Monica Diaz Hansen	-	C. Life Science & Technology	</li>
+<li>	Nick Sommer	-	C. Life Science & Technology	</li>
+<li>	Oliver Koch	-	D. Civil Engineering	</li>
+<li>	Oliver Springborg	-	C. Civil Engineering	</li>
+<li>	Otto Westy Rasmussen	-	C. Environmental Engineering	</li>
+<li>	Pernille Christie	-	C. Mathematics and Technology	</li>
+<li>	Pernille Diana Vinding Jönsson	-	D. Architectural Engineering	</li>
+<li>	Rasmus Holm Høyrup	-	D. Chemical and Bio Engineering and D. Chemical Engineering and International Business	</li>
+<li>	Rasmus Sigurd Sundin	-	D. IT and Economy	</li>
+<li>	Signe Staun	-	D. Healthcare Technology & IT-Electonic (SUIT)	</li>
+<li>	Silas Lasak Hedeboe	-	D. Mechanical Engineering	</li>
+<li>	William Sommer	-	C. Design & Innovation	</li>
+<li>	Xandra Huryn	-	C. Cyber teknologi og C. Elektroteknologi	</li>
 
-
-<li>	Helena Tving Sjøholm Jensen	-	BEng. Architectural Engineering	</li>
-<li> 	Rosa Valdorf Pedersen	-	BEng. Chemical and Bio Engineering & BEng. Chemical Engineering and International Business	</li>
-<li>	Anders Birch Videbæk -	BEng. Civil Engineering & BEng. Arctic Technology	<!-- Torp 2.0 #D. Fisk --> </li>
-<li>	Camilla Lindhøj Rasmussen	-	BEng. Electrical Engineering & BEng. Electrical Energy Technology	</li>
-<li>	Katharina Ahrens 	-	BEng. Food Safety and Quality & BEng. Fishing technology	</li>
-<li>	Zenia Enggaard Hansen		-	BEng. Global Business Engineering	</li>
-<li>	Emilie Vedsted Tronbjerg	-	BEng. Healthcare Technology & BEng. IT Electronics </li>
-<li>	Mina Ahmadi	-	BEng. IT and Economics	</li>
-<li>	Alexander Andreas Triantafillopoulos	-	BEng. Mechanical Engineering	</li>
-<li>	Andreas Juul Hallig	-	BEng. Mobility Transport and Logistics	</li>
-<li>	Victor Kildegaard Winstén	-	BEng. Process and Innovation & BEng. Manufacturing and Management	</li>
-<li>	Oliver Comprés Poulsen	-	BEng. Software Technology	</li>
 
 </ul>
