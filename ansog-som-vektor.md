@@ -2,10 +2,10 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1>Ansøgningen til VinterVektor22 er lukket, glæd jer til KABS22 </h1>
+<h1>Ansøgningen til Vektor22 er åbner snart. Se med på første infomøde d. 1 Febuar </h1>
 
 <p>Hold øje med den her side, den opdaterer snart ;)) .</p>
-<p>Vi ses til sommer.</p>
+<p>Vi ses snart 🧄.</p>
 <br />
 
 
