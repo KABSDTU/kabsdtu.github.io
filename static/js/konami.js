@@ -5,38 +5,50 @@ var allowedKeys = {
     39: 'right',
     40: 'down',
     65: 'a',
-    66: 'b'
+    66: 'b',
+    54: '6'
 };
 
 // the 'official' Konami Code sequence
 var konamiCode = ['up', 'up', 'down', 'down', 'left', 'right', 'left', 'right', 'b', 'a'];
-
+// the secret code to the devils layer
+var devilCode = ['6', '6', '6'];
 // a variable to remember the 'position' the user has reached so far.
-var konamiCodePosition = 0;
+var specialCodePosition = 0;
 
 // add keydown event listener
 document.addEventListener('keydown', function(e) {
     // get the value of the key code from the key map
     var key = allowedKeys[e.keyCode];
     // get the value of the required key from the konami code
-    var requiredKey = konamiCode[konamiCodePosition];
+    var requiredKonamiKey = konamiCode[specialCodePosition];
+    var requiredDevilKey = devilCode[specialCodePosition];
 
     // compare the key with the required key
-    if (key == requiredKey) {
+    if (key == requiredKonamiKey || key == requiredDevilKey) {
 
         // move to the next key in the konami code sequence
-        konamiCodePosition++;
+        specialCodePosition++;
 
-        // if the last key is reached, activate cheats
-        if (konamiCodePosition == konamiCode.length) {
-            activateCheats();
-            konamiCodePosition = 0;
+        if ((specialCodePosition == devilCode.length) && (key = requiredDevilKey)) {
+            activateHell();
+            specialCodePosition = 0;
         }
+        // if the last key is reached, activate cheats
+        if (specialCodePosition == konamiCode.length) {
+            activateCheats();
+            specialCodePosition = 0;
+        }
+        
     } else {
-        konamiCodePosition = 0;
+        specialCodePosition = 0;
     }
 });
 
 function activateCheats() {
     window.location.href = "https://bund.nu";
+}
+
+function activateHell() {
+    window.location.href = "https://ruc.dk";
 }
