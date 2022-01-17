@@ -14,34 +14,44 @@ var konamiCode = ['up', 'up', 'down', 'down', 'left', 'right', 'left', 'right', 
 // the secret code to the devils layer
 var devilCode = ['6', '6', '6'];
 // a variable to remember the 'position' the user has reached so far.
-var specialCodePosition = 0;
+var konamiCodePosition = 0;
+var devilCodePosition = 0;
+
 
 // add keydown event listener
 document.addEventListener('keydown', function(e) {
     // get the value of the key code from the key map
     var key = allowedKeys[e.keyCode];
     // get the value of the required key from the konami code
-    var requiredKonamiKey = konamiCode[specialCodePosition];
-    var requiredDevilKey = devilCode[specialCodePosition];
+    var requiredKonamiKey = konamiCode[konamiCodePosition];
+    var requiredDevilKey = devilCode[devilCodePosition];
 
     // compare the key with the required key
-    if (key == requiredKonamiKey || key == requiredDevilKey) {
+    if (key == requiredKonamiKey) {
 
         // move to the next key in the konami code sequence
-        specialCodePosition++;
-
-        if ((specialCodePosition == devilCode.length) && (key = requiredDevilKey)) {
-            activateHell();
-            specialCodePosition = 0;
-        }
+        konamiCodePosition++;
         // if the last key is reached, activate cheats
-        if (specialCodePosition == konamiCode.length) {
+        if (konamiCodePosition == konamiCode.length) {
             activateCheats();
-            specialCodePosition = 0;
+            konamiCodePosition = 0;
         }
         
     } else {
-        specialCodePosition = 0;
+        konamiCodePosition = 0;
+    }
+
+    if (key == requiredDevilKey) {
+        // move to the next key in the konami code sequence
+        devilCodePosition++;
+        // if the last key is reached, activate cheats
+        if (devilCodePosition == devilCode.length) {
+            activateHell();
+            devilCodePosition = 0;
+        }
+        
+    } else {
+        devilCodePosition = 0;
     }
 });
 
