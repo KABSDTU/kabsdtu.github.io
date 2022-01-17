@@ -40,3 +40,18 @@ Denne ansvarspost kræver viden om servere og kodning til hjemmesider: generelt 
  * Gør det så nemt, som muligt at ændre siden og uploade en ny udgave.
  * Få 100 % styr på datoerne før de kommer op på hjemmesiden.
  * Det tager en god time før hele hjemmesiden er opdateret, så gør det i god tid.
+
+
+ ### Guide til at komme i gang.
+
+#### Windows
+ 1. Installer Git og Ruby
+ 2. Åben en terminal (CMD) og indtast ```console gem install jekyll bundler```
+ 3. Indtast i samme terminal ```console gem install wdm```
+ 4. Indtast i samme terminal ```console gem install webrick```
+ 5. Hent nu dette repository, ved at indtaste ```console git clone "indsæt link til dette repository"``` eller brug en git client til det samme.
+ 6. Du kan nu starte jekyll serveren, ved at stå i mappen og indtaste ```jekyll serve``` i en terminal.
+
+ #### Linux (Ubuntu / Debian)
+ * Check at jekyll er installeret ved ```console jekyll -v```  ellers brug ```console sudo apt-get install jekyll```
+ * Du kan nu køre serveren med ```console jekyll serve```.
