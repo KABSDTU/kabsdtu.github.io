@@ -4,7 +4,7 @@ title: Hvad am I getting out of it?
 ---
 <h1>What does it actually do for me?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/hvadgordetformig.jpg');">
+<div id="poster-image-long" style="background-image: url('/static/img/whiteonion.png');">
 </div>
 
 <p>As a vector you will get to take responsibility of, and to make your mark on, various projects for the study start and your rus trip. The experiences you make by planning a rus trip, intro-trip and intro-day and so forth, will be applicable to your future career. On the rus trip there are various responsibilities that has to be taken care of, such as budgeting, scheduling, taking care of materials and more, that, as a vector, will present you with the possibility of more responsibility.</p>
