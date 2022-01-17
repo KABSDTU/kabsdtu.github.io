@@ -14,6 +14,6 @@ title: Hyttebums
 </p>
 
 <p>
-    Rusturene ligger i slutningen august, mens weekendturene ligger i weekenden op til. Du kan søge alene eller sammen med dine venner, som et hold. Der skal som udgangspunkt bruges 3-4 hyttebumser på hver rustur. 
+    Rusturene ligger i slutningen august, mens weekendturene ligger i weekenden op til. Du kan søge alene eller sammen med dine venner, som et hold. Der skal som udgangspunkt bruges 3-4 hyttebumser på hver rustur. KABS21 var de bedste i hele verdenen.
 </p>
 
