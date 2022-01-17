@@ -213,6 +213,16 @@ a:hover .new {
   font-style: italic;
 }
 
+#poster-image-long {
+  width: 600px;
+  padding: 0;
+  margin: 0;
+  background-image: url("");
+  background-size: cover;
+  height: 550px;
+  box-shadow: 0 0 10px black;
+}
+
 /*
  Footer
 */
