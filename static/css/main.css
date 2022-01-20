@@ -12,7 +12,7 @@ body {
   margin: auto;
   top: 0;
   font-family: "Droid", sans-serif;
-  color: #ffffff;
+  color: #000000;
   background-image: url("/static/img/mainBaggrund.jpg");
   background-size: auto 100%;
   background-position: top;
@@ -92,7 +92,7 @@ nav ul li a {
   font-size: 1.3em;
   padding-top: 0.3em;
   padding-bottom: 0.3em;
-  color: #f1f2f4;
+  color: #000000;
   text-decoration: none;
   transition: background-color 0.25s;
 }
@@ -237,6 +237,7 @@ footer {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   margin-bottom: 1em;
+  filter: invert(1);
 }
 
 /*
