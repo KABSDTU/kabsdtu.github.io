@@ -40,9 +40,16 @@ title: FAQ
             <li>3 trips in total - 1 is without alcohol</li>
         </ul>
     </li>
-    <li> General Engineering (GE) trip with alcohol (English)
+    <li> Oneday trip (English)
         <ul>
-            <li>Consists of GE vectors and russes only</li>
+            <li>Consists of danish speaking vectors and russes</li>
+        </ul>
+    </li>
+    <li> Campus rustrip (Danish)
+        <ul>
+            <li>Takes place over 4 days on campus</li>
+            <li>People go home at the end of the day, and come back the next morning</li>
+            <li>2 trips in total with alcohol from 17:00</li>
         </ul>
     </li>
     <li> Mix trip (English)
@@ -50,8 +57,6 @@ title: FAQ
             <li>GE vectors and russes mixed with other studylines</li>
             <li>2 trips in total - 1 is without alcohol</li>
         </ul>
-    </li>
-    <li> 4-days rustrip on campus with alcohol (Danish)
     </li>
 </ul>
 
@@ -80,7 +85,7 @@ Since vectors is mainly social guides and not study guides, it doesn't matter th
 <p>As a weekend vector, the time before the rustrip is no different than for that of the other vectors, the difference lays after the rustrip, since you will not have a cake-group. It means that the vector period will be shorter, but you will still have the same vector experiences.</p>
 
 <h3><b>Do you have to be able to speak danish to be a vector?</b></h3>
-<p>No, but you will be limited to the international trips, the GE-trip and the mixed-trips if you do not.</p>
+<p>No, but you will be limited to the mixed-trips and the one day trip if you do not.</p>
 
 <br/>
 <p>Still missing an answer to the question you have? You are always welcome to write to our <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r">KABS Facebook</a> or to our mail at kabs@pf.dk and we will answer your questions. Do you have a question that you think wil be a valuable addition to the website? Send it to us <a href="https://forms.gle/Ne7cmd8cXtqCVYWw7">here</a>, and we will attempt to get all relevant questions on the website.</p>

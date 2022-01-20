@@ -34,7 +34,7 @@ title: KABS
 <li>	Nick Sommer	-	C. Life Science og Teknologi	</li>
 <li>	Oliver Koch	-	D. Byggeri og Infrastruktur samt D. Arktisk Teknologi	</li>
 <li>	Oliver Springborg	-	C. Byggeteknologi	</li>
-<li>	Otto Westy Rasmussen	-	C. Vand, bioressourcer og miljømanagement	</li>
+<li>	Otto Westy Rasmussen	-	C. Miljøteknologi	</li>
 <li>	Pernille Christie	-	C. Matematik og Teknologi	</li>
 <li>	Pernille Diana Vinding Jönsson	-	D. Bygningsdesign	</li>
 <li>	Rasmus Holm Høyrup	-	D. Kemi og Bioteknik samt D. Kemiteknik og International Business	</li>
