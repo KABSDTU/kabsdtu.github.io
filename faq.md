@@ -27,7 +27,6 @@ title: FAQ
 <p>Se <a href="/ansog-som-vektor.html">Ansøg nu</a>.</p>
 
 <h3><b>Hvilke slags rusture bliver tilbudt?</b></h3>
-
 <ul>
     <li> Rustur med alkohol (Dansk)
         <ul>
@@ -42,9 +41,16 @@ title: FAQ
             <li>3 ture i alt - 1 er uden alkohol</li>
         </ul>
     </li>
-    <li> General Engineering (GE) tur med alkohol (Engelsk)
+    <li> Endagstur (English)
         <ul>
-            <li>Består udelukkende af GE-russer og -vektorer</li>
+            <li>Med danske og engelske russere</li>
+        </ul>
+    </li>
+    <li> Campusrustur (Dansk)
+        <ul>
+            <li>Sker over 4 dage på campus</li>
+            <li>Folk går hjem om aftnen, og kommer igen næste morgen</li>
+            <li>2 ture med alkohol fra 17:00</li>
         </ul>
     </li>
     <li> Mix trip (Engelsk)
@@ -52,8 +58,6 @@ title: FAQ
             <li>GE-vektorer og -russer blandet med andre studieretninger</li>
             <li>2 ture i alt - 1 er uden alkohol</li>
         </ul>
-    </li>
-    <li> 4-dages rustur på campus med alkohol (Dansk)
     </li>
 </ul>
 
