@@ -47,7 +47,7 @@ h4 {
 article a {
   text-decoration: none;
   font-weight: bold;
-  color: #59c3ec;
+  color: #d42828;
 }
 
 /*
@@ -181,7 +181,7 @@ a:hover .new {
 }
 
 .seconds {
-  color: rgb(144, 188, 255);
+  color: #d42828;
 }
 
 /*
@@ -255,7 +255,7 @@ Form
   font-size: 2.5em;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: rgb(144, 188, 255);
+  background-color: #d42828;
 }
 
 input,
