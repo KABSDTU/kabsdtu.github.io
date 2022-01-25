@@ -16,14 +16,14 @@ title: FAQ
 <li>Hello-Vector-Party (17th February)</li>
 <li>First educational day (19th March)</li>
 <li>Second educational day (23th April) </li>
-<li>OPtur (8th April - 12nd May)</li>
+<li>OPtur (8th April - 12nd April)</li>
 <li>First Aid (One if the following days: 4th, 5th, 11th or 12th June)</li>
 <li>Intro-day (19th August)</li>
 <li>Rus trip (20th - 27th August depending on the type of trip)</li>
 </p>
 
 <h3><b>When and where do you apply?</b></h3>
-<p>Deadline for the vector application is the 14th of February, a couple of weeks before that a link will be uploaded to KABS DTU, where you can apply.</p>
+<p>Deadline for the vector application is the 11th of February, a couple of weeks before that a link will be uploaded to KABS DTU, where you can apply.</p>
 
 <h3><b>What kinds of rustrips are offered?</b></h3>
 

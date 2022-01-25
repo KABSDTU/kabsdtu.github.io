@@ -17,7 +17,7 @@ title: FAQ
 <li>Hej-Vektor-Fest (17. Februar)</li>
 <li>Første Uddannelsesdag (19. Marts)</li>
 <li>Anden uddannelsesdag (23. April)</li>
-<li>OPtur (8. April - 12. Maj)</li>
+<li>OPtur (8. April - 12. April)</li>
 <li>Førstehjælp (4./5./11. eller 12. Juni)</li>
 <li>Introdag (19. August) </li>
 <li>Rustur (20. - 27. August)</li>
