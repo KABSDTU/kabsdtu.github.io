@@ -14,13 +14,13 @@ title: FAQ
 <h3><b>Hvilke datoer er vigtige at sætte af til at være vektor?</b></h3>
 <p>Der er visse datoer der er vigtige for dig at møde op til:<br/>
 
-<li>Hej-Vektor-Fest (18. Februar)</li>
-<li>Første Uddannelsesdag (14. Marts)</li>
-<li>Anden uddannelsesdag (17. April)</li>
-<li>OPtur (29. April - 2. Maj)</li>
-<li>Førstehjælp (5./6./12. eller 13. Juni)</li>
-<li>Introdag (20. August) </li>
-<li>Rustur (21. - 27. August)</li>
+<li>Hej-Vektor-Fest (17. Februar)</li>
+<li>Første Uddannelsesdag (19. Marts)</li>
+<li>Anden uddannelsesdag (23. April)</li>
+<li>OPtur (8. April - 12. Maj)</li>
+<li>Førstehjælp (4./5./11. eller 12. Juni)</li>
+<li>Introdag (19. August) </li>
+<li>Rustur (20. - 27. August)</li>
 
 
 <h3><b>Hvornår og hvordan søger man?</b></h3>

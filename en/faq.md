@@ -12,13 +12,14 @@ title: FAQ
 
 <h3><b>Which dates is it important to keep free, to become a vector?</b></h3>
 <p>There are certain important dates that you will be required to show up to:<br/>
-<li>Hello-Vector-Party (18th February)</li>
-<li>First educational day (14th March)</li>
-<li>Second educational day (17th April) </li>
-<li>OPtur (29th April - 2nd May)</li>
-<li>First Aid (One if the following days: 5th, 6th, 12th or 13th June)</li>
-<li>Intro-day (20th August)</li>
-<li>Rus trip (21th - 27th August depending on the type of trip)</li>
+
+<li>Hello-Vector-Party (17th February)</li>
+<li>First educational day (19th March)</li>
+<li>Second educational day (23th April) </li>
+<li>OPtur (8th April - 12nd May)</li>
+<li>First Aid (One if the following days: 4th, 5th, 11th or 12th June)</li>
+<li>Intro-day (19th August)</li>
+<li>Rus trip (20th - 27th August depending on the type of trip)</li>
 </p>
 
 <h3><b>When and where do you apply?</b></h3>
