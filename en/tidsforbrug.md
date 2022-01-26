@@ -20,6 +20,9 @@ title: Time consumption
 <li>First Aid (One if the following days: 4th, 5th, 11th or 12th June)</li>
 <li>Intro-day (19th August)</li>
 <li>Rus trip (20th - 27th August depending on the type of trip)</li>
+<<<<<<< HEAD
 <li><a style="font-style: italic;">Only for beverage </a>Beverage education 26th or 27th of March</li>
+=======
+>>>>>>> 4fb0cbf21b1ec00abab46ab490514ae992e13daf
 
 <p>The time and effort that is put into the vector work can’t be measured against the friendship and the personal experience that is gained during the vector period.</p>
