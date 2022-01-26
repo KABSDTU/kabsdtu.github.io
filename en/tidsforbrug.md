@@ -21,4 +21,6 @@ title: Time consumption
 <li>Intro-day (20th August)</li>
 <li>Rus trip (21th - 27th August depending on the type of trip)</li>
 
+<li><a style="font-style: italic;">Only for beverage </a>Beverage education 26th or 27th of March</li>
+
 <p>The time and effort that is put into the vector work can’t be measured against the friendship and the personal experience that is gained during the vector period.</p>

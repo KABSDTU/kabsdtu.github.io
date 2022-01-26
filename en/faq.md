@@ -19,6 +19,7 @@ title: FAQ
 <li>First Aid (One if the following days: 5th, 6th, 12th or 13th June)</li>
 <li>Intro-day (20th August)</li>
 <li>Rus trip (21th - 27th August depending on the type of trip)</li>
+<li><a style="font-style: italic;">Only for beverage </a>Beverage education 26th or 27th of March</li>
 </p>
 
 <h3><b>When and where do you apply?</b></h3>

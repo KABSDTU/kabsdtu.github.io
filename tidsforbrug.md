@@ -31,6 +31,7 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <li>Førstehjælp (16. Januar)</li>
 <li>Introdag (26. Januar) </li>
 <li>Rustur (27. - 30. Januar)</li>
+<li><a style="font-style: italic;">Kun for læske</a>Læske uddannelsesdag 26. eller 27. Marts</li>
 
 <p>
 Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode.
