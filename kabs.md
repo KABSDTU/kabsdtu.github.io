@@ -8,42 +8,41 @@ title: KABS
 <p>KABS står for Koordinator af Bachelor Studiestarten. Der er {{layout.numOfKABS}} KABS, som hver har en retning og en rustur, hvoraf tre af rusturene er weekendture, hvor en af dem er alkoholfri. </p>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os over vores mail: kabs@pf.dk</p>
 
-<h2>KABS21:</h2>
+<h2>KABS22:</h2>
 
 <ul>
 
-<li>	Tobias Kusk Vigholt	-	C. Byggeteknologi 	</li>
-<li>	Johanne Skotte Steen-Hansen	- C. Bygningsdesign	</li>
-<li>	Axel Andreas Schmidt Haugbølle	-	C. Bæredygtigt Energidesign	</li>
-<li>	Lea Emilie Reymond Ajslev	- C. Design og Innovation	</li>
-<li>	Rikke Hvidtfeldt Jensen	-	C. Elektroteknologi & C. Cyberteknologi	</li>
-<li>	Nicolai Lindaa Amin	-	C. Fysik og Nanoteknologi	</li>
-<li>	Jacob Birkjær Marcussen	-	C. General Engineering	</li>
-<li>	Klaudia Anna Kacperska	-	C. General Engineering	</li>
-<li>	Bjørn Thuesen	-	C. Geofysik og Rumteknologi	</li>
-<li>	Dan Ethan Herlev Hvid	-	C. Kemi og Teknologi	</li>
-<li>	Gustav Gamst Larsen	-	C. Kunstig Intelligens og Data	</li>  
-<li>	Jakob Højgaard		-	C. Life Science og Teknologi	</li>
-<li>	Lasse Rene		-	C. Life Science og Teknologi	</li>
-<li>	Michella Ravn Søndergaard	-	C. Matematik og Teknologi	</li>
-<li>    Anne Marie Nørrelykke Rossen - C. Medicin og Teknologi </li>
-<li>	Christian Bülow Fuglsang	-	C. Produktion og Konstruktion	</li>
-<li>	Anton Thestrup Jørgensen	-	C. Softwareteknologi	</li>
-<li>	Cecilie Kajberg Roer Jensen	-	C. Strategisk Analyse og Systemdesign	</li>
-<li>	Elena Victoria Lagard	-	C. Vand, Bioressourcer og Miljømanagement 	</li>
+<li>	Adar Alan Benli	-	C. Medicin og Teknologi	</li>
+<li>	Alan Yang	-	C. Data Science og Management	</li>
+<li>	Annemarie Louw-Pedersen	-	C. Produktion og Konstruktion	</li>
+<li>	August Weijers	-	C. General Engineering	</li>
+<li>	Emil Hovgaard Wrona Olsen	-	C. Kunstig Intelligens og Data	</li>
+<li>	Emil Nymark Trangeled	-	D. Softwareteknologi	</li>
+<li>	Henrik Gjerding Hynkemejer	-	C. Geofysik og Rumteknologi	</li>
+<li>	Ida Cecilie Hoielt	-	C. Bæredygtigt Energidesign	</li>
+<li>	Isabella Hochstenbach Fink-Jensen	-	C. Kemi & Teknologi	</li>
+<li>	Jacob Hagen Pedersen	-	D. Fødevaresikkerhed og -kvalitet samt D. Fiskeriteknologi	</li>
+<li>	Jean-Victor Leif Joseph Bendixen-Fernex de Mongex	-	C. Fysik og Nanoteknologi	</li>
+<li>	Jonas Bøttzauw Pedersen	-	C. Softwareteknologi	</li>
+<li>	Jonas Matthiesen	-	D. Elektroteknologi samt D. Elektrisk Energiteknologi	</li>
+<li>	Jonathan Schmidt Højlev	-	C. Bygningsdesign	</li>
+<li>	Karl Emil Jakobsen	-	D. Eksport og Teknologi	</li>
+<li>	Liv Didi Pedersen	-	D. Process og Innovation, Produktion, Transport og Mobilitet	</li>
+<li>	Michail Philip Harmandjiev (Mimo)	-	C. General Engineering	</li>
+<li>	Mike Linde	-	D. Process og Innovation, Produktion, Transport og Mobilitet	</li>
+<li>	Monica Diaz Hansen	-	C. Life Science og Teknologi	</li>
+<li>	Nick Sommer	-	C. Life Science og Teknologi	</li>
+<li>	Oliver Koch	-	D. Byggeri og Infrastruktur samt D. Arktisk Teknologi	</li>
+<li>	Oliver Springborg	-	C. Byggeteknologi	</li>
+<li>	Otto Westy Rasmussen	-	C. Miljøteknologi	</li>
+<li>	Pernille Christie	-	C. Matematik og Teknologi	</li>
+<li>	Pernille Diana Vinding Jönsson	-	D. Bygningsdesign	</li>
+<li>	Rasmus Holm Høyrup	-	D. Kemi og Bioteknik samt D. Kemiteknik og International Business	</li>
+<li>	Rasmus Sigurd Sundin	-	D. IT og Økonomi	</li>
+<li>	Signe Staun	-	D. Sundhedsteknologi samt D. IT-elektronik (SUIT)	</li>
+<li>	Silas Lasak Hedeboe	-	D. Maskinteknik	</li>
+<li>	William Sommer	-	C. Design og Innovation	</li>
+<li>	Xandra Huryn	-	C. Elektroteknologi samt C. Cyberteknologi	</li>
 
-
-<li>	Anders Birch Videbæk -	D. Byggeri og Infrastruktur & D. Arktisk Byggeri og Infrastruktur	<!-- Torp 2.0 #D. Fisk --> </li>
-<li>	Helena Tving Sjøholm Jensen	-	D. Bygningsdesign 	</li>
-<li>	Zenia Enggaard Hansen		-	D. Eksport og Teknologi	</li>
-<li>	Camilla Lindhøj Rasmussen	-	D. Elektroteknologi & D. Elektrisk Energiteknologi	</li>
-<li>	Katharina Ahrens 	-	D. Fødevaresikkerhed og -kvalitet & D. Fiskeriteknologi	</li>
-<li>	Mina Ahmadi	-	D. IT og Økonomi	</li>
-<li> 	Rosa Valdorf Pedersen	-	D. Kemi- og Bioteknik & D. Kemiteknik og International Business	</li>
-<li>	Alexander Andreas Triantafillopoulos	-	D. Maskinteknik	</li>
-<li>	Andreas Juul Hallig	-	D. Mobilitet, Transport og Logistik 	</li>
-<li>	Victor Kildegaard Winstén	-	D. Produktion & D. Proces & Innovation 	</li>
-<li>	Oliver Comprés Poulsen	-	D. Softwareteknologi	</li>
-<li>	Emilie Vedsted Tronbjerg	-	D. Sundhedsteknologi & D. IT-Elektronik </li>
 
 </ul>

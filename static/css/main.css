@@ -1,18 +1,18 @@
 :root {
-  --article-color: rgba(7,22,184, 0.8);
-  --nav-color: rgba(7,22,184, 0.8);
-  --cdwn-color: rgba(26, 100, 128, 0.5);
+  --article-color: rgba(221, 217, 9, 0.733);
+  --nav-color: rgba(221, 217, 9, 0.733);
+  --cdwn-color: rgba(128, 84, 26, 0.5);
 }
 
 body {
-  background-color:rgb(144, 188, 255);
+  background-color:rgba(114, 61, 1, 0.876);
 }
 
 #container {
   margin: auto;
   top: 0;
   font-family: "Droid", sans-serif;
-  color: #ffffff;
+  color: #000000;
   background-image: url("/static/img/mainBaggrund.jpg");
   background-size: auto 100%;
   background-position: top;
@@ -47,7 +47,7 @@ h4 {
 article a {
   text-decoration: none;
   font-weight: bold;
-  color: #59c3ec;
+  color: #d42828;
 }
 
 /*
@@ -92,7 +92,7 @@ nav ul li a {
   font-size: 1.3em;
   padding-top: 0.3em;
   padding-bottom: 0.3em;
-  color: #f1f2f4;
+  color: #000000;
   text-decoration: none;
   transition: background-color 0.25s;
 }
@@ -181,7 +181,7 @@ a:hover .new {
 }
 
 .seconds {
-  color: rgb(144, 188, 255);
+  color: #d42828;
 }
 
 /*
@@ -213,6 +213,16 @@ a:hover .new {
   font-style: italic;
 }
 
+#poster-image-long {
+  width: 600px;
+  padding: 0;
+  margin: 0;
+  background-image: url("");
+  background-size: cover;
+  height: 775px;
+  box-shadow: 0 0 10px black;
+}
+
 /*
  Footer
 */
@@ -227,6 +237,7 @@ footer {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   margin-bottom: 1em;
+  filter: invert(1);
 }
 
 /*
@@ -244,7 +255,7 @@ Form
   font-size: 2.5em;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: rgb(144, 188, 255);
+  background-color: #d42828;
 }
 
 input,
