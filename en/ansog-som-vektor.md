@@ -8,4 +8,4 @@ title: Apply as a vector
 <p>See you at the english infomeeting on the 10th of Febuary</p>
 
 
-If you want more information, please read more here <a href="/vektor">Vector</a>
+If you want more information, please read more here <a href="/en/vektor">Vector</a>
