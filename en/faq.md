@@ -11,8 +11,8 @@ title: FAQ
 <p>As a baseline you will need to show up to the weekly vector-meetings. Which day of the week you will decide amongst your assigned vector team. Also expect to spend a little more time, since there will be tasks you will take outside the meetings.</p>
 
 <h3><b>Which dates is it important to keep free, to become a vector?</b></h3>
-<p>There are certain important dates that you will be required to show up to:<br/>
 
+<p>There are certain important dates that you will be required to show up to:<br/>
 <li>Hello-Vector-Party (17th February)</li>
 <li>First educational day (19th March)</li>
 <li>Second educational day (23th April) </li>
@@ -20,6 +20,7 @@ title: FAQ
 <li>First Aid (One if the following days: 4th, 5th, 11th or 12th June)</li>
 <li>Intro-day (19th August)</li>
 <li>Rus trip (20th - 27th August depending on the type of trip)</li>
+<li><a style="font-style: italic;">Only for beverage </a>Beverage education 26th or 27th of March</li>
 </p>
 
 <h3><b>When and where do you apply?</b></h3>

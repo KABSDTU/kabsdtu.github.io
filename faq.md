@@ -22,7 +22,6 @@ title: FAQ
 <li>Introdag (19. August) </li>
 <li>Rustur (20. - 27. August)</li>
 
-
 <h3><b>Hvornår og hvordan søger man?</b></h3>
 <p>Se <a href="/ansog-som-vektor.html">Ansøg nu</a>.</p>
 
