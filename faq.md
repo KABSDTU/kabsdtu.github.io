@@ -55,7 +55,7 @@ title: FAQ
     <li> Mix trip (Engelsk)
         <ul>
             <li>GE-vektorer og -russer blandet med andre studieretninger</li>
-            <li>2 ture i alt - 1 er uden alkohol</li>
+            <li>4 ture i alt - 1 er uden alkohol</li>
         </ul>
     </li>
 </ul>

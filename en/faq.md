@@ -57,7 +57,7 @@ title: FAQ
     <li> Mix trip (English)
         <ul>
             <li>GE vectors and russes mixed with other studylines</li>
-            <li>2 trips in total - 1 is without alcohol</li>
+            <li>4 trips in total - 1 is without alcohol</li>
         </ul>
     </li>
 </ul>
