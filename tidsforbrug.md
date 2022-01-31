@@ -5,7 +5,7 @@ title: Tidsforbrug
 
 <h1>Tidsforbrug som Vektor</h1>
 
-<div id="poster-image-long" style="background-image: url('/static/img/bakerVector.webp');">
+<div id="poster-image" style="height: 550px; background-image: url('/static/img/magicalTime.gif');">
 </div>
 
 <p>
