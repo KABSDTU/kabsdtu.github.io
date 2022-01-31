@@ -24,13 +24,13 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <b>VIGTIGE DATOER:</b>
 </p>
 
-<li>Hej-Vektor-Fest (28. Oktober)</li>
-<li>Første Uddannelsesdag (14. November)</li>
-<li>vOPtur (19. - 21. November)</li>
-<li>Anden uddannelsesdag (8. Januar)</li>
-<li>Førstehjælp (16. Januar)</li>
-<li>Introdag (26. Januar) </li>
-<li>Rustur (27. - 30. Januar)</li>
+<li>Første Vektor Møde (17. Februar)</li>
+<li>Første Uddannelsesdag (19. Marts)</li>
+<li>OPtur (8. - 12. April)</li>
+<li>Anden uddannelsesdag (23. April)</li>
+<li>Førstehjælp (En af følgende dage: 4. Juni, 5. Juni, 11. Juni, eller 12. Juni)</li>
+<li>Introdag (19. August) </li>
+<li>Rustur (20. - 26. August)</li>
 
 <p>
 Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode.
