@@ -13,7 +13,7 @@ title: FAQ
 <h3><b>Which dates is it important to keep free, to become a vector?</b></h3>
 
 <p>There are certain important dates that you will be required to show up to:<br/>
-<li>Hello-Vector-Party (17th February)</li>
+<li>First Vector Meeting (17th February)</li>
 <li>First educational day (19th March)</li>
 <li>Second educational day (23th April) </li>
 <li>OPtur (8th April - 12nd April)</li>
