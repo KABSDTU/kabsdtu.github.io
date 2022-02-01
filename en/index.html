@@ -1,6 +1,6 @@
 ---
 layout: en
-title: GarlicBreadKABS needs vectors
+title: MagicKABS needs vectors
 ---
 
 
@@ -78,8 +78,16 @@ title: GarlicBreadKABS needs vectors
     updateClock();
     var timeinterval = setInterval(updateClock, 1000);
   }
+  function showVectorApplication(id) {
+    var div = document.getElementById(id)
+    div.parentElement.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSeEOySk8egoJ2r5IrqN9Y7NoKLKmQW2rukfXwy7t-Q1Sh9Glg/viewform?usp=pp_url&entry.313565989=Begge+dele+kan+g%C3%A5+/+Either+can+do"><button class="applyBtn">Apply here!</button></a><br />'
+  }
 
-  var deadline = new Date("Febuary 1, 2022 12:15:00");
-  initializeClock("clockdiv", deadline);
+  var deadline = new Date("February 1, 2022 12:15:00");
+  if (deadline < new Date) {
+    showVectorApplication("clockdiv")
+  } else {
+    initializeClock("clockdiv", deadline);
+  }
   document.getElementById("demo").innerHTML = deadline;
 </script>

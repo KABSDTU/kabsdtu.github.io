@@ -20,7 +20,7 @@ title: Time consumption
 <li>First Aid (One if the following days: 4th, 5th, 11th or 12th June)</li>
 <li>Intro-day (19th August)</li>
 <li>Rus trip (20th - 27th August depending on the type of trip)</li>
-<li><a style="font-style: italic;">Only for beverage </a>Beverage education 26th or 27th of March</li>
+<li><a style="font-style: italic;">Only for beverage </a>Beverage education (26th or 27th of March)</li>
 <li>Second educational day (23rd April) </li>
 <li>OPtur (8th April - 12th April)</li>
 <li>First Aid (One of the following days: 4th, 5th, 11th or 12th June)</li>
