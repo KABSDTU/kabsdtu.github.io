@@ -23,7 +23,7 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <b>VIGTIGE DATOER:</b>
 </p>
 
-<li>Hej-Vektor-Fest (17. Februar)</li>
+<li>Første Vektor Møde (17. Februar)</li>
 <li>Første Uddannelsesdag (19. Marts)</li>
 <li>OPtur (8. April - 12. April)</li>
 <li>Anden uddannelsesdag (23. April)</li>
