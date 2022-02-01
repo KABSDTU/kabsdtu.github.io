@@ -21,6 +21,7 @@ title: FAQ
 <li>Førstehjælp (4./5./11. eller 12. Juni)</li>
 <li>Introdag (19. August) </li>
 <li>Rustur (20. - 27. August)</li>
+<li><a style="font-style: italic;">Kun for læske </a>Læske uddannelsesdag (26. eller 27. Marts)</li>
 
 <h3><b>Hvornår og hvordan søger man?</b></h3>
 <p>Se <a href="/ansog-som-vektor.html">Ansøg nu</a>.</p>
