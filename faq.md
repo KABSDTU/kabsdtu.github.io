@@ -14,7 +14,7 @@ title: FAQ
 <h3><b>Hvilke datoer er vigtige at sætte af til at være vektor?</b></h3>
 <p>Der er visse datoer der er vigtige for dig at møde op til:<br/>
 
-<li>Hej-Vektor-Fest (17. Februar)</li>
+<li>Første Vektor Møde (17. Februar)</li>
 <li>Første Uddannelsesdag (19. Marts)</li>
 <li>Anden uddannelsesdag (23. April)</li>
 <li>OPtur (8. April - 12. April)</li>

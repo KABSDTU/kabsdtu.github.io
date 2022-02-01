@@ -13,7 +13,7 @@ title: Time consumption
 
 <p>The vector work is very flexible except for the preparation trips. This work includes the planning of various social events, keeping a budget internally or externally and to make sure your russes are satisfied. However, there are some dates, that requires participation to be a vector:</p>
 
-<li>Hello-Vector-Party (17th February)</li>
+<li>First Vector Meeting (17th February)</li>
 <li>First educational day (19th March)</li>
 <li>Second educational day (23th April) </li>
 <li>OPtur (8th April - 12nd April)</li>
