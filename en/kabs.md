@@ -26,7 +26,7 @@ title: KABS
 <li>	Jonas Bøttzauw Pedersen	-	C. Software Technology	</li>
 <li>	Jonas Matthiesen	-	D. Electronic technology & D. Electronic Energytechnology	</li>
 <li>	Jonathan Schmidt Højlev	-	C. Architectural Engineering	</li>
-<li>	Karl Emil Jakobsen	-	D. Global Business Engineering	</li>
+<li>	Tobias Lopez Sejersen Christensen	-	D. Global Business Engineering	</li>
 <li>	Liv Didi Pedersen	-	D. Promo	</li>
 <li>	Michail Philip Harmandjiev (Mimo)	-	C. General Engineering	</li>
 <li>	Mike Linde	-	D. Promo	</li>
