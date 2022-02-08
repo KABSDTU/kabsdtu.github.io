@@ -13,14 +13,14 @@ title: FAQ
 <h3><b>Which dates is it important to keep free, to become a vector?</b></h3>
 
 <p>There are certain important dates that you will be required to show up to:<br/>
-<li>Hello-Vector-Party (17th February)</li>
+<li>First Vector Meeting (17th February)</li>
 <li>First educational day (19th March)</li>
 <li>Second educational day (23th April) </li>
 <li>OPtur (8th April - 12nd April)</li>
 <li>First Aid (One if the following days: 4th, 5th, 11th or 12th June)</li>
 <li>Intro-day (19th August)</li>
 <li>Rus trip (20th - 27th August depending on the type of trip)</li>
-<li><a style="font-style: italic;">Only for beverage </a>Beverage education 26th or 27th of March</li>
+<li><a style="font-style: italic;">Only for beverage </a>Beverage education (26th or 27th of March)</li>
 </p>
 
 <h3><b>When and where do you apply?</b></h3>
@@ -57,7 +57,7 @@ title: FAQ
     <li> Mix trip (English)
         <ul>
             <li>GE vectors and russes mixed with other studylines</li>
-            <li>2 trips in total - 1 is without alcohol</li>
+            <li>4 trips in total - 1 is without alcohol</li>
         </ul>
     </li>
 </ul>

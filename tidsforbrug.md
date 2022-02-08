@@ -5,7 +5,7 @@ title: Tidsforbrug
 
 <h1>Tidsforbrug som Vektor</h1>
 
-<div id="poster-image-long" style="background-image: url('/static/img/bakerVector.webp');">
+<div id="poster-image" style="height: 550px; background-image: url('/static/img/magicalTime.gif');">
 </div>
 
 <p>
@@ -23,14 +23,14 @@ Søger du som vektor, vil der være ansættelsessamtale med den KABS, som er ans
 <b>VIGTIGE DATOER:</b>
 </p>
 
-<li>Hej-Vektor-Fest (17. Februar)</li>
+<li>Første Vektor Møde (17. Februar)</li>
 <li>Første Uddannelsesdag (19. Marts)</li>
-<li>Anden uddannelsesdag (23. April)</li>
 <li>OPtur (8. April - 12. April)</li>
+<li>Anden uddannelsesdag (23. April)</li>
 <li>Førstehjælp (4./5./11. eller 12. Juni)</li>
 <li>Introdag (19. August) </li>
 <li>Rustur (20. - 27. August)</li>
-<li><a style="font-style: italic;">Kun for læske </a>Læske uddannelsesdag 26. eller 27. Marts</li>
+<li><a style="font-style: italic;">Kun for læske </a>Læske uddannelsesdag (26. eller 27. Marts)</li>
 
 <p>
 Den tid og det arbejde der lægges i vektorhvervet, kan slet ikke måles med de bekendtskaber, den personlige erfaring samt viden, man får i løbet af sin vektorperiode. Udover at det bare er mega sjovt.

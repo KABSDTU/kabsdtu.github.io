@@ -1,10 +1,10 @@
 ---
 layout: default
-title: FarmerKABS søger vektorer
+title: MagicKABS søger vektor
 ---
 
 
-<h1>HvidløgsKABS har noget i ovnen!</h1>
+<h1>MagicKABS tryller nu!</h1>
 
 <p> Tiden er snart inde, et nyt PF år starter snart. 
   Derfor er det igen tid til at finde nye vektorer. 
@@ -13,15 +13,14 @@ title: FarmerKABS søger vektorer
 </p>
 
 
-<!--<br />
+<br />
 <a
   style="text-align: center;"
-  href="https://forms.gle/1PYpB8oFteyFn7r98"
+  href="https://forms.gle/eb13eSZNjHPCMv3o8"
   ><button class="applyBtn">Ansøg nu!</button></a
 >
-<br />-->
 
-
+<p style="text-align: center; font-size: large;">Ansøgning til Vektor'22 lukker om:</p>
 
 <div style="text-align: center; padding-bottom: 20px;">
   <a href="/ansog-som-vektor">
@@ -36,7 +35,7 @@ title: FarmerKABS søger vektorer
       </div>
       <div>
         <span class="minutes"></span>
-        <div class="smalltext">Minuter</div>
+        <div class="smalltext">Minutter</div>
       </div>
       <div>
         <span class="seconds"></span>
@@ -49,10 +48,11 @@ title: FarmerKABS søger vektorer
 
 <div
   id="poster-image"
-  style="background-image: url('/static/img/baking.gif');"
+  style="background-image: url('/static/img/frontPage.gif');"
 ></div>
 
 <script>
+
   function getTimeRemaining(endtime) {
     var t = Date.parse(endtime) - Date.parse(new Date());
     var seconds = Math.floor((t / 1000) % 60);
@@ -92,7 +92,20 @@ title: FarmerKABS søger vektorer
     var timeinterval = setInterval(updateClock, 1000);
   }
 
-  var deadline = new Date("Febuary 1, 2022 12:15:00");
+  function showVectorApplication(id) {
+    var div = document.getElementById(id)
+    div.parentElement.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSeEOySk8egoJ2r5IrqN9Y7NoKLKmQW2rukfXwy7t-Q1Sh9Glg/viewform?usp=pp_url&entry.313565989=Begge+dele+kan+g%C3%A5+/+Either+can+do"><button class="applyBtn">Ansøg nu!</button></a><br />'
+  }
+
+  var deadline = new Date("February 11, 2022 23:59:59");
+ /* if (deadline < new Date) {
+    showVectorApplication("clockdiv")
+  } else {
+    
+  }*/
+
   initializeClock("clockdiv", deadline);
   document.getElementById("demo").innerHTML = deadline;
+
+
 </script>

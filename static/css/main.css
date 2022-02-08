@@ -1,18 +1,18 @@
 :root {
-  --article-color: rgba(221, 217, 9, 0.733);
-  --nav-color: rgba(221, 217, 9, 0.733);
-  --cdwn-color: rgba(128, 84, 26, 0.5);
+  --article-color: rgba(91, 24, 168, 0.92);
+  --nav-color: rgba(102, 29, 185, 0.92);
+  --cdwn-color: rgba(83, 2, 175, 0.5);
 }
 
 body {
-  background-color:rgba(114, 61, 1, 0.876);
+  background-color:rgba(161, 140, 255, 0.876);
 }
 
 #container {
   margin: auto;
   top: 0;
   font-family: "Droid", sans-serif;
-  color: #000000;
+  color: #ffffff;
   background-image: url("/static/img/mainBaggrund.jpg");
   background-size: auto 100%;
   background-position: top;
@@ -92,7 +92,7 @@ nav ul li a {
   font-size: 1.3em;
   padding-top: 0.3em;
   padding-bottom: 0.3em;
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
   transition: background-color 0.25s;
 }
@@ -194,7 +194,7 @@ a:hover .new {
   margin: 0;
   background-image: url("");
   background-size: cover;
-  height: 350px;
+  height: 370px;
   box-shadow: 0 0 10px black;
 }
 #poster-image blockquote {
@@ -237,7 +237,7 @@ footer {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   margin-bottom: 1em;
-  filter: invert(1);
+  
 }
 
 /*
