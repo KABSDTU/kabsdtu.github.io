@@ -8,9 +8,9 @@ title: Badekar/Læske
 
 <div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
 </div>
--->
 
-<p style="font-weight: bold; font-size: 25px;">Badekar bestilling kommer snart</p> 
+
+<p style="font-weight: bold; font-size: 25px; text-align: center;">Badekar bestilling kommer snart</p> 
 
 <!--
 <a style="text-align: center; padding: 3px" href="https://forms.gle/bbZ8T1Co8L4XXS5cA">

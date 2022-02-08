@@ -8,9 +8,9 @@ title: Bathtub/Beverages
 
 <div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
 </div>
--->
 
-<p style="font-weight: bold; font-size: 25px;">Bathtub ordering will open soon</p>
+
+<p style="font-weight: bold; font-size: 25px; text-align: center;">Bathtub ordering will open soon</p>
 
 <!--
 <a style="text-align: center" href="https://forms.gle/bbZ8T1Co8L4XXS5cA">
