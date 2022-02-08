@@ -6,8 +6,7 @@ title: Bathtub/Beverages
 <h1>Bathtub and Beverages</h1>
 <p>Order a bathtub and beverages or your trip won't be as fun</p>
 
-<!--
-<div id="poster-image" style="background-image: url('/static/img/badekar.png');">
+<div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
 </div>
 -->
 
