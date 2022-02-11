@@ -358,3 +358,61 @@ td {
   }
 }
 
+.X{
+  margin: auto;
+  padding: 1% 2%;
+  max-width: 1440px;
+  border-radius: 5px;
+  background: #ecf0f1;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0, .3);
+}
+
+
+
+/*
+li{
+  color: #2c3e50;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-family: 'Raleway', serif;
+}
+*/
+/*SG = style grid*/
+.SG{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.sgLi{
+  text-align: left;
+}
+
+.SGh3{
+  font-size: larger;
+  text-align: center;
+}
+.SG .sgLi{
+  /*min-width: 24%;*/
+  margin: 2% .35%;
+  display: inline-flex;
+  box-shadow: 0 2px 4px rgba(0,0,0, .2);
+}
+
+.notdf{
+  margin: 0;
+  padding-left: 30px;
+}
+ 
+.box{
+  width: 100%;
+  height: 100vh;
+  padding: 1% 2%;
+  margin: 0 25px 25px 0px;
+  background: rgba(78, 6, 119, 0.554);
+  min-height: 200px;
+  max-height: 270px;
+  box-sizing: border-box;
+}
