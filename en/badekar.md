@@ -9,16 +9,12 @@ title: Bathtub/Beverages
 <div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
 </div>
 
-
-<p style="font-weight: bold; font-size: 25px; text-align: center;">Bathtub ordering will open soon</p>
-
-<!--
-<a style="text-align: center" href="https://forms.gle/bbZ8T1Co8L4XXS5cA">
+<a style="text-align: center" href="https://forms.gle/dyeaMaxs8KfrbRY3A">
 	<button class="applyBtn">
 	  Order bathtub
 	</button>
 </a>
--->
+
 
 <a style="text-align: center; padding: 2px" href="https://forms.gle/FEG9769vdqG83rJj8">
 	<button class="applyBtn"> 
