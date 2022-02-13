@@ -3,11 +3,11 @@ layout: en
 title: Apply as a vector
 ---
 
-<h1 id="titel">Applications for Summer Vector22 is being pulled from a hat now</h1>
+<h1 id="titel">Applications for Summer Vector '22 are closed</h1>
 <div id="poster-image" style="height: 450px; background-image: url('/static/img/wewantyousmall.png');">
 </div>
 
-<p id ="n">keep an eye out, this site will update any minute now ;)) .</p>
+<p id ="n">The applications for Summer Vector '22 are closed for now.</p>
 <p id ="nn">See you soon.</p>
 <br />
 
