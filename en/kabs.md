@@ -26,7 +26,6 @@ title: KABS
 <li>	Jonas Bøttzauw Pedersen	-	C. Software Technology	</li>
 <li>	Jonas Matthiesen	-	D. Electronic technology & D. Electronic Energytechnology	</li>
 <li>	Jonathan Schmidt Højlev	-	C. Architectural Engineering	</li>
-<li>	Tobias Lopez Sejersen Christensen	-	D. Global Business Engineering	</li>
 <li>	Liv Didi Pedersen	-	D. Promo	</li>
 <li>	Michail Philip Harmandjiev (Mimo)	-	C. General Engineering	</li>
 <li>	Mike Linde	-	D. Promo	</li>
@@ -41,6 +40,7 @@ title: KABS
 <li>	Rasmus Sigurd Sundin	-	D. IT and Economy	</li>
 <li>	Signe Staun	-	D. Healthcare Technology & IT-Electonic (SUIT)	</li>
 <li>	Silas Lasak Hedeboe	-	D. Mechanical Engineering	</li>
+<li>	Tobias Lopez Sejersen Christensen	-	D. Global Business Engineering	</li>
 <li>	William Sommer	-	C. Design & Innovation	</li>
 <li>	Xandra Huryn	-	C. Cyber teknologi og C. Elektroteknologi	</li>
 
