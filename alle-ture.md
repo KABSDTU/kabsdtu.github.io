@@ -35,7 +35,7 @@ title: Alle ture
 <div class="box">
     <h3 class="SGh3">Weekend rustrip</h3>
     <ul class="df">
-    <li>4 ture i alt</li>
+    <li>3 ture i alt</li>
         <ul class="notdf">
             <li>2 med alkohol</li>
             <li>1 uden</li>

@@ -35,7 +35,7 @@ title: All trips
 <div class="box">
     <h3 class="SGh3">Weekend rustrip</h3>
     <ul class="df">
-    <li>4 trips in total</li>
+    <li>3 trips in total</li>
         <ul class="notdf">
             <li>2 with alcohol</li>
             <li>1 without</li>
