@@ -22,7 +22,7 @@ title: All trips
     <ul class="df">
     <li>4 trips in total</li>
         <ul class="notdf">
-            <li>3 with alkohol</li>
+            <li>3 with alcohol</li>
             <li>1 without</li>
         </ul>
     <li>4 days</li>
@@ -37,7 +37,7 @@ title: All trips
     <ul class="df">
     <li>4 trips in total</li>
         <ul class="notdf">
-            <li>2 with alkohol</li>
+            <li>2 with alcohol</li>
             <li>1 without</li>
         </ul>
     <li>3 days</li>
