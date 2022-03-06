@@ -2,7 +2,7 @@
 layout: default
 title: Hyttebums
 ---
-<h1>Hyttebums i 2021?</h1>
+<h1>Hyttebums i 2022?</h1>
 
 <div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
 </div>
