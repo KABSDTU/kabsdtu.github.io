@@ -15,7 +15,7 @@ title: Badekar/Læske
 
 <a style="text-align: center" href="/en/Order_and_Invoice_Template-ENGLISH.xlsx">
 	<button class="applyBtn">
-	  Order bathtub
+	  Bestil badekar
 	</button>
 </a>
 <a style="text-align: center; padding: 2px" href="https://forms.gle/FEG9769vdqG83rJj8">
