@@ -10,9 +10,9 @@ title: Bathtub/Beverages
 </div>
 
 <p>When ordering with the new system, fill out the Excel sheet linked below. <b>ONLY</b> edit the blue fields.</p>
-<p>When you're done, please send the filled sheet as an Excel-compatible formatted file to <a href="mailto:studiestartKABS@pf.dk">studiestartKABS@pf.dk</a>. Put "Order for <i>[trip name]</i> in the subject. Feel free to write in Danish. Please name the file as <i>[trip name]</i>.</p>
+<p>When you're done, please send the filled sheet as an Excel-compatible formatted file to <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Put <i>"Order for [trip name]"</i> in the subject. Feel free to write in Danish. Please name the file as <i>[trip name]</i>.</p>
 
-<a style="text-align: center" href="https://blivawesome.dk/en/Order_and_Invoice_Template-ENGLISH.xlsx">
+<a style="text-align: center" href="/en/Order_and_Invoice_Template-ENGLISH.xlsx">
 	<button class="applyBtn">
 	  Order bathtub
 	</button>
