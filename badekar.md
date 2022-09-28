@@ -9,11 +9,14 @@ title: Badekar/Læske
 <div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
 </div>
 
-<p>Når du bestiller med det nye system, så skal det følgende Excel-ark udfyldes. <b>KUN</b> rediger i de blå felter.</p>
-<p>Skriv i kommentar-cellen, hvis du har brug for hjælp til at afhente dit badekar. Dette vil finde sted klokken 13:00 på dagen for afhentning, medmindre andet er aftalt.</p>
-<p>Når du er færdig med din bestilling, så send venligst den udfyldte fil som en Excel-kombatibel fil til <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. I emnefeltet skrives der <i>"Order for [turnavn]"</i>. Det er okay at skrive mailen på dansk. Navngiv venligst filen som <i>[turnavn]</i>.<b>Vedhæft venligst filen direkte til emailen, og ikke del den via et link til Google Drive.</b></p>
+<p>Når du bestiller via det nye system, så download det følgende Google Sheets som en Excel fil og rediger den på din egen computer. Rediger <b>KUN</b> de blå felter.</p>
+<p>Når du er færdig, så send det udfyldte sheet som en Excel-kompatibel formateret fil til <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Udfyld emnefeltet med <i>”Order for [turnavn]”</i>. Det er i orden at sende mailen på Engelsk.</p>
+<p>Navngiv venligst filen som <i>[turnavn]</i>. <b>Vær venligst opmærksom på at vedhæfte filen direkte til selve e-mailen, og ikke et delt link til et Google Drive. Vi har ikke adgang til SharePoint deling heller.</b></p>
+<p>Angiv venligst i e-mailen, hvis du har brug for hjælp til afhentning af badekarret. Ellers er det antaget at din egen KABS kan hjælpe med afhentning og tilbagelevering.</p>
 
-<a style="text-align: center" href="/en/Order_and_Invoice_Template-ENGLISH.xlsx">
+
+
+<a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">
 	<button class="applyBtn">
 	  Bestil badekar
 	</button>
