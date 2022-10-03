@@ -6,16 +6,22 @@ title: Badekar/Læske
 <h1>Gode varer man kan få hjælp til fra KABS</h1>
 <p>Bestil badekar og læske her (ellers bliver jeres tur nok ikke så stort et hit)</p>
 
-<div id="poster-image" style="background-image: url('/static/img/badekar.png');">
+<div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
 </div>
 
-<a style="text-align: center; padding: 3px" href="https://forms.gle/bbZ8T1Co8L4XXS5cA">
-	<button class="applyBtn"> 
-		Bestil badekar 
+<p>Når du bestiller via det nye system, så download det følgende Google Sheets som en Excel fil og rediger den på din egen computer. Rediger <b>KUN</b> de blå felter.</p>
+<p>Når du er færdig, så send det udfyldte sheet som en Excel-kompatibel formateret fil til <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Udfyld emnefeltet med <i>”Order for [turnavn]”</i>. Det er i orden at sende mailen på Engelsk.</p>
+<p>Navngiv venligst filen som <i>[turnavn]</i>. <b>Vær venligst opmærksom på at vedhæfte filen direkte til selve e-mailen, og ikke et delt link til et Google Drive. Vi har ikke adgang til SharePoint deling heller.</b></p>
+<p>Angiv venligst i e-mailen, hvis du har brug for hjælp til afhentning af badekarret. Ellers er det antaget at din egen KABS kan hjælpe med afhentning og tilbagelevering.</p>
+
+
+
+<a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">
+	<button class="applyBtn">
+	  Bestil badekar
 	</button>
 </a>
-
-<a style="text-align: center; padding: 2px" href="https://docs.google.com/forms/d/e/1FAIpQLScW2Qd6tYSaK3CbUPBrkaSBNFFd59mZ2g-_Avpg3-ASIKRQYQ/viewform?usp=sf_link">
+<a style="text-align: center; padding: 2px" href="https://forms.gle/FEG9769vdqG83rJj8">
 	<button class="applyBtn"> 
 		Bestil læske 
 	</button>

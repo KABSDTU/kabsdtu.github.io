@@ -2,7 +2,7 @@
 layout: default
 title: Ansøg som OPtursbums
 ---
-<h1>Ansøgningen til OPtursbums20 er lukket</h1>
+<h1>Ansøgningen til OPtursbums22 er lukket</h1>
 
 <p>
 	<br/>

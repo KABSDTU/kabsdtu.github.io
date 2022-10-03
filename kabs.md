@@ -26,10 +26,9 @@ title: KABS
 <li>	Jonas Bøttzauw Pedersen	-	C. Softwareteknologi	</li>
 <li>	Jonas Matthiesen	-	D. Elektroteknologi samt D. Elektrisk Energiteknologi	</li>
 <li>	Jonathan Schmidt Højlev	-	C. Bygningsdesign	</li>
-<li>	Karl Emil Jakobsen	-	D. Eksport og Teknologi	</li>
-<li>	Liv Didi Pedersen	-	D. Process og Innovation, Produktion, Transport og Mobilitet	</li>
+<li>	Liv Didi Pedersen	-	D. Process og Innovation, D. Produktion, Transport og Mobilitet	</li>
 <li>	Michail Philip Harmandjiev (Mimo)	-	C. General Engineering	</li>
-<li>	Mike Linde	-	D. Process og Innovation, Produktion, Transport og Mobilitet	</li>
+<li>	Mike Linde	-	D. Process og Innovation, D. Produktion, Transport og Mobilitet	</li>
 <li>	Monica Diaz Hansen	-	C. Life Science og Teknologi	</li>
 <li>	Nick Sommer	-	C. Life Science og Teknologi	</li>
 <li>	Oliver Koch	-	D. Byggeri og Infrastruktur samt D. Arktisk Teknologi	</li>
@@ -41,6 +40,7 @@ title: KABS
 <li>	Rasmus Sigurd Sundin	-	D. IT og Økonomi	</li>
 <li>	Signe Staun	-	D. Sundhedsteknologi samt D. IT-elektronik (SUIT)	</li>
 <li>	Silas Lasak Hedeboe	-	D. Maskinteknik	</li>
+<li>	Tobias Lopez Sejersen Christensen	-	D. Eksport og Teknologi	</li>
 <li>	William Sommer	-	C. Design og Innovation	</li>
 <li>	Xandra Huryn	-	C. Elektroteknologi samt C. Cyberteknologi	</li>
 
