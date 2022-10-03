@@ -20,12 +20,12 @@ Hvis i har nogle spørgsmål, kig på: <a href="/vektor">Vektor</a>
     var div = document.getElementById("n")
     var n = document.getElementById("nn")
     var titel = document.getElementById("titel")
-    titel.innerHTML = "Ansøgningen til Vektor '22 er åben!"
+    titel.innerHTML = "Ansøgningen til vinter Vektor '22 er åben!"
     n.remove()
-    div.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSeEOySk8egoJ2r5IrqN9Y7NoKLKmQW2rukfXwy7t-Q1Sh9Glg/viewform?usp=pp_url&entry.313565989=Begge+dele+kan+g%C3%A5+/+Either+can+do"><button class="applyBtn">Ansøg nu!</button></a><br />'
+    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/ixkR7jgdV6q87oWk6"><button class="applyBtn">Ansøg nu!</button></a><br />'
   }
 
-  var deadline = new Date("Feb 12, 2022 00:30:00");
+  var deadline = new Date("October 15, 2022 23:59:59");
   if (deadline > new Date) {
     showVectorApplication()
   }
