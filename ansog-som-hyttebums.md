@@ -11,7 +11,7 @@ title: Ansøg som Hyttebums
 
 <br />
 
-<p style="text-align: center; font-size: large;">Ansøgning til Vektor '22 er lukket!</p>
+<p style="text-align: center; font-size: large;">Ansøgning til Hyttebums '22 er lukket!</p>
 
 <br />
 
