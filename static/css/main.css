@@ -114,6 +114,7 @@ h1.title {
   background-image: url("/static/img/kabsLogo.png");
   background-size: contain;
   background-repeat: no-repeat;
+  margin-left: 15%;
   text-align: center;
 }
 
