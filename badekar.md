@@ -9,6 +9,7 @@ title: Badekar/Læske
 <div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
 </div>
 
+<div class="box">
 <p>Når du bestiller via det nye system, så download det følgende Google Sheets som en Excel fil og rediger den på din egen computer. Rediger <b>KUN</b> de blå felter.</p>
 <p>Når du er færdig, så send det udfyldte sheet som en Excel-kompatibel formateret fil til <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Udfyld emnefeltet med <i>”Order for [turnavn]”</i>. Det er i orden at sende mailen på Engelsk.</p>
 <p>Navngiv venligst filen som <i>[turnavn]</i>. <b>Vær venligst opmærksom på at vedhæfte filen direkte til selve e-mailen, og ikke et delt link til et Google Drive. Vi har ikke adgang til SharePoint deling heller.</b></p>
@@ -21,6 +22,8 @@ title: Badekar/Læske
 	  Bestil badekar
 	</button>
 </a>
+</div>
+
 <a style="text-align: center; padding: 2px" href="https://forms.gle/FEG9769vdqG83rJj8">
 	<button class="applyBtn"> 
 		Bestil læske 
