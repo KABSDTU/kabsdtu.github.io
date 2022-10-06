@@ -15,6 +15,7 @@ title: Badekar/Læske
 <p>Navngiv venligst filen som <i>[turnavn]</i>. <b>Vær venligst opmærksom på at vedhæfte filen direkte til selve e-mailen, og ikke et delt link til et Google Drive. Vi har ikke adgang til SharePoint deling heller.</b></p>
 <p>Angiv venligst i e-mailen, hvis du har brug for hjælp til afhentning af badekarret. Ellers er det antaget at din egen KABS kan hjælpe med afhentning og tilbagelevering.</p>
 
+</div>
 
 
 <a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">
@@ -22,7 +23,6 @@ title: Badekar/Læske
 	  Bestil badekar
 	</button>
 </a>
-</div>
 
 <a style="text-align: center; padding: 2px" href="https://forms.gle/FEG9769vdqG83rJj8">
 	<button class="applyBtn"> 
