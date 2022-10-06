@@ -14,14 +14,14 @@ title: FAQ
 <h3><b>Hvilke datoer er vigtige at sætte af til at være vektor?</b></h3>
 <p>Der er visse datoer der er vigtige for dig at møde op til:<br/>
 
-<li>Første Vektor Møde (17. Februar)</li>
-<li>Første Uddannelsesdag (19. Marts)</li>
-<li>Anden uddannelsesdag (23. April)</li>
-<li>OPtur (8. April - 12. April)</li>
-<li>Førstehjælp (4./5./11. eller 12. Juni)</li>
-<li>Introdag (19. August) </li>
-<li>Rustur (20. - 27. August)</li>
-<li><a style="font-style: italic;">Kun for læske </a>Læske uddannelsesdag (26. eller 27. Marts)</li>
+<li>Første Vektormøde (27. oktober efter 17:00)</li>
+<li>Første uddannelsesdag (13. november)</li>
+<li>vOP-tur (18. - 20. november)</li>
+<li>Førstehjælp (8. januar)</li>
+<li>Anden uddannelsesdag (14. januar)</li>
+<li>Deltage på introdagen (24. januar)</li>
+<li>Deltage på rustur i uge 4 (Dvs. ingen PF skitur 😢)</li>
+
 
 <h3><b>Hvornår og hvordan søger man?</b></h3>
 <p>Se <a href="/ansog-som-vektor.html">Ansøg nu</a>.</p>
@@ -34,18 +34,20 @@ title: FAQ
             <li>Foregår over 4 dage i en hytte væk fra campus</li>
         </ul>
     </li>
+    <!---
     <li> Weekendrustur (Dansk)
         <ul>
             <li>Foregår fra fredag til søndag i en hytte væk fra campus</li>
             <li>Uafhængig af din studieretning, så her har du som udgangspunkt ikke noget kagehold bagefter</li>
             <li>3 ture i alt - 1 er uden alkohol</li>
         </ul>
-    </li>
+    </li>--->
     <li> Endagstur (English)
         <ul>
-            <li>Med danske og engelske russere</li>
+            <li>Med danske <!---og engelske---> russere</li>
+            <li>Foregår på begge campusser</li>
         </ul>
-    </li>
+    </li><!---
     <li> Campusrustur (Dansk)
         <ul>
             <li>Sker over 4 dage på campus</li>
@@ -58,7 +60,7 @@ title: FAQ
             <li>GE-vektorer og -russer blandet med andre studieretninger</li>
             <li>4 ture i alt - 1 er uden alkohol</li>
         </ul>
-    </li>
+    </li>--->
 </ul>
 
 <h3><b>Hvad betyder det at være vektor for en anden linje?</b></h3>
