@@ -12,7 +12,7 @@ title: Time consumption
 <p>If you apply as a vector, there will be an interview with the KABS that is responsible for the study programme you applied for.</p> 
 
 <p>The vector work is very flexible except for the preparation trips. This work includes the planning of various social events, keeping a budget internally or externally and to make sure your russes are satisfied. However, there are some dates, that requires participation to be a vector:</p>
-
+<!---
 <li>First Vector Meeting (17th February)</li>
 <li>First educational day (19th March)</li>
 <li>Second educational day (23th April) </li>
@@ -26,5 +26,6 @@ title: Time consumption
 <li>First Aid (One of the following days: 4th, 5th, 11th or 12th June)</li>
 <li>Intro-day (19th August)</li>
 <li>Rus trip (20th - 26th August depending on the type of trip)</li>
+--->
 
 <p>The time and effort that is put into the vector work can’t be measured against the friendship and the personal experience that is gained during the vector period.</p>
