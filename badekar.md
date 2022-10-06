@@ -14,7 +14,6 @@ title: Badekar/Læske
 <p>Når du er færdig, så send det udfyldte sheet som en Excel-kompatibel formateret fil til <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Udfyld emnefeltet med <i>”Order for [turnavn]”</i>. Det er i orden at sende mailen på Engelsk.</p>
 <p>Navngiv venligst filen som <i>[turnavn]</i>. <b>Vær venligst opmærksom på at vedhæfte filen direkte til selve e-mailen, og ikke et delt link til et Google Drive. Vi har ikke adgang til SharePoint deling heller.</b></p>
 <p>Angiv venligst i e-mailen, hvis du har brug for hjælp til afhentning af badekarret. Ellers er det antaget at din egen KABS kan hjælpe med afhentning og tilbagelevering.</p>
-
 </div>
 
 
