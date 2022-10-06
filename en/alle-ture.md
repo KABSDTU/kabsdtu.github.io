@@ -5,7 +5,7 @@ title: All trips
 
 <h1>All trips you can choose from</h1>
 
-
+<!---
 <div class="box">
     <h3 class="SGh3">4-day trip</h3>
     <ul class="df">
@@ -68,6 +68,8 @@ title: All trips
     <li>A caketeam to follow through the first semester</li>
     </ul>
 </div>
+
+--->
 
 
 

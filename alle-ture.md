@@ -5,7 +5,25 @@ title: Alle ture
 
 <h1>Alle ture man kan vælge imellem</h1>
 
+<div class="box">
+    <h3 class="SGh3">4 dags rustur</h3>
+    <ul class="df">
+    <li>4 dage</li>
+    <li>Hytte i uge 4</li>
+    <li>Et kagehold du følger gennem første semester</li>
+    </ul>
+</div>
 
+<div class="box">
+    <h3 class="SGh3">Endags rustur</h3>
+    <ul class="df">
+    <li>1 dag</li>
+    <li>Foregår på begge campusser</li>
+    <li>Et kagehold du følger gennem første semester</li>
+    </ul>
+</div>
+
+<!---
 <div class="box">
     <h3 class="SGh3">4 dags rustur</h3>
     <ul class="df">
@@ -68,3 +86,5 @@ title: Alle ture
     <li>Et kagehold du følger gennem første semester</li>
     </ul>
 </div>
+
+--->
