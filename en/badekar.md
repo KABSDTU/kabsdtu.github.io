@@ -15,6 +15,9 @@ title: Bathtub/Beverages
 <p>When you're done, please send the filled sheet as an Excel-compatible formatted file to <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Put <i>"Order for [trip name]"</i> in the subject. Feel free to write in Danish. </p>
 <p>Please name the file as <i>[trip name]</i>. <b>Please make sure to attach the file directly to the email itself, and not a shared link to a Google Drive. We do not have access to SharePoint sharing.</b></p>
 <p>Write in the email, if you need assistance to pick-up the bathtub. Otherwise, it will be assumed that your KABS will help with pick-up and drop-off.</p>
+<p>If you have not received an invoice 10 business days after it's return, you will not be charged for the order.</p>
+<p><b>Make sure to order the bathtub the Thursday before it's needed at the latest, such that it is packed in due time.</b></p>
+
 
 <a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">
 	<button class="applyBtn">

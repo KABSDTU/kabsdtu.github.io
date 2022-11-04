@@ -15,6 +15,8 @@ title: Badekar/Læske
 <p>Når du er færdig, så send det udfyldte sheet som en Excel-kompatibel formateret fil til <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Udfyld emnefeltet med <i>”Order for [turnavn]”</i>. Det er i orden at sende mailen på Engelsk.</p>
 <p>Navngiv venligst filen som <i>[turnavn]</i>. <b>Vær venligst opmærksom på at vedhæfte filen direkte til selve e-mailen, og ikke et delt link til et Google Drive. Vi har ikke adgang til SharePoint deling heller.</b></p>
 <p>Angiv venligst i e-mailen, hvis du har brug for hjælp til afhentning af badekarret. Ellers er det antaget at din egen KABS kan hjælpe med afhentning og tilbagelevering.</p>
+<p>Hvis du ikke har modtaget en regning indenfor 10 arbejdsdage fra at badekaret blev returneret, så vil du ikke blive opkrævet for ordren.</p>
+<p><b>Sørg for at bestille badekaret senest torsdagen før at badekaret skal bruges, så det er pakket i tide.</b></p>
 
 
 <a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">
