@@ -6,13 +6,13 @@ var allowedKeys = {
     40: 'down',
     65: 'a',
     66: 'b',
-    54: '6'
+    50: '2'
 };
 
 // the 'official' Konami Code sequence
 var konamiCode = ['up', 'up', 'down', 'down', 'left', 'right', 'left', 'right', 'b', 'a'];
 // the secret code to the devils layer
-var devilCode = ['6', '6', '6'];
+var devilCode = ['2', '2'];
 // a variable to remember the 'position' the user has reached so far.
 var konamiCodePosition = 0;
 var devilCodePosition = 0;
@@ -60,5 +60,5 @@ function activateCheats() {
 }
 
 function activateHell() {
-    window.location.href = "https://ruc.dk";
+    window.location.href = "https://docs.google.com/spreadsheets/u/0/create?usp=sheets_home&ths=true";
 }
