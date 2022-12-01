@@ -38,7 +38,7 @@ title: KABS
 <li>	Pernille Diana Vinding Jönsson	-	D. Bygningsdesign	</li>
 <li>	Rasmus Holm Høyrup	-	D. Kemi og Bioteknik samt D. Kemiteknik og International Business	</li>
 <li>	Rasmus Sigurd Sundin	-	D. IT og Økonomi	</li>
-<li>	Signe Staun	-	D. Sundhedsteknologi samt D. IT-elektronik (SUIT)	</li>
+<li>	Benedicte M E Jensen	-	D. Sundhedsteknologi samt D. IT-elektronik (SUIT)	</li>
 <li>	Silas Lasak Hedeboe	-	D. Maskinteknik	</li>
 <li>	Tobias Lopez Sejersen Christensen	-	D. Eksport og Teknologi	</li>
 <li>	William Sommer	-	C. Design og Innovation	</li>
