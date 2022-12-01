@@ -42,7 +42,9 @@ Denne ansvarspost kræver viden om servere og kodning til hjemmesider: generelt 
  * Det tager en god time før hele hjemmesiden er opdateret, så gør det i god tid.
 
 
- ### Guide til at komme i gang.
+### Guide til at komme i gang.
+ Se denne guide for at komme i gang med de nyeste vejledninger.
+ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll 
 
 #### Windows
  1. Installer Git og Ruby
