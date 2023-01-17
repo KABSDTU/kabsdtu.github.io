@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(91, 24, 168, 0.92);
-  --nav-color: rgba(102, 29, 185, 0.92);
-  --cdwn-color: rgba(83, 2, 175, 0.5);
+  --article-color: rgba(214, 19, 0, 0.92);
+  --nav-color: rgba(214, 19, 0, 0.92);
+  --cdwn-color: rgba(246, 225, 186, 0.5);
 }
 
 body {
-  background-color:rgba(255, 0, 0, 0.876);
+  background-color:rgb(246, 225, 186);
 }
 
 #container {
@@ -13,7 +13,7 @@ body {
   top: 0;
   font-family: "Droid", sans-serif;
   color: #ffffff;
-  background-image: url("/static/img/mainBaggrund.jpg");
+  background-image: url("/static/img/mainBackground23.png");
   background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
@@ -111,7 +111,7 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 140px;
-  background-image: url("/static/img/kabsLogo.png");
+  background-image: url("/static/img/Habs_Kabs.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 15%;
