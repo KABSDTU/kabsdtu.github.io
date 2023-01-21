@@ -6,19 +6,57 @@ title: Alle ture
 <h1>Alle ture man kan vælge imellem</h1>
 
 <div class="box">
-    <h3 class="SGh3">4 dags rustur</h3>
+    <h3 class="SGh3">4-dags rustur</h3>
     <ul class="df">
     <li>4 dage</li>
-    <li>Hytte i uge 4</li>
+    <li>Hytte i uge 33-34</li>
     <li>Et kagehold du følger gennem første semester</li>
     </ul>
 </div>
+
+<div class="box">
+    <h3 class="SGh3">3-dags rustur</h3>
+    <ul class="df">
+    <li>3 dage</li>
+    <li>Hytte i uge 34</li>
+    <li>Et kagehold du følger gennem første semester</li>
+    </ul>
+</div>
+
+<div class="box">
+    <h3 class="SGh3">Weekend rustur</h3>
+    <ul class="df">
+    <li>3 dage</li>
+    <li>Hytte i uge 33</li>
+    <li>Kan have et kagehold</li>
+    </ul>
+</div>
+
+<div class="box">
+    <h3 class="SGh3">Campus rustur</h3>
+    <ul class="df">
+    <li>4 dage</li>
+    <li>Foregår på Lyngby Campus</li>
+    <li>Et kagehold du følger gennem første semester</li>
+    </ul>
+</div>
+
 
 <div class="box">
     <h3 class="SGh3">Endags rustur</h3>
     <ul class="df">
     <li>1 dag</li>
     <li>Foregår på begge campusser</li>
+    <li>Et kagehold du følger gennem første semester</li>
+    </ul>
+</div>
+
+<div class="box">
+    <h3 class="SGh3">Mix Trip rustur</h3>
+    <ul class="df">
+    <li>4 dage</li>
+    <li>Hytte i uge 33/34</li>
+    <li>Engelsktalende</li>
     <li>Et kagehold du følger gennem første semester</li>
     </ul>
 </div>
