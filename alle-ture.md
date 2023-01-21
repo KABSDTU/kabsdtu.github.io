@@ -58,6 +58,7 @@ title: Alle ture
     <li>Hytte i uge 33/34</li>
     <li>Engelsktalende</li>
     <li>Et kagehold du følger gennem første semester</li>
+    <li>Læs mere under <a href="./internationale-ture.html"> <u> Internationale ture </u> </a> </li>
     </ul>
 </div>
 
