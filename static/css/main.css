@@ -47,7 +47,7 @@ h4 {
 article a {
   text-decoration: none;
   font-weight: bold;
-  color: #fae40b;
+  color: #f9e209;
 }
 
 /*
@@ -103,7 +103,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgba(251, 231, 11, 1);
+  background-color: rgba(249, 226, 9, 1);
   color: #fff;
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
