@@ -4,7 +4,7 @@ title: Ansøg som Vektor
 ---
 <h1 id="titel">Ansøgningen til Vektor '23 er lukket for nu. </h1>
 
-<div id="poster-image" style="height: 450px; background-image: url('/static/img/wewantyousmall.png');">
+<div id="poster-image" style="height: 790px; background-image: url('/static/img/ostehapser_vektorer.png');">
 </div>
 
 <p id ="n">Ansøgningen er til Vektor '23 er lukket for nu. </p>
@@ -12,7 +12,7 @@ title: Ansøg som Vektor
 <br />
 
 
-Hvis i har nogle spørgsmål, kig på: <a href="/vektor">Vektor</a>
+Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
 
 <script>
 
