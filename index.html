@@ -24,8 +24,8 @@ title: HapsKABS søger vektorer
 
 <p style="text-align: center; font-size: large;">Ansøgning til Vektor '23 åbner snart!</p>
 
-<!--
-Countdown til vektoransøgning
+
+<!--Countdown til vektoransøgning-->
 
 <div style="text-align: center; padding-bottom: 20px;">
   <a href="/ansog-som-vektor">
@@ -49,8 +49,8 @@ Countdown til vektoransøgning
     </div>
   </a>
 </div>
--->
 
+<!-- End Countdown til vektoransøgning -->
 
 <div
   id="poster-image"
@@ -106,12 +106,12 @@ Countdown til vektoransøgning
     div.parentElement.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/ixkR7jgdV6q87oWk6"><button class="applyBtn">Ansøg nu!</button></a><br />'
   }
 
-  var deadline = new Date("October 15, 2022 23:59:59");
- /* if (deadline < new Date) {
+  var deadline = new Date("February 1, 2023 12:00:00");
+  if (deadline < new Date) {
     showVectorApplication("clockdiv")
   } else {
     
-  }*/
+  }
 
   initializeClock("clockdiv", deadline);
   document.getElementById("demo").innerHTML = deadline;
