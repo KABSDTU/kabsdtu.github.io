@@ -3,15 +3,15 @@ layout: default
 title: Ansøg som Hyttebums
 ---
 
-<h1>Vi har tryllet noget op af hatten</h1>
+<h1>Her sker snart noget...</h1>
 
-<p> Vi har tryllet en ansøgning frem til alle jer der gerne vil være hytte bumser i 22.
+<p> På denne side kommer en ansøgning til Hyttebums'23
 </p>
 
 
 <br />
 
-<p style="text-align: center; font-size: large;">Ansøgning til Hyttebums '22 er lukket!</p>
+<p style="text-align: center; font-size: large;">Ansøgningen til Hyttebums '23 åbner snart!</p>
 
 <br />
 
