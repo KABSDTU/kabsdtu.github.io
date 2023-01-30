@@ -16,7 +16,7 @@ Hver har en retning med undtagelse af RustursKABS. Der er i alt 30 rusture, hvor
 <li> Anders Strøbæk - C. Elektroteknologi samt C. Cyberteknologi </li>
 <li> Anna Hjort Danielsen - C. General Engineering </li>
 <li> Anna Weilsby - C. Medicin og Teknologi </li>
-<li> August Johannsen - C. Kemi & Teknologi </li>
+<li> August Johannsen - C. Kemi & Teknologi samt C. Teknologi</li>
 <li> Benedicte Jensen - D. Sundhedsteknologi samt D. IT-elektronik (SUIT) </li>
 <li> Ea Quie Landgreen - D. Fødevaresikkerhed og -kvalitet </li>
 <li> Emilie Rønbøg - C. Bygningsdesign </li>
