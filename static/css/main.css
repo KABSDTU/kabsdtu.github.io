@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(214, 19, 0, 0.92);
-  --nav-color: rgba(214, 19, 0, 0.92);
-  --cdwn-color: rgba(246, 225, 186, 0.5);
+  --article-color: rgba(7, 112, 53, 0.92);
+  --nav-color: rgba(7, 112, 53, 0.92);
+  --cdwn-color: rgba(0, 0, 0, 0.5);
 }
 
 body {
-  background-color:rgb(246, 225, 186);
+  background-color:rgb(114, 64, 36);
 }
 
 #container {
@@ -103,15 +103,15 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgba(249, 226, 9, 1);
-  color: #fff;
+  background-color: rgb(246, 225, 186);
+  color: rgb(114, 64, 36);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
 
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 140px;
-  background-image: url("/static/img/Habs_Kabs.png");
+  background-image: url("/static/img/kabsLogo.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 15%;
