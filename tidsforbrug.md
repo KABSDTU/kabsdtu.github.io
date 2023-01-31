@@ -20,6 +20,8 @@ Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansv
 <b>VIGTIGE DATOER:</b>
 </p>
 
+<li>Ansøgningsfrist (10. februar kl. 23:59)	        </li>
+<li>Vektor-interviews (13.-15. februar)             </li>
 <li>Første vektormøde (16. februar efter kl. 17:00)	</li>
 <li>Første uddannelsesdag (19. marts)				</li>
 <li>OpTur (31. marts - 4. april)					</li>
