@@ -6,7 +6,7 @@ title: Badekar/Læske
 <h1>Badekar og Læske</h1>
 <p>Bestil badekar og læske her!</p>
 
-<div id="poster-image-long" style="height: 330px; background-image: url('/static/img/badekar_Laeske.JPG');">
+<div id="poster-image-long" style="height: 330px; background-image: url('/static/img/badekarSommer23.JPG');">
 </div>
 
 <br>
