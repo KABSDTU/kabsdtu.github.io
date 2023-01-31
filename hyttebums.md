@@ -4,7 +4,7 @@ title: Hyttebums
 ---
 <h1>Hyttebums</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
+<div id="poster-image" style="height: 330px; background-image: url('/static/img/hyttebumsSommer23.gif');">
 </div>
 
 <p>

@@ -5,7 +5,7 @@ title: Ansøg som Hyttebums
 
 <h1>Her sker snart noget...</h1>
 
-<p> På denne side kommer en ansøgning til Hyttebums'23
+<p> KABS23 er i gang med at opspore ansøgningen til Hyttebums'23
 </p>
 
 
