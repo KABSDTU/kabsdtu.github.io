@@ -11,7 +11,7 @@ title: Hvad får jeg ud af det?
 	Du vil som vektor få lov til at tage ansvar for, og sætte dit præg på diverse projekter inden for studiestarten. De erfaringer følger med at planlægge de forskellige begivenheder inklusive rustur, velkomstdag og retningshyttetur m.fl. vil kunne bruges fremadrettet. På rustur og retningshyttetur skal der holdes styr på økonomi, tidsplaner, materialer, mm. Dette giver dig som vektor muligheden for et større ansvar.
 </p>
 <p>
-	Som vektor bliver du uddannet i diverse taleteknikker, konflikthåndtering, og andre personorienterede evner. Dette giver dig et godt grundlag, og hjælper dig til at være imødekommende over for de nystartede og have fokus på deres behov. Derudover vil du også opnå et meget større indblik i opbygningen af PF, bestyrelsen og diverse klubber o.lign., der tilbyder en masse for de nye studerende.
+	Som vektor bliver du uddannet i diverse taleteknikker, konflikthåndtering og andre personorienterede evner. Dette giver dig et godt grundlag, og hjælper dig til at være imødekommende over for de nystartede og have fokus på deres behov. Derudover vil du også opnå et meget større indblik i opbygningen af PF, bestyrelsen og diverse klubber o.lign., der tilbyder en masse for de nye studerende.
 </p>
 <p>
 	Du vil opbygge et enestående netværk på DTU og i PF, som også kan være relevant fremover ved sociale såsom faglige projekter.
