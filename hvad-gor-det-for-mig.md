@@ -4,7 +4,7 @@ title: Hvad får jeg ud af det?
 ---
 <h1>Hvad får <i>jeg</i> ud af det?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/magicOut.jpg');">
+<div id="poster-image" style="margin: auto; height: 410px; width: 410px; background-image: url('/static/img/hvadgordetformigSommer23.gif');">
 </div>
 
 <p>
