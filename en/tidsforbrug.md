@@ -4,14 +4,33 @@ title: Time consumption
 ---
 <h1>Time spent on being a vector</h1>
 
-<div id="poster-image" style="height: 550px; background-image: url('/static/img/magicalTime.gif');">
+<div id="poster-image" style="height: 335px; background-image: url('/static/img/tidsforbrugSommer23.gif');">
 </div>
 
-<p>It takes time to be a vector. Some periods are more demanding than others. As a minimum, you should count on one evening meeting per week and a bigger effort to make a costume for OPtur, as well as by the end of the summer break. The last week in August is the rus trip, which is preceded by a preparation trip, that each group has to plan.</p>
+<p>Being a vector takes some time, and some periods will be more time consuming than others.</p>
 
 <p>If you apply as a vector, there will be an interview with the KABS that is responsible for the study programme you applied for.</p> 
 
-<p>The vector work is very flexible except for the preparation trips. This work includes the planning of various social events, keeping a budget internally or externally and to make sure your russes are satisfied. However, there are some dates, that requires participation to be a vector:</p>
+<p>
+If you are interested in being a vector, there will be an employment interview with the KABS responsible for the studyline you’ve applied to. You have to count on having one meeting a week, and some effort in costume sewing for OPtur on Easter break. In August is the rustrip, and before then a preparation trip, which you plan yourself with the rest of your vector teams.
+</p>
+
+<p>
+<b>IMPORTANT DATES:</b>
+</p>
+
+<li>Application deadline (10th of February 12:59 pm)            </li>
+<li>Vector-interviews (13th-15th of February)                   </li>
+<li>The first vector-meeting (16th of February after 05:00 pm)	</li>
+<li>The first education day (19th of March)				        </li>
+<li>OpTur (31st of March - 4th of April)					    </li>
+<li>First aid course (TBD)						                </li>
+<li>The second education day (16th of April)				    </li>
+<li>Welcome Day (18th of August)						        </li>
+<li>Rustrip (18th-25th of August)							    </li>
+
+
+
 <!---
 <li>First Vector Meeting (17th February)</li>
 <li>First educational day (19th March)</li>
@@ -28,4 +47,13 @@ title: Time consumption
 <li>Rus trip (20th - 26th August depending on the type of trip)</li>
 --->
 
-<p>The time and effort that is put into the vector work can’t be measured against the friendship and the personal experience that is gained during the vector period.</p>
+<p>
+The time and work put into the vector job can't be measured against the connections, the personal experiences and the knowledge you gain during your vector period. And besides, it's just great fun.
+</p>
+
+
+
+
+
+
+
