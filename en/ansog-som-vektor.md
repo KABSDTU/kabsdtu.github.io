@@ -23,7 +23,7 @@ If you have questions, check out: <a href="/en/vektor">Vector</a>
     var titel = document.getElementById("titel")
     titel.innerHTML = "The application for Vector'23 is open!"
     n.remove()
-    div.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSeEOySk8egoJ2r5IrqN9Y7NoKLKmQW2rukfXwy7t-Q1Sh9Glg/viewform?usp=pp_url&entry.313565989=Begge+dele+kan+g%C3%A5+/+Either+can+do"><button class="applyBtn">Apply now!</button></a><br />'
+    div.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSf5VIB7O_rrS5Bp4PJAC688lhcRQxS0nXW4Epn3JTb-zFl4Zg/viewform"><button class="applyBtn">Apply now!</button></a><br />'
   }
 
   var deadline = new Date("February 11, 2023 00:00:01");
