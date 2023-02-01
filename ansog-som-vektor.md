@@ -22,7 +22,7 @@ Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
     var titel = document.getElementById("titel")
     titel.innerHTML = "Ansøgningen til Vektor '23 er åben!"
     n.remove()
-    div.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSf5VIB7O_rrS5Bp4PJAC688lhcRQxS0nXW4Epn3JTb-zFl4Zg/viewform"><button class="applyBtn">Ansøg nu!</button></a><br />'
+    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LpwLmtV32kJUd5sL9"><button class="applyBtn">Ansøg nu!</button></a><br />'
   }
 
   var deadline = new Date("February 11, 2023 00:00:01");
