@@ -39,7 +39,7 @@ Hver har en retning med undtagelse af RustursKABS. Der er i alt 30 rusture, hvor
 <li> Marilouise J. Arbøl - C. Computer Engineering </li>
 <li> Niels Boelt Mortensen - C. Geofysik og Rumteknologi </li>
 <li> Oliver Sellberg - D. Softwareteknologi </li>
-<li> Sarah Ranzow - D. Arktisk bygger og infrastruktur og D. Fiskeri og Teknologi </li>
+<li> Sarah Ranzow - D. Arktisk byggeri og infrastruktur samt D. Fiskeri og Teknologi </li>
 <li> Sophie Plougmand - C. Design og Innovation </li>
 <li> Theis Harbers Rix - D. Byggeri og Infrastruktur </li>
 <li> Thomas Nielsen - D. IT og Økonomi </li>
