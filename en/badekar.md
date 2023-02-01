@@ -4,18 +4,17 @@ title: Bathtub/Beverages
 ---
 
 <h1>Bathtub and Beverages</h1>
-<p>Order a bathtub and beverages or your trip won't be as fun</p>
 
-<div id="poster-image-long" style="background-image: url('/static/img/magicTub.jpg');">
+<div id="poster-image-long" style="height: 330px; background-image: url('/static/img/badekarSommer23.JPG');">
 </div>
 
 <br>
 <div class="box">
-<p>When ordering with the new system, download the sheet as an excel file and edit it on your own computer. <b>ONLY</b> edit the blue fields.</p>
-<p>When you're done, please send the filled sheet as an Excel-compatible formatted file to <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Put <i>"Order for [trip name]"</i> in the subject. Feel free to write in Danish. </p>
-<p>Please name the file as <i>[trip name]</i>. <b>Please make sure to attach the file directly to the email itself, and not a shared link to a Google Drive. We do not have access to SharePoint sharing.</b></p>
-<p>Write in the email, if you need assistance to pick-up the bathtub. Otherwise, it will be assumed that your KABS will help with pick-up and drop-off.</p>
-<p>If you have not received an invoice 10 business days after it's return, you will not be charged for the order.</p>
+<p>When ordering with the new system, download the sheet which you'll find by clicking on 'Order Bathtub' as an excel file and edit it on your own computer. <b>ONLY</b> edit the blue fields.</p>
+<p>When you're done, please send the filled sheet as an Excel-compatible formatted file to <a href="mailto:studiestartKABS@pf.dk?subject=Order for [trip name]">studiestartKABS@pf.dk</a>. Put <i>"Order for [trip name]"</i> in the subject. Feel free to write in Danish if you wish. </p>
+<p>Please name the file as <i>[trip name]</i>. <b>Please make sure to attach the file directly to the email itself, and not a shared link to a Google Drive. We do not have access to SharePoint sharing either.</b></p>
+<p>Write in the email if you need assistance to pick up the bathtub. Otherwise, it will be assumed that your KABS will help with pick-up and drop-off.</p>
+<p>If you have not received an invoice within 10 business days after the bathtub is returned, you will not be charged for the order.</p>
 <p><b>Make sure to order the bathtub the Thursday before it's needed at the latest, such that it is packed in due time.</b></p>
 
 

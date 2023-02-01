@@ -5,29 +5,22 @@ title: FAQ
 
 <h1>FAQ</h1>
 
-<p>There will of course be a lot of questions, if you consider becoming a vector. To make this a little easier, we have gathered some of the most common questions in a FAQ (Frequently Asked Questions).</p>
+<p>There will often be many questions if you consider applying for vector. To make it a little easier, here are some of the most frequently asked questions in this FAQ. Here you can also get an overview of what questions many others also have.</p>
 
 <h3><b>How time consuming is it to be a vector on a day-to-day basis?</b></h3>
-<p>As a baseline you will need to show up to the weekly vector-meetings. Which day of the week you will decide amongst your assigned vector team. Also expect to spend a little more time, since there will be tasks you will take outside the meetings.</p>
+<p>As a baseline you will need to show up to the weekly vector-meetings. Which day of the week they are held, is something you will decide in your assigned vector teams. Also expect to spend a little more time, since there will be tasks you will work on outside the meetings.</p>
 
 <h3><b>Which dates is it important to keep free, to become a vector?</b></h3>
 
-<p>There are certain important dates that you will be required to show up to:<br/>
-<li>First Vector Meeting (17th February)</li>
-<li>First educational day (19th March)</li>
-<li>Second educational day (23th April) </li>
-<li>OPtur (8th April - 12nd April)</li>
-<li>First Aid (One if the following days: 4th, 5th, 11th or 12th June)</li>
-<li>Intro-day (19th August)</li>
-<li>Rus trip (20th - 27th August depending on the type of trip)</li>
-<li><a style="font-style: italic;">Only for beverage </a>Beverage education (26th or 27th of March)</li>
-</p>
+<p>See <a href="/en/tidsforbrug.html"><u>Time consumption</u></a>.</p>
 
 <h3><b>When and where do you apply?</b></h3>
-<p>Deadline for the vector application is the 11th of February, a couple of weeks before that a link will be uploaded to KABS DTU, where you can apply.</p>
+<p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
 
 <h3><b>What kinds of rustrips are offered?</b></h3>
+<p>See <a href="/en/alle-ture.html"><u>All trips</u></a>.</p>
 
+<!--
 <ul>
     <li> Rustrip with alcohol (Danish)
         <ul>
@@ -61,33 +54,35 @@ title: FAQ
         </ul>
     </li>
 </ul>
-
+-->
 
 <h3><b>What does it mean to be vector for another studyline?</b></h3>
-<p>If you have applied for a studyline, where there more applicants than vector positions, you might get the offer to to be a vector for another studyline than your own.
-To be a vector for another line than your own contains the same experiences as being a vector for you own. An advantage of being a vector for another study line, is that you get a broader network at DTU, people you would never have met otherwise.
-Since vectors is mainly social guides and not study guides, it doesn't matter that you are not studying the same thing as your russes. If there is anything particular to the study line that you need to know, no need to worry, you will get all the information required by the KABS for the given study line.</p>
+<p>
+
+If you have applied for a studyline, where there more applicants than available vector positions, you might get the offer to to be a vector for another studyline than your own. To be a vector for another line than your own contains the same experiences as being a vector for your own study line. An advantage of being a vector for another study line, is that you get a broader network at DTU. You'll get to meet many people you would never have met otherwise. Since vectors is mainly social guides and not study guides, it doesn't matter that you are not studying the same thing as your russes. If there is anything particular to the study line that you need to know, there is no need to worry. You will get all the information required by the KABS for the given study line.</p>
 
 <h3><b>What do you get out of being a vector?</b></h3>
-<p>Other than the experiences that you get, by being a part of planning a studystart, with the rustrip, the introday, cakemeetings etc. you'll also get a huge social network. You get to know people from the whole of DTU, and some of these people may be for life.</p>
+<p>Apart from the experiences that you get by being a part of planning a studystart, with the rustrip, the introday, cakemeetings etc. you'll also get a huge social network. You get to know people from all of DTU, and some of these relationships may last the rest of your life.</p>
 
 <h3><b>How is it to be on a rustrip?</b></h3>
-<p>It is at times very challenging, but also an awesome feeling to be on a rustrip. You have for a long time planned a trip with your co-vectors, so to finally get your russes on the trip is such a great sensation. Before you go on the rustrip, you and your co-vectors will have created such a bond and that is contagious to the russes.</p>
+<p>It is at times very challenging, but also an awesome feeling to be on a rustrip. You'll have planned the trip with your co-vectors for a long time, so to finally get your russes on the trip is such a great sensation. Before you go on the rustrip, you and your co-vectors will have created a great bond, and that feeling will be contagious to the russes.</p>
 
 <h3><b>Can you go on summer vacation?</b></h3>
-<p>Other than the dates required for vectors, which is stated in the question "Which dates will be important to keep free", you will also go on a preparation-trip (prep-trip) with your cross-team, and maybe also your study line team. This is something planned internally in the teams, but is often placed in the end of the summer vacation.</p>
+<p>Other than the dates required for vectors, you will also go on a preparation-trip (prep-trip) with your cross-team, and maybe also your study line team. This is something planned internally in the teams, but is often placed in the end of the summer vacation.</p>
+
 
 <h3><b>Are there many applying to be a vector?</b></h3>
-<p>How many people that apply for the vector position varies a lot from study line to studyline, and from year to year. If there are too many who has applied for one study line, you might get offered the position for another study line. Read more about that under the "Vector for another studyline" question.</p>
+<p>The amount of people applying for the vector position varies a lot from study line to study line, and from year to year. If there are too many who have applied for one study line, you might get offered the position for another study line. Read more about being a vector for another study line than your own at the question "What does it mean to be vector for another studyline?" above.</p>
 
-<h3><b>Are there cons to being a vector?</b></h3>
-<p>It will take quite a bit of time from your day, both before and after the rustrip. But that time is nothing compared to the experiences and companionship that you get out of it.</p>
+<h3><b>Are there any cons to being a vector?</b></h3>
+<p>It will take quite a bit of time from your day-to-day life, both before and after the rustrip. But that time is nothing compared to the experiences and companionship that you get out of it.</p>
 
 <h3><b>What does it mean to be a weekend vector?</b></h3>
-<p>As a weekend vector, the time before the rustrip is no different than for that of the other vectors, the difference lays after the rustrip, since you will not have a cake-group. It means that the vector period will be shorter, but you will still have the same vector experiences.</p>
+<p>As a weekend vector, the time before the rustrip is no different than for that of the other vectors. There might be a difference after the rustrip, as it is not assured you will have a cake team. In the case of not having a cake-team the vector period will be shorter, but you will still have the same vector experiences.</p>
 
 <h3><b>Do you have to be able to speak danish to be a vector?</b></h3>
-<p>No, but you will be limited to the mixed-trips and the one day trip if you do not.</p>
+<p>No, but you will be limited to the mixed-trips if you do not.</p>
 
 <br/>
-<p>Still missing an answer to the question you have? You are always welcome to write to our <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r">KABS Facebook</a> or to our mail at kabs@pf.dk and we will answer your questions. Do you have a question that you think wil be a valuable addition to the website? Send it to us <a href="https://forms.gle/Ne7cmd8cXtqCVYWw7">here</a>, and we will attempt to get all relevant questions on the website.</p>
+<p>Still missing an answer to the question you have? You are always welcome to write us at <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r">KABS Facebook</a> or to our mail at kabs@pf.dk and we will answer your questions. 
+Do you have a question that you think wil be a valuable addition to the website? Send it to us <a href="https://forms.gle/Ne7cmd8cXtqCVYWw7">here</a>, and we will attempt to get all relevant questions on the website.</p>

@@ -65,7 +65,7 @@ title: FAQ
 
 
 <h3><b>Hvad betyder det at være vektor for en anden linje?</b></h3>
-<p>Hvis man har søgt vektor for en retning med flere ansøgere end vektorpladser, kan man få tilbudt at blive vektor for en anden linje end den man selv læser. At være vektor for en anden linje end sin egen indeholder alle de samme oplevelser, som man får ved at være vektor for sin egen linje. En fordel ved at være vektor for en anden linje er, at det giver et meget bredere netværk på DTU. Man kommer til at kende mange, man ellers ikke ville have mødt. \\
+<p>Hvis man har søgt vektor for en retning med flere ansøgere end vektorpladser, kan man få tilbudt at blive vektor for en anden linje end den man selv læser. At være vektor for en anden linje end sin egen indeholder alle de samme oplevelser, som man får ved at være vektor for sin egen linje. En fordel ved at være vektor for en anden linje er, at det giver et meget bredere netværk på DTU. Man kommer til at kende mange, man ellers ikke ville have mødt.
 Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor at man ikke læser det samme som sine russer. Er der noget retningsspecifikt man skal vide som vektor, får man informationen af den KABS der står for den pågældende retning.
 </p>
 
@@ -74,7 +74,7 @@ Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor a
 </p>
 
 <h3><b>Kan man tage på ferie i sommerferien?</b></h3>
-<p>Udover de påkrævæde datoer (se spørgsmålet “hvilke datoer er vigtige at sætte af til at være vektor”), vil der også være to forberedelsesture - én med tværholdet og én med retningsholdet. Disse ture planlægges internt, og lægges ofte i slutningen af sommerferien.
+<p>Udover de påkrævæde datoer, vil der også være to forberedelsesture - én med tværholdet og én med retningsholdet. Disse ture planlægges internt, og lægges ofte i slutningen af sommerferien.
 </p>
 
 <h3><b>Er der mange, der søger vektor?</b></h3>

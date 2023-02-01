@@ -17,7 +17,7 @@ Hver har en retning med undtagelse af RustursKABS. Der er i alt 30 rusture, hvor
 <li> Anna Hjort Danielsen - C. General Engineering </li>
 <li> Anna Weilsby - C. Medicin og Teknologi </li>
 <li> August Johannsen - C. Kemi & Teknologi samt C. Teknologi</li>
-<li> Benedicte Jensen - D. Sundhedsteknologi samt D. IT-elektronik (SUIT) </li>
+<li> Benedicte M. E. Jensen - D. Sundhedsteknologi samt D. IT-elektronik </li>
 <li> Ea Quie Landgreen - D. Fødevaresikkerhed og -kvalitet </li>
 <li> Emilie Rønbøg - C. Bygningsdesign </li>
 <li> Eske Haack - C. Kunstig Intelligens og Data </li>
@@ -36,7 +36,7 @@ Hver har en retning med undtagelse af RustursKABS. Der er i alt 30 rusture, hvor
 <li> Magnus Hilarious Ohlin Jepsen - C. Life Science og Teknologi </li>
 <li> Malou Liv Enevoldsen - D. Kemi- og Bioteknik samt D. Kemiteknik og International Business </li>
 <li> Marika Norby - C. Data Science og Management </li>
-<li> Marilouise J. Arbøl Tofte - RUSTUR </li>
+<li> Marilouise J. Arbøl - C. Computer Engineering </li>
 <li> Niels Boelt Mortensen - C. Geofysik og Rumteknologi </li>
 <li> Oliver Sellberg - D. Softwareteknologi </li>
 <li> Sarah Ranzow - D. Arktisk bygger og infrastruktur og D. Fiskeri og Teknologi </li>

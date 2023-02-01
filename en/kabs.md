@@ -5,44 +5,48 @@ title: KABS
 
 <h1>KABS</h1>
 
-<p>KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are a total of 31 KABS, that each have their study programme and rus trip, three of which are weekendtrips, with one of these being alcohol-free. Along with this we also have Mix-Trips, which are rus trips on which english is spoken, as well as rus trips and one day trips on campus.</p>
-<p>To get in touch with KABS, you are always welcome to contact us on our mail: kabs@pf.dk</p>
+<p>
+KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the bachelor study start). There are 32 KABS. Every KABS has one or more study lines which they are KABS for. All KABS are also responsible for a rustrip, and the two largest trips have two collaborating KABS.There is a total of 30 rustrips, of which 2 are weekend trips, one is a campus trip, and three are one-day trips. 
+</p>
+<p>To get in touch with KABS, you are always welcome to contact us on our mail at kabs@pf.dk</p>
 
-<h2>KABS22:</h2>
+<h2>KABS23:</h2>
 
 <ul>
 
-<li>	Adar Alan Benli	-	C. Biomedical Engineering	</li>
-<li>	Alan Yang	-	C. Data Science and Management	</li>
-<li>	Annemarie Louw-Pedersen	-	C. Mechanical Engineering (P&K)	</li>
-<li>	August Weijers	-	C. General Engineering	</li>
-<li>	Emil Hovgaard Wrona Olsen	-	C. Artificial Intelligence and Data	</li>
-<li>	Emil Nymark Trangeled	-	D. Software Technology	</li>
-<li>	Henrik Gjerding Hynkemejer	-	C. Earth and Space Physics and Engineering	</li>
-<li>	Ida Cecilie Hoielt	-	C. Design of Sustainable Energy Systems	</li>
-<li>	Isabella Hochstenbach Fink-Jensen	-	C. Chemistry and Technology	</li>
-<li>	Jacob Hagen Pedersen	-	D. Food Safety and Quality	</li>
-<li>	Jean-Victor Leif Joseph Bendixen-Fernex de Mongex	-	C. Physics and Nanotechnology	</li>
-<li>	Jonas Bøttzauw Pedersen	-	C. Software Technology	</li>
-<li>	Jonas Matthiesen	-	D. Electronic technology & D. Electronic Energytechnology	</li>
-<li>	Jonathan Schmidt Højlev	-	C. Architectural Engineering	</li>
-<li>	Liv Didi Pedersen	-	D. Promo	</li>
-<li>	Michail Philip Harmandjiev (Mimo)	-	C. General Engineering	</li>
-<li>	Mike Linde	-	D. Promo	</li>
-<li>	Monica Diaz Hansen	-	C. Life Science & Technology	</li>
-<li>	Nick Sommer	-	C. Life Science & Technology	</li>
-<li>	Oliver Koch	-	D. Civil Engineering	</li>
-<li>	Oliver Springborg	-	C. Civil Engineering	</li>
-<li>	Otto Westy Rasmussen	-	C. Environmental Engineering	</li>
-<li>	Pernille Christie	-	C. Mathematics and Technology	</li>
-<li>	Pernille Diana Vinding Jönsson	-	D. Architectural Engineering	</li>
-<li>	Rasmus Holm Høyrup	-	D. Chemical and Bio Engineering and D. Chemical Engineering and International Business	</li>
-<li>	Rasmus Sigurd Sundin	-	D. IT and Economy	</li>
-<li>	Signe Staun	-	D. Healthcare Technology & IT-Electonic (SUIT)	</li>
-<li>	Silas Lasak Hedeboe	-	D. Mechanical Engineering	</li>
-<li>	Tobias Lopez Sejersen Christensen	-	D. Global Business Engineering	</li>
-<li>	William Sommer	-	C. Design & Innovation	</li>
-<li>	Xandra Huryn	-	C. Cyber teknologi og C. Elektroteknologi	</li>
+<li> Anders Strøbæk - B.Sc. Electrical Engineering & B.Sc. Cybertechnology </li>
+<li> Anna Hjort Danielsen - B.Sc. General Engineering </li>
+<li> Anna Weilsby - B.Sc. Biomedical Engineering </li>
+<li> August Johannsen - B.Sc. Chemistry & Technology & B.Sc. Technology </li>
+<li> Benedicte M. E. Jensen - B.Eng. Healthcare Technology & B.Eng. Computer Engineering </li>
+<li> Ea Quie Landgreen - B.Eng. Food Safety and Quality </li>
+<li> Emilie Rønbøg - B.Sc. Architectural Engineering </li>
+<li> Eske Haack - B.Sc. Artificial Intelligence and Data </li>
+<li> Frederik Jørgensen - B.Sc. Mechanical Engineering </li>
+<li> Gustav Heron Melhus - B.Sc. Design of Sustainable Energy Systems </li>
+<li> Hannah Leah Herlev Hvid - B.Eng. Global Business Engineering </li>
+<li> Helene Moesgaard - B.Sc. Software Technology </li>
+<li> Joakim Vestergaard Rasmussen - B.Eng. Electrical Engineering & B.Eng. Electrical Energy Technology </li>
+<li> Johan Rosenkrands - B.Eng. Civil Engineering </li>
+<li> Jonas Bennich - B.Eng. Process and Innovation </li>
+<li> Josefine Wibom - B.Sc. Civil Engineering </li>
+<li> Lachlan Houston - B.Sc. Mathematics and Technology </li>
+<li> Laurits Jürs Hahn - B.Eng. Mobility, Transport and Logistics & B.Eng. Manufacturing and Management </li>
+<li> Liam Barbosa - B.Sc. Environmental Engineering </li>
+<li> Mads Kofod Egestad - B.Eng. Mechanical Engineering </li>
+<li> Magnus Hilarious Ohlin Jepsen - B.Sc. Life Science Engineering </li>
+<li> Malou Liv Enevoldsen - B.Eng. Chemical and Bio Engineering & B.Eng. Chemical Engineering and International Business </li>
+<li> Marika Norby - B.Sc. Data Science and Management </li>
+<li> Marilouise J. Arbøl - B.Sc. Computer Engineering </li>
+<li> Niels Boelt Mortensen - B.Sc. Earth and Space Physics and Engineering </li>
+<li> Oliver Sellberg - B.Eng. Software Technology </li>
+<li> Sarah Ranzow - B.Eng. Arctic Civil Engineering & B.Eng. Fisheries of Engineering </li>
+<li> Sophie Plougmand - B.Sc. Design & Innovation </li>
+<li> Theis Harbers Rix - B.Eng. Civil Engineering </li>
+<li> Thomas Nielsen - B.Eng. IT and Economics </li>
+<li> Thor Deibert - B.Sc. Engineering Physics </li>
+<li> Tobias Bæk - B.Eng. Architectural Engineering </li>
+
 
 
 </ul>

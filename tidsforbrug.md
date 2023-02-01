@@ -5,7 +5,7 @@ title: Tidsforbrug
 
 <h1>Tidsforbrug som Vektor</h1>
 
-<div id="poster-image" style="height: 600px; background-image: url('/static/img/tidsforbrugSomVektor\ \(1\).gif');">
+<div id="poster-image" style="height: 335px; background-image: url('/static/img/tidsforbrugSommer23.gif');">
 </div>
 
 <p>
@@ -20,6 +20,8 @@ Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansv
 <b>VIGTIGE DATOER:</b>
 </p>
 
+<li>Ansøgningsfrist (10. februar kl. 23:59)	        </li>
+<li>Vektor-interviews (13.-15. februar)             </li>
 <li>Første vektormøde (16. februar efter kl. 17:00)	</li>
 <li>Første uddannelsesdag (19. marts)				</li>
 <li>OpTur (31. marts - 4. april)					</li>
