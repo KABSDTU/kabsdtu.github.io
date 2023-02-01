@@ -5,6 +5,75 @@ title: All trips
 
 <h1>All trips you can choose from</h1>
 
+<div class="box">
+    <h3 class="SGh3">Mix Trip rustrip</h3>
+    <ul class="df">
+    <li>3 or 4 days</li>
+    <li>A cabin trip in week 33-34</li>
+    <li>English</li>
+    <li>A caketeam to follow through the first semester</li>
+    <li>read more at <a href="./internationale-ture.html"> <u> International trip </u> </a> </li>
+    </ul>
+</div>
+
+<div class="box">
+    <h3 class="SGh3">4-day rustrip</h3>
+    <ul class="df">
+    <li>4 days</li>
+    <li>A cabin trip in week 33-34</li>
+    <li>Danish</li>
+    <li>A caketeam to follow through the first semester</li>
+    </ul>
+</div>
+<!---
+<div class="box">
+    <h3 class="SGh3">3-day rustrip</h3>
+    <ul class="df">
+    <li>3 days</li>
+    <li>A cabin trip in week 34</li>
+    <li>Danish</li>
+    <li>A caketeam to follow through the first semester</li>
+    </ul>
+</div>
+-->
+<div class="box">
+    <h3 class="SGh3">Weekend rustrip</h3>
+    <ul class="df">
+    <li>3 days</li>
+    <li>A cabin trip in week 33</li>
+    <li>Danish</li>
+    <li>Might have a cake team</li>
+    </ul>
+</div>
+
+<div class="box">
+    <h3 class="SGh3">Campus rustrip</h3>
+    <ul class="df">
+    <li>4 days</li>
+    <li>At Lyngby Campus</li>
+    <li>Danish</li>
+    <li>A caketeam to follow through the first semester</li>
+    </ul>
+</div>
+
+
+<div class="box">
+    <h3 class="SGh3">One-day rustrip</h3>
+    <ul class="df">
+    <li>1 day, multiple trips</li>
+    <li>At both campuses</li>
+    <li>Danish</li>
+    <li>A caketeam to follow through the first semester</li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+
 <!---
 <div class="box">
     <h3 class="SGh3">4-day trip</h3>
