@@ -2,7 +2,7 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1 id="titel">Ansøgningen til Vektor '23 er lukket for nu. </h1>
+<h1 id="titel">Ansøgningen til Vektor '23 er nu åben!. </h1>
 
 <div id="poster-image" style="margin: auto; width: 530px; height: 800px; background-image: url('/static/img/ansognuSommerDa23.png');">
 </div>

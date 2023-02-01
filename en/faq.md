@@ -12,13 +12,13 @@ title: FAQ
 
 <h3><b>Which dates is it important to keep free, to become a vector?</b></h3>
 
-<p>See <a href="./tidsforbrug.html"><u>Time consumption</u></a>.</p>
+<p>See <a href="/en/tidsforbrug.html"><u>Time consumption</u></a>.</p>
 
 <h3><b>When and where do you apply?</b></h3>
-<p>See <a href="/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
+<p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
 
 <h3><b>What kinds of rustrips are offered?</b></h3>
-<p>See <a href="./alle-ture.html"><u>All trips</u></a>.</p>
+<p>See <a href="/en/alle-ture.html"><u>All trips</u></a>.</p>
 
 <!--
 <ul>
