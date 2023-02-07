@@ -80,6 +80,9 @@ If you have applied for a studyline, where there more applicants than available 
 <h3><b>What does it mean to be a weekend vector?</b></h3>
 <p>As a weekend vector, the time before the rustrip is no different than for that of the other vectors. There might be a difference after the rustrip, as it is not assured you will have a cake team. In the case of not having a cake-team the vector period will be shorter, but you will still have the same vector experiences.</p>
 
+<h3><b>What does it mean to be an online vector?</b></h3>
+<p>As a new concept, DTU now has online study lines. If you become a vector for an online study line, you will as a vector still host a physical rus trip on with your cross team. The online russes also get the offer to attend a physical rus trip. The cake meetings which you'll have with your study line russes each week during their first semester, will be done online.Everything except the welcome day and the cake meetings will be physical, like a 'normal' vector period.</p>
+
 <h3><b>Do you have to be able to speak danish to be a vector?</b></h3>
 <p>No, but you will be limited to the mixed-trips if you do not.</p>
 

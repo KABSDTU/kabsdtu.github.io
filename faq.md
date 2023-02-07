@@ -88,6 +88,12 @@ Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor a
 <h3><b>Hvad betyder det at være weekendvektor?</b></h3>
 <p>Forskellen på at være weekendVektor og ‘normal’ Vektor er, at det ikke er sikkert man har et kagehold efter rusturen. Forløbet op til og under rusturen er ens. Man har således et kortere Vektorforløb, men stadig den samme Vektoroplevelse.
 </p>
+
+<h3><b>Hvad betyder det at være online vektor?</b></h3>
+<p>Som noget nyt, har DTU online studieretninger. Hvis du bliver vektor for en studieretning, der er online, vil du stadig som vektor afholde en fysisk rustur med dit tværhold. De online russer får også tilbuddet om at komme på en fysisk rustur. De kagemøder du skal holde med retningsrusserne hver uge i deres første semester, afvikles online. 
+Alt undtagen velkomstdagen og kagemøderne er altså fysisk, ligesom et 'almindeligt' vektorforløb.
+</p>
+
 <br/>
 <p>
 Fik du ikke svar på dit spørgsmål? Så tøv ikke med at kontake os via <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r"><u>KABS Facebook</u></a> eller på mail kabs@pf.dk for at få svar. 
