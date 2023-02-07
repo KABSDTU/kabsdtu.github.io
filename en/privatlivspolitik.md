@@ -88,5 +88,4 @@ access your data. An example of this is if you apply as a cabin bum, where your 
 Should you wish to be deleted entirely from our database, please contact us via kabs@pf.dk. Subsequently all personal data we have on you, will be erased.
 </p>
 
-<p><i>Compiled by Niels Kjær Ersbøll (KABS for C. Artificial Intelligence and Data in 2020) November 12, 2020</i></p>
 <p><i>Translated by Anton Thestrup Jørgensen (KABS for C. Software Technology 2021) February 4, 2021</i></p>

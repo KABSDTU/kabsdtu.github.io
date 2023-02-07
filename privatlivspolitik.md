@@ -82,5 +82,3 @@ Umiddelbart er det kun Koordinator af Bachelor Studiestarten (KABS), PF’s best
 <p>
 Skulle du ønske at blive slettet helt fra vores database, skal du kontakte os via kabs@pf.dk. Herefter vil alle personoplysninger vi har samlet om dig i kontekst af studiestarten, blive slettet.
 </p>
-
-<p><i>Udarbejdet af Niels Kjær Ersbøll (KABS for C. Kunstig Intelligens og Data i 2020) 12. November 2020</i></p>
