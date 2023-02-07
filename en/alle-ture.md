@@ -8,8 +8,9 @@ title: All trips
 <div class="box">
     <h3 class="SGh3">Mix Trip rustrip</h3>
     <ul class="df">
-    <li>3 or 4 days</li>
-    <li>A cabin trip in week 33-34</li>
+    <li>4 days</li>
+    <li>A cabin trip in week 34</li>
+    <li>With alcohol or sober</li>
     <li>English</li>
     <li>A caketeam to follow through the first semester</li>
     <li>read more at <a href="./internationale-ture.html"> <u> International trip </u> </a> </li>
@@ -25,22 +26,24 @@ title: All trips
     <li>A caketeam to follow through the first semester</li>
     </ul>
 </div>
-<!---
+
 <div class="box">
     <h3 class="SGh3">3-day rustrip</h3>
     <ul class="df">
     <li>3 days</li>
+    <li>Sober</li>
     <li>A cabin trip in week 34</li>
     <li>Danish</li>
     <li>A caketeam to follow through the first semester</li>
     </ul>
 </div>
--->
+
 <div class="box">
     <h3 class="SGh3">Weekend rustrip</h3>
     <ul class="df">
     <li>3 days</li>
     <li>A cabin trip in week 33</li>
+    <li>Departure right after the Welcome day</li>
     <li>Danish</li>
     <li>Might have a cake team</li>
     </ul>
@@ -60,7 +63,7 @@ title: All trips
 <div class="box">
     <h3 class="SGh3">One-day rustrip</h3>
     <ul class="df">
-    <li>1 day, multiple trips</li>
+    <li>Three trips each lasting one day</li>
     <li>At both campuses</li>
     <li>Danish</li>
     <li>A caketeam to follow through the first semester</li>

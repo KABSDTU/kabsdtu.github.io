@@ -13,21 +13,23 @@ title: Alle ture
     <li>Et kagehold du følger gennem første semester</li>
     </ul>
 </div>
-<!--
+
 <div class="box">
     <h3 class="SGh3">3-dags rustur</h3>
     <ul class="df">
     <li>3 dage</li>
+    <li>Ædru</li>
     <li>Hytte i uge 34</li>
     <li>Et kagehold du følger gennem første semester</li>
     </ul>
 </div>
--->
+
 <div class="box">
     <h3 class="SGh3">Weekend rustur</h3>
     <ul class="df">
     <li>3 dage</li>
     <li>Hytte i uge 33</li>
+    <li>Afgang lige efter Velkomstdagen</li>
     <li>Kan have et kagehold</li>
     </ul>
 </div>
@@ -45,7 +47,7 @@ title: Alle ture
 <div class="box">
     <h3 class="SGh3">Endags rustur</h3>
     <ul class="df">
-    <li>1 dag, flere ture</li>
+    <li>3 ture der hver varer 1 dag</li>
     <li>Foregår på begge campusser</li>
     <li>Et kagehold du følger gennem første semester</li>
     </ul>
@@ -54,8 +56,9 @@ title: Alle ture
 <div class="box">
     <h3 class="SGh3">Mix Trip rustur</h3>
     <ul class="df">
-    <li>3 eller 4 dage</li>
-    <li>Hytte i uge 33-34</li>
+    <li>4 dage</li>
+    <li>Hytte i uge 34</li>
+    <li>Med alkohol eller ædru</li>
     <li>Engelsktalende</li>
     <li>Et kagehold du følger gennem første semester</li>
     <li>Læs mere under <a href="./internationale-ture.html"> <u> Internationale ture </u> </a> </li>
