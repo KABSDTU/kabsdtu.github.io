@@ -43,7 +43,7 @@ title: All trips
     <ul class="df">
     <li>3 days</li>
     <li>A cabin trip in week 33</li>
-    <li>Departure right after the Welcome day</li>
+    <li>Departure right after the Welcome Day</li>
     <li>Danish</li>
     <li>Might have a cake team</li>
     </ul>
