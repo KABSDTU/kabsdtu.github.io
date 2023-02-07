@@ -88,4 +88,4 @@ If you have applied for a studyline, where there more applicants than available 
 
 <br/>
 <p>Still missing an answer to the question you have? You are always welcome to write us at <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r">KABS Facebook</a> or to our mail at kabs@pf.dk and we will answer your questions. 
-Do you have a question that you think wil be a valuable addition to the website? Send it to us <a href="https://forms.gle/Ne7cmd8cXtqCVYWw7">here</a>, and we will attempt to get all relevant questions on the website.</p>
+Do you have a question that you think wil be a valuable addition to the website? Send it to us by mail, and we will attempt to get all relevant questions on the website.</p>

@@ -97,5 +97,5 @@ Alt undtagen velkomstdagen og kagemøderne er altså fysisk, ligesom et 'alminde
 <br/>
 <p>
 Fik du ikke svar på dit spørgsmål? Så tøv ikke med at kontake os via <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r"><u>KABS Facebook</u></a> eller på mail kabs@pf.dk for at få svar. 
-Har du et spørgsmål du tænker vil være godt at have besvaret her på hjemmesiden? Send det til os <a href="https://forms.gle/Ne7cmd8cXtqCVYWw7"><u>her</u></a>, og vi vil bestræbe os på at få alle relevante spørgsmål lagt op.
+Har du et spørgsmål du tænker vil være godt at have besvaret her på hjemmesiden? Send det til os på vores mail, og vi vil bestræbe os på at få alle relevante spørgsmål lagt op.
 </p>
