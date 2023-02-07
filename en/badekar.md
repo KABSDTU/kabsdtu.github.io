@@ -15,7 +15,7 @@ title: Bathtub/Beverages
 <p>Please name the file as <i>[trip name]</i>. <b>Please make sure to attach the file directly to the email itself, and not a shared link to a Google Drive. We do not have access to SharePoint sharing either.</b></p>
 <p>Write in the email if you need assistance to pick up the bathtub. Otherwise, it will be assumed that your KABS will help with pick-up and drop-off.</p>
 <p>If you have not received an invoice within 10 business days after the bathtub is returned, you will not be charged for the order.</p>
-<p><b>Make sure to order the bathtub the Thursday before it's needed at the latest, such that it is packed in due time.</b></p>
+<p><b>Make sure to order the bathtub <b>two weeks before it's needed</b> at the latest, such that it is packed in due time.</b></p>
 
 
 <a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">

@@ -18,7 +18,7 @@ Når du bestiller via det nye system, så download Google Sheetet du finder ved 
 <p>Angiv venligst i e-mailen, hvis du har brug for hjælp til afhentning af badekarret. Ellers antages det at din egen KABS kan hjælpe med afhentning og tilbagelevering.</p>
 <p>Bestil læske gennem forms'en ved at klikke på 'Bestil læske'.</p>
 <p>Hvis du ikke har modtaget en regning indenfor 10 arbejdsdage fra at badekaret blev returneret, så vil du ikke blive opkrævet for ordren.</p>
-<p><b>Sørg for at bestille badekaret senest torsdagen før at badekaret skal bruges, så det er pakket i tide.</b></p>
+<p><b>Sørg for at bestille badekaret <b>senest to uger</b> før at badekaret skal bruges, så det er pakket i tide.</b></p>
 
 
 <a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">
