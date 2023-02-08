@@ -48,6 +48,7 @@ title: Alle ture
     <h3 class="SGh3">Endags rustur</h3>
     <ul class="df">
     <li>3 ture der hver varer 1 dag</li>
+    <li>Engelsktalende</li>
     <li>Foregår på begge campusser</li>
     <li>Et kagehold du følger gennem første semester</li>
     </ul>

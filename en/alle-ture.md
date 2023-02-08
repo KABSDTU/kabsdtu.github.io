@@ -18,6 +18,16 @@ title: All trips
 </div>
 
 <div class="box">
+    <h3 class="SGh3">One-day rustrip</h3>
+    <ul class="df">
+    <li>Three trips each lasting one day</li>
+    <li>At both campuses</li>
+    <li>English</li>
+    <li>A caketeam to follow through the first semester</li>
+    </ul>
+</div>
+
+<div class="box">
     <h3 class="SGh3">4-day rustrip</h3>
     <ul class="df">
     <li>4 days</li>
@@ -60,15 +70,7 @@ title: All trips
 </div>
 
 
-<div class="box">
-    <h3 class="SGh3">One-day rustrip</h3>
-    <ul class="df">
-    <li>Three trips each lasting one day</li>
-    <li>At both campuses</li>
-    <li>Danish</li>
-    <li>A caketeam to follow through the first semester</li>
-    </ul>
-</div>
+
 
 
 
