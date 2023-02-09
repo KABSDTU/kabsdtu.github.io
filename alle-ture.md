@@ -30,7 +30,7 @@ title: Alle ture
     <li>3 dage</li>
     <li>Hytte i uge 33</li>
     <li>Afgang lige efter Velkomstdagen</li>
-    <li>Kan have et kagehold</li>
+    <li>Et kagehold du følger gennem første semester</li>
     </ul>
 </div>
 

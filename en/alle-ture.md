@@ -55,7 +55,7 @@ title: All trips
     <li>A cabin trip in week 33</li>
     <li>Departure right after the Welcome Day</li>
     <li>Danish</li>
-    <li>Might have a cake team</li>
+    <li>A caketeam to follow through the first semester</li>
     </ul>
 </div>
 
