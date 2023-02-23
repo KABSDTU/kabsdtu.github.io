@@ -25,7 +25,7 @@ Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansv
 <li>Første vektormøde (16. februar efter kl. 17:00)	</li>
 <li>Første uddannelsesdag (19. marts)				</li>
 <li>OpTur (31. marts - 4. april)					</li>
-<li>Førstehjælpskursus (TBD)						</li>
+<li>Førstehjælpskursus (3., 4., 10., eller 11. juni)</li>
 <li>Anden uddannelsesdag (16. april)				</li>
 <li>Velkomstdag (18. august)						</li>
 <li>Rustur (18.-25. august)							</li>

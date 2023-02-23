@@ -24,7 +24,7 @@ If you are interested in being a vector, there will be an employment interview w
 <li>The first vector-meeting (16th of February after 05:00 pm)	</li>
 <li>The first education day (19th of March)				        </li>
 <li>OpTur (31st of March - 4th of April)					    </li>
-<li>First aid course (TBD)						                </li>
+<li>First aid course (3rd, 4th, 10th or 11th of June)           </li>
 <li>The second education day (16th of April)				    </li>
 <li>Welcome Day (18th of August)						        </li>
 <li>Rustrip (18th-25th of August)							    </li>
