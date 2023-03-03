@@ -2,12 +2,19 @@
 layout: en
 title: Apply as cabin bum
 ---
-<h1>Something is happening soon...</h1>
+<h1>KABS23 Detective Agency is looking for cabin bums!</h1>
 
-<p>KABS23 are following a lead to the cabin bum application...</p>
-<p>Come back soon!</p>
+<p> Can you chop your way through the leads? <br>
+Boil the case down to its core? <br>
+Create the connection between the ingredients of the mystery? <br>
+Can you help us solve the recipe for how to find the a**hole who murdered the boss man's wife?
+</p>
+<p>Then the time has come for you to take your place in the kitchen!</p>
+
 <br />
-
-<!--<a style="text-align: center;" href="https://docs.google.com/forms/d/e/1FAIpQLScsD8RZfyD52ScrntI0tkR9qn0lhNHTfBGInxqcEZV0q1Ya5Q/viewform?usp=sf_link">
-    <button class="applyBtn">Apply now!</button>
-</a>-->
+<a style="text-align: center; padding: 2px" href="https://forms.gle/N2HoPiwPQpF3QjXBA">
+	<button class="applyBtn"> 
+		APPLY NOW! 
+	</button>
+</a>
+<br />
