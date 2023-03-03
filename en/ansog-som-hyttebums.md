@@ -6,8 +6,8 @@ title: Apply as cabin bum
 
 <p> Can you chop your way through the leads? <br>
 Boil the case down to its core? <br>
-Create the connection between the ingredients of the mystery? <br>
-Can you help us solve the recipe for how to find the a**hole who murdered the boss man's wife?
+Can you find the connection between the ingredients of the mystery? <br>
+Can you help us solve the recipe for how to find the a**hole who murdered the bossman's wife?
 </p>
 <p>Then the time has come for you to take your place in the kitchen!</p>
 
