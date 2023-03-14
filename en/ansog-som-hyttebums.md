@@ -12,9 +12,11 @@ Can you help us solve the recipe for how to find the a**hole who murdered the bo
 <p>Then the time has come for you to take your place in the kitchen!</p>
 
 <br />
-<a style="text-align: center; padding: 2px" href="https://forms.gle/N2HoPiwPQpF3QjXBA">
+<a style="text-align: center; " href="https://forms.gle/N2HoPiwPQpF3QjXBA">
 	<button class="applyBtn"> 
 		APPLY NOW! 
 	</button>
 </a>
 <br />
+
+<p>If the 'APPLY NOW!'-button has a bad IT-day, you can also click <a href="https://forms.gle/N2HoPiwPQpF3QjXBA"><u>here</u></a></p>

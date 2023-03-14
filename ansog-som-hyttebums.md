@@ -14,11 +14,12 @@ Kan du hjælpe os med at løse opskriften på at finde stodderen, der slog chefe
 <p>Så er det nu, du skal melde dig på banen, for at indtage din plads i køkkenet!</p>
 
 <br />
-<a style="text-align: center; padding: 2px" href="https://forms.gle/N2HoPiwPQpF3QjXBA">
+<a style="text-align: center; " href="https://forms.gle/N2HoPiwPQpF3QjXBA">
 	<button class="applyBtn"> 
 		ANSØG NU! 
 	</button>
 </a>
 <br />
 
-
+<p>Har 'ANSØG NU!' knappen taget IT-inspiration fra DTU inside? <br> 
+Så prøv at klikke <a href="https://forms.gle/N2HoPiwPQpF3QjXBA"><u>her</u></a></p>
