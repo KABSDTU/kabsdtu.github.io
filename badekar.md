@@ -21,7 +21,7 @@ Når du bestiller via det nye system, så download Google Sheetet du finder ved 
 <p>Har du problemer med badekarret, så kontakt Ea på tlf. 21783066, eller Gustav på tlf. 52119477.</p>
 <p><b>Sørg for at bestille badekaret senest to uger før at badekaret skal bruges, så det er pakket i tide.</b></p>
 
-<a style="text-align: center" href="https://docs.google.com/spreadsheets/d/15go_OzmdlMLZoYqrAi3HiszWwLWLnvvWB_jzE2zLqSA/edit?usp=sharing">
+<a style="text-align: center" href="https://docs.google.com/spreadsheets/d/1SgOvnlSenMQmEAE8B5bNf45-Zlgmrxu1yPELj5_KuG0/edit#gid=0">
 	<button class="applyBtn">
 	  Bestil badekar
 	</button>
