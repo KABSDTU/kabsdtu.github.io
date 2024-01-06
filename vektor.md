@@ -9,7 +9,7 @@ title: Vektor
 </div>
 
 <p>
-	Som vektor kommer du til at være en del af to hold: et retningshold og et tværhold. Retningsholdet består af vektorer, der er vektor for samme retning som dig, mens tværholdet består af vektorer fra forskellige retningshold. Disse hold er dem, du skal samarbejde med igennem din vektorperiode. På tværholdet står i for at planlægge og afholde en rustur. På retningsholdet står I for at planlægge velkomstdagen for de nye studerende på retningen, samt andre sociale og retningsrelaterede arrangementer, som for eksempel studiecaféer, biografture mm. - dette beslutter i jer for sammen som vektorhold.
+	Som vektor kommer du til at være en del af to hold: et retningshold og et tværhold. Retningsholdet består af vektorer, der er vektor for samme retning som dig, mens tværholdet består af vektorer fra forskellige retningshold. Disse hold er dem, du skal samarbejde med igennem din vektorperiode. På tværholdet står i for at planlægge og afholde en <b>rustur</b>. På retningsholdet står I for at planlægge velkomstdagen for de nye studerende på retningen, samt andre sociale og retningsrelaterede arrangementer, som for eksempel studiecaféer, biografture mm. - dette beslutter i jer for sammen som vektorhold.
 	Er man vektor for General Engineering kan ens retningshold og tværhold være det samme - vil du gerne vide mere om at være vektor for General Engineering,
 	se <a href="/internationale-ture.html">Internationale ture</a>
 </p>

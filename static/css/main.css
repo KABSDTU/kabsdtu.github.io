@@ -1,19 +1,19 @@
 :root {
-  --article-color: rgba(7, 112, 53, 0.92);
-  --nav-color: rgba(7, 112, 53, 0.92);
+  --article-color: rgba(255, 254, 247, 0.92);
+  --nav-color: rgba(205, 203, 193, 0.92);
   --cdwn-color: rgba(0, 0, 0, 0.5);
 }
 
 body {
-  background-color:rgb(114, 64, 36);
+  background-color:rgb(207, 174, 103);
 }
 
 #container {
   margin: auto;
   top: 0;
   font-family: "Droid", sans-serif;
-  color: #ffffff;
-  background-image: url("/static/img/baggrundSommer23.png");
+  color: #000000;
+  background-image: url("/static/img/FakeBackground_KABS24.png");
   background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
@@ -104,14 +104,14 @@ nav ul li ul li a {
 
 nav ul li a:hover {
   background-color: rgb(246, 225, 186);
-  color: rgb(114, 64, 36);
+  color: rgb(118, 114, 112);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
 
 h1.title {
   color: rgba(0, 0, 0, 0);
-  height: 140px;
-  background-image: url("/static/img/kabsLogo.png");
+  height: 180px;
+  background-image: url("/static/img/FakeLogo_KABS24.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 15%;
@@ -412,7 +412,7 @@ li{
   /*height: 100vh;*/
   padding: 1% 2%;
   margin: 0px 25px 25px 0px;
-  background: rgba(76, 43, 24, 0.761);
+  background: rgba(166, 161, 159, 0.761);
   min-height: 200px;
   /*max-height: 370px;*/
   box-sizing: border-box;

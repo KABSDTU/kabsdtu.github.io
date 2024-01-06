@@ -13,7 +13,7 @@ Det kræver lidt tid at være vektor, og nogle perioder vil være mere tidskræv
 </p>
 
 <p>
-Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansvarlig for den søgte retning.  Man skal som minimum regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OpTur i påsken. I august ligger rusturen, og inden da en forberedelsestur, man selv planlægger på tværholdet.
+Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansvarlig for den søgte retning.  Man skal som minimum regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OpTur i påsken. I august ligger <b>rusturen</b>, og inden da en forberedelsestur, man selv planlægger på tværholdet.
 </p>
 
 <p>
@@ -28,7 +28,7 @@ Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansv
 <li>Førstehjælpskursus (3., 4., 10., eller 11. juni)</li>
 <li>Anden uddannelsesdag (16. april)				</li>
 <li>Velkomstdag (18. august)						</li>
-<li>Rustur (18.-25. august)							</li>
+<li><b>Rustur</b> (18.-25. august)							</li>
 
 <p>
 Den tid og arbejdet der lægges i vektorhvervet kan ikke måles med de bekendtskaber, de personlige erfaringer og den viden, man får i løbet af sin vektorperiode. Og derudover er det bare mega sjovt.

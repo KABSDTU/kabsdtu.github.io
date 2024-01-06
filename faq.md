@@ -21,7 +21,7 @@ title: FAQ
 
 <p>Se <a href="/ansog-som-vektor.html"><u>Ansøg nu!</u></a>.</p>
 
-<h3><b>Hvilke slags rusture bliver tilbudt?</b></h3>
+<h3><b>Hvilke slags <b>rusture</b> bliver tilbudt?</b></h3>
 
 <p>Se <a href="./alle-ture.html"><u>Alle ture</u></a>.</p>
 
@@ -70,7 +70,7 @@ Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor a
 </p>
 
 <h3><b>Hvad får man ud af at være vektor?</b></h3>
-<p>Udover de mange erfaringer man får i forbindelse med at deltage i planlægningen af en studiestart med rustur, velkomstdag, kagemøder mm., får man også et kæmpe socialt netværk. Som vektor lærer man folk fra hele DTU at kende, og får bekendtskaber for livet.
+<p>Udover de mange erfaringer man får i forbindelse med at deltage i planlægningen af en studiestart med <b>rustur</b>, velkomstdag, kagemøder mm., får man også et kæmpe socialt netværk. Som vektor lærer man folk fra hele DTU at kende, og får bekendtskaber for livet.
 </p>
 
 <h3><b>Kan man tage på ferie i sommerferien?</b></h3>
@@ -86,11 +86,11 @@ Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor a
 </p>
 
 <h3><b>Hvad betyder det at være weekendvektor?</b></h3>
-<p>Forskellen på at være weekendVektor og ‘normal’ Vektor er, at det ikke er sikkert man har et kagehold efter rusturen. Forløbet op til og under rusturen er ens. Man har således et kortere Vektorforløb, men stadig den samme Vektoroplevelse.
+<p>Forskellen på at være weekendVektor og ‘normal’ Vektor er, at det ikke er sikkert man har et kagehold efter <b>rusturen</b>. Forløbet op til og under <b>rusturen</b> er ens. Man har således et kortere Vektorforløb, men stadig den samme Vektoroplevelse.
 </p>
 
 <h3><b>Hvad betyder det at være online vektor?</b></h3>
-<p>Som noget nyt, har DTU online studieretninger. Hvis du bliver vektor for en studieretning, der er online, vil du stadig som vektor afholde en fysisk rustur med dit tværhold. De online russer får også tilbuddet om at komme på en fysisk rustur. De kagemøder du skal holde med retningsrusserne hver uge i deres første semester, afvikles online. 
+<p>Som noget nyt, har DTU online studieretninger. Hvis du bliver vektor for en studieretning, der er online, vil du stadig som vektor afholde en fysisk <b>rustur</b> med dit tværhold. De online russer får også tilbuddet om at komme på en fysisk <b>rustur</b>. De kagemøder du skal holde med retningsrusserne hver uge i deres første semester, afvikles online. 
 Alt undtagen velkomstdagen og kagemøderne er altså fysisk, ligesom et 'almindeligt' vektorforløb.
 </p>
 

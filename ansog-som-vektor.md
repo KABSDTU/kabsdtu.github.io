@@ -20,12 +20,12 @@ Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
     var div = document.getElementById("n")
     var n = document.getElementById("nn")
     var titel = document.getElementById("titel")
-    titel.innerHTML = "Ansøgningen til Vektor '23 er åben!"
+    titel.innerHTML = "Ansøgningen til Vektor '24 er åben!"
     n.remove()
     div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LpwLmtV32kJUd5sL9"><button class="applyBtn">Ansøg nu!</button></a><br />'
   }
 
-  var deadline = new Date("February 11, 2023 00:00:01");
+  var deadline = new Date("February 11, 2024 00:00:01");
   if (deadline > new Date) {
     showVectorApplication()
   }

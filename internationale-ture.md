@@ -6,7 +6,7 @@ title: Internationale ture
 <h1>Internationale ture - Engelsktalende tur</h1>
 <h2><b><i>Gælder kun sommerstarten!</i></b></h2>
 <p>
-I PF og KABS gør vi alt vi kan for at inkludere alle, selvom man ikke nødvendigvis er dansktalende, eller starter på den internationale studieretning <em> General Engineering </em> (Forkortet GE). Derfor er der i studiestarten mulighed for at komme på en international studietur - det såkaldte <em>Mixed Trip</em>. På denne type tur vil arrangørerne (KABS, vektorer og bumser) kun tale engelsk, og russerne bliver stærkt opfordret til at gøre det samme, da dette hjælper meget på fællesskabet på turen. Udover det talte sprog fungerer denne type tur stort set som de andre tværfaglige rusture, der oftest afholdes.
+I PF og KABS gør vi alt vi kan for at inkludere alle, selvom man ikke nødvendigvis er dansktalende, eller starter på den internationale studieretning <em> General Engineering </em> (Forkortet GE). Derfor er der i studiestarten mulighed for at komme på en international studietur - det såkaldte <em>Mixed Trip</em>. På denne type tur vil arrangørerne (KABS, vektorer og bumser) kun tale engelsk, og russerne bliver stærkt opfordret til at gøre det samme, da dette hjælper meget på fællesskabet på turen. Udover det talte sprog fungerer denne type tur stort set som de andre tværfaglige <b>rusture</b>, der oftest afholdes.
 </p>
 
 <h2>Mixed trip</h2>
