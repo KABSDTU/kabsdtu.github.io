@@ -9,7 +9,7 @@ title: vector
 </div>
 
 <p>
-As a vector, you will be part of two teams: a studyline team and a cross team. The studyline team consists of vectors that are a vector for the same studyline as you, while the cross team consists of vectors from different studyline teams. These teams are the ones you will be working with throughout your vector period. On the cross team, you are responsible for planning and holding a rustrip. On the studyline team, you are responsible for planning the Welcome Day for the new students on the same studyline, as well as other social and study line-related events, such as study cafés, cinema trips etc. - you decide this together as a vector team.
+As a vector, you will be part of two teams: a studyline team and a cross team. The studyline team consists of vectors that are a vector for the same studyline as you, while the cross team consists of vectors from different studyline teams. These teams are the ones you will be working with throughout your vector period. On the cross team, you are responsible for planning the introdays. On the studyline team, you are responsible for planning the Welcome Day for the new students on the same studyline, as well as other social and study line-related events, such as study cafés, cinema trips etc. - you decide this together as a vector team.
 </p>
 
 <p>

@@ -13,22 +13,23 @@ Det kræver lidt tid at være vektor, og nogle perioder vil være mere tidskræv
 </p>
 
 <p>
-Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansvarlig for den søgte retning.  Man skal som minimum regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OpTur i påsken. I august ligger <b>rusturen</b>, og inden da en forberedelsestur, man selv planlægger på tværholdet.
+Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansvarlig for den søgte retning.  
+Man skal som minimum regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OpTur, som vil ligge i påsken. I slutningen af august ligger introdagene. Inden introdagene ligger en forberedelsestur, man selv planlægger på tværholdet.
 </p>
 
 <p>
 <b>VIGTIGE DATOER:</b>
 </p>
 
-<li>Ansøgningsfrist (10. februar kl. 23:59)	        </li>
-<li>Vektor-interviews (13.-15. februar)             </li>
-<li>Første vektormøde (16. februar efter kl. 17:00)	</li>
-<li>Første uddannelsesdag (19. marts)				</li>
-<li>OpTur (31. marts - 4. april)					</li>
-<li>Førstehjælpskursus (3., 4., 10., eller 11. juni)</li>
-<li>Anden uddannelsesdag (16. april)				</li>
-<li>Velkomstdag (18. august)						</li>
-<li><b>Rustur</b> (18.-25. august)							</li>
+<li>Ansøgningsfrist (9. februar kl. 23:59)	        </li>
+<li>Vektor-interviews (12.-14. februar)             </li>
+<li>Første vektormøde (15. februar efter kl. 17:00)	</li>
+<li>Første uddannelsesdag (10. marts)				</li>
+<li>OpTur (22. til 26. Marts)			</li>
+<li>Førstehjælpskursus (Kommer til at ligge 1 dag i juni. Der vil være flere dage at vælge imellem) </li>
+<li>Anden uddannelsesdag (14. april)				</li>
+<li>Velkomstdag (28. august)						</li>
+<li>Introdage (29. til 31. august)					</li>
 
 <p>
 Den tid og arbejdet der lægges i vektorhvervet kan ikke måles med de bekendtskaber, de personlige erfaringer og den viden, man får i løbet af sin vektorperiode. Og derudover er det bare mega sjovt.
