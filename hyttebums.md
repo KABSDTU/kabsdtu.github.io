@@ -2,18 +2,26 @@
 layout: default
 title: Hyttebums
 ---
-<h1>Hyttebums</h1>
 
 <div id="poster-image" style="height: 500px; background-image: url('/static/img/Fake_NomCat_KABS24.gif');">
 </div>
 
+<h1>Hyttebums</h1>
+
 <p>
-    Er du vild med mad, eller bare vild? Som hyttebums på en <b>sommerrustur</b> står du sammen med dine medbumser for at planlægge menuen, indkøbe råvarerne, lave maden og opretholde det nødvendige niveau af hygiejne i køkkenet under <b>rusturen</b>. Samtidig er du med til at skabe den unikke <b>rustursstemning</b> sammen med det Vektorhold, som afholder <b>rusturen</b>.
+    Er du vild med mad, eller bare vild? Som hyttebums står du sammen med dine medbumser for at planlægge menuen, indkøbe råvarerne, lave maden og opretholde det nødvendige niveau af hygiejne i køkkenet under hytteturen. Samtidig er du med til at skabe den unikke stemnings sammen med det Vektorhold, som afholder hytteturen.
 </p>
 
 <p>
-    <b>Rusturene</b> ligger i midt-slut august. Du kan søge alene, eller sammen med dine venner som et hold. Der skal som udgangspunkt bruges 3-4 hyttebumser på hver tur. På de største ture skal der bruges 5.
+    Hytteturene ligger i en weekend mellem uge 38-44. Du kan søge alene, eller sammen med dine venner som et hold. Der skal som udgangspunkt bruges 3-4 hyttebumser på hver tur. På de største ture skal der bruges flere. 
+    Hyttetursbumser er noget man først ansøger til efter vektorene er blevet valgt.
 </p>
+
+<h1>Bums ny studiestart?</h1>
+<p>
+    På nuværende tidspunkt ved vi som KABS hvordan studiestarten overordnet kommer til at forløbe, men detaljer har vi ikke mulighed for at komme ind på endnu. Vi ved altså heller ikke om der kommer til at være bumser i introdagene i år, og i givet fald, hvor meget rollen kommer til at fylde.
+    Vi vil i så videst muligt fang gerne have bumser med indenover introdagene, og så snart vi har mere information omkring dette, vil vi skrive ud,  både her og på KABS DTU facebook-siden.
+<p>
 
 <!--
 <p>

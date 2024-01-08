@@ -6,13 +6,11 @@ title: KABS
 <h1>KABS</h1>
 
 <p> KABS står for Koordinator af Bachelor Studiestarten. Der er 27 KABS. 
-Hver har en retning med undtagelse af <b>RustursKABS</b>. <b> Der er i alt 30 rusture, hvoraf 2 er weekendture, én er en campustur, og tre er endagsture.</b>  </p>
+Hver har en eller flere studieretninger de er koordinater for. <b>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p>
 
-<h2>KABS23:</h2>
-
+<h2>Alle KABS24:</h2>
 <ul>
-
 <li> Adam Jabiri - C. General engineering </li>
 <li> Alexander Gabriel Kongstad	- C. Design og innovation </li>
 <li> Ane Veber - C. Miljøteknologi </li>
