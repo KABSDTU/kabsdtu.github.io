@@ -3,10 +3,9 @@ layout: default
 title: Badekar/Læske
 ---
 
-<h1>Badekar og Læske</h1>
-<p>Bestil badekar og læske her!</p>
+<h1>Badekar </h1>
 
-<div id="poster-image-long" style="height: 330px; background-image: url('/static/img/badekarSommer23.JPG');">
+<div id="Badekar_falsk_tema.png" style="height: 330px; background-image: url('/static/img/badekarSo6mmer23.JPG');">
 </div>
 
 <br>
