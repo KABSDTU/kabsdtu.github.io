@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color:rgb(207, 174, 103);
+  background-color:rgb(255, 231, 145);
 }
 
 #container {
@@ -412,7 +412,7 @@ li{
   /*height: 100vh;*/
   padding: 1% 2%;
   margin: 0px 25px 25px 0px;
-  background: rgba(166, 161, 159, 0.761);
+  background: rgba(255, 231, 145, 0.761);
   min-height: 200px;
   /*max-height: 370px;*/
   box-sizing: border-box;

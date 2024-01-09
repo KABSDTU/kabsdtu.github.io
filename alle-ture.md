@@ -17,16 +17,16 @@ title: Alle ture
     <h3 class="SGh3">2-dags introdage</h3>
     <ul class="df">
     <li> Disse dage kommer til at kunne være på både Lyngby og Ballerup campus. Man skal starte og aflsutte dagen på campus. </li>
-    </ul>
     <li> Det vil også være muligt at vælge denne engelsktalene </li>
+    </ul>
 </div>
 
 <div class="box">
     <h3 class="SGh3">3-dag</h3>
     <ul class="df">
     <li>Disse dage kommer til at kunne være på både Lyngby og Ballerup campus. Man skal starte og aflsutte dagen på campus.</li>
-    </ul>
     <li> Det vil også være muligt at vælge denne engelsktalene </li>
+    </ul>
 </div>
 
 
