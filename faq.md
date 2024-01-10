@@ -21,7 +21,7 @@ title: FAQ
 
 <p>Se <a href="/ansog-som-vektor.html"><u>Ansøg nu!</u></a>.</p>
 
-<h3><b>Hvilke slags <b>rusture</b> bliver tilbudt?</b></h3>
+<h3><b>Hvilke slags introdage bliver tilbudt?</b></h3>
 
 <p>Se <a href="./alle-ture.html"><u>Alle ture</u></a>.</p>
 

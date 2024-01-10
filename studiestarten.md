@@ -10,7 +10,7 @@ title: Studiestarten
 <p>
     I studiestarten ansættes lige under 300 vektorer fordelt på <b>???</b> tværhold til sommerstudiestarten, som sammen tager imod de nye russer, der starter til august til sommer.
     Til vinterstarten hyres omkring {{layout.numOfWVectors}} vektorer fordelt på {{layout.numOfWCKABS}} tværhold, der tager imod de nye studerende som starter til januar til vinter <b>2025</b>. <br>
-    Dette koordineres af de i alt {{layout.numOfKABS}} KABS, der står for uddannelsesdage, OPtur, og meget andet i forbindelse med studiestarten. <br>
+    Dette koordineres af de i alt <b> {{layout.numOfKABS}} </b> KABS, der står for uddannelsesdage, OPtur, og meget andet i forbindelse med studiestarten. <br>
     KABS, vektorer og hyttebumser skaber i fællesskab den bedst mulige rustur og studiestart for de kommende russer.
 
 </p>
