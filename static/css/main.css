@@ -92,7 +92,8 @@ nav ul li a {
   font-size: 1.3em;
   padding-top: 0.3em;
   padding-bottom: 0.3em;
-  color: #ffffff;
+  font-weight: 600;
+  color: #000000;
   text-decoration: none;
   transition: background-color 0.25s;
 }

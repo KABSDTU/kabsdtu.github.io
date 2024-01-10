@@ -9,14 +9,14 @@ title: KABS
 Hver har en eller flere studieretninger de er koordinator for. <b>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p>
 
-<h2>Alle KABS24:</h2>
+<h2><b> Alle KABS24: </b></h2>
 <ul>
 <li> Adam Jabiri - C. General Engineering </li>
 <li> Alexander Gabriel Kongstad	- C. Design og Innovation </li>
 <li> Ane Veber - C. Miljøteknologi </li>
-<li> Annekatrine Kirketerp-Møller - C. N/A </li>
+<li> Annekatrine Kirketerp-Møller - C. Bioteknologi </li>
 <li> Daniel Mullenger Matthiesen - D. Byggeri og Infrastruktur </li>
-<li> Hans Christian Maturell Henriksen - C. N/A </li>
+<li> Hans Christian Maturell Henriksen - C. Teknisk Biomedicin </li>
 <li> Helena Tejs Knudsen - C. Softwareteknologi	</li>
 <li> Johannes Skaaning Andersen	- C. Kemi og Teknologi </li>
 <li> Kamilla Gottlob Baumgarten	- C. Data Science og Management	</li>
