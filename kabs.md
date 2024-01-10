@@ -9,16 +9,16 @@ title: KABS
 Hver har en retning med undtagelse af <b>RustursKABS</b>. <b> Der er i alt 30 rusture, hvoraf 2 er weekendture, én er en campustur, og tre er endagsture.</b>  </p>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p>
 
-<h2>KABS23:</h2>
+<h2>KABS24:</h2>    
 
 <ul>
 
 <li> Adam Jabiri - C. General engineering </li>
 <li> Alexander Gabriel Kongstad	- C. Design og innovation </li>
 <li> Ane Veber - C. Miljøteknologi </li>
-<li> Annekatrine Kirketerp-Møller - C. N/A </li>
+<li> Annekatrine Kirketerp-Møller - C. Bioteknologi </li>
 <li> Daniel Mullenger Matthiesen - D. Byggeri og infrastruktur </li>
-<li> Hans Christian Maturell Henriksen - C. N/A </li>
+<li> Hans Christian Maturell Henriksen - C. Teknisk Biomedicin </li>
 <li> Helena Tejs Knudsen - C. Softwareteknologi	</li>
 <li> Johannes Skaaning Andersen	- C. Kemi og Teknologi </li>
 <li> Kamilla Gottlob Baumgarten	- C. Data Science og Management	</li>
