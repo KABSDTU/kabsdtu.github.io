@@ -5,7 +5,7 @@ title: Bathtub/Beverages
 
 <h1>Bathtub and Beverages</h1>
 
-<div id="poster-image-long" style="height: 330px; background-image: url('/static/img/badekarSommer23.JPG');">
+<div id="poster-image" style=" background-image: url('/static/img/Badekar_falsk_tema.png');">
 </div>
 
 <br>
@@ -26,9 +26,3 @@ title: Bathtub/Beverages
 <br>
 </div>
 
-
-<a style="text-align: center; padding: 2px" href="https://forms.gle/FEG9769vdqG83rJj8">
-	<button class="applyBtn"> 
-		Order beverages
-	</button>
-</a>

@@ -12,22 +12,22 @@ title: Time consumption
 <p>If you apply as a vector, there will be an interview with the KABS that is responsible for the study programme you applied for.</p> 
 
 <p>
-If you are interested in being a vector, there will be an employment interview with the KABS responsible for the studyline you’ve applied to. You have to count on having one meeting a week, and some effort in costume sewing for OPtur on Easter break. In August is the rustrip, and before then a preparation trip, which you plan yourself with the rest of your vector teams.
+If you are interested in being a vector, there will be an employment interview with the KABS responsible for the studyline you’ve applied to. You have to count on having one meeting a week, and some effort in costume sewing for OPtur on Easter break. The infodays will be in the end of August, and before then there's preparation trips, which you plan yourself with the rest of your vector teams.
 </p>
 
 <p>
 <b>IMPORTANT DATES:</b>
 </p>
 
-<li>Application deadline (10th of February 12:59 pm)            </li>
-<li>Vector-interviews (13th-15th of February)                   </li>
-<li>The first vector-meeting (16th of February after 05:00 pm)	</li>
-<li>The first education day (19th of March)				        </li>
-<li>OpTur (31st of March - 4th of April)					    </li>
-<li>First aid course (3rd, 4th, 10th or 11th of June)           </li>
-<li>The second education day (16th of April)				    </li>
-<li>Welcome Day (18th of August)						        </li>
-<li>Rustrip (18th-25th of August)							    </li>
+<li>Application deadline (9th of February 12:59 pm)            </li>
+<li>Vector-interviews (12th - 14th of February)                   </li>
+<li>The first vector-meeting (15th of February after 05:00 pm)	</li>
+<li>The first education day (10th of March)				        </li>
+<li>OpTur (22nd - 26th of March)					    </li>
+<li>First aid course (will be one day in june. There will be multiple days to choose from)           </li>
+<li>The second education day (14th of April)				    </li>
+<li>Welcome Day (28th of August)						        </li>
+<li>Rustrip (29th - 31th of August)							    </li>
 
 
 
