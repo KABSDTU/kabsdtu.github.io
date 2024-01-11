@@ -6,6 +6,32 @@ title: All trips
 <h1>All trips you can choose from</h1>
 
 <div class="box">
+    <h3 class="SGh3">1-day introday</h3>
+    <ul class="df">
+    <li> This day will take place on the campus your cake team is from. As much as possible, it will be with as many people from the studyline of the cake team as possible. </li>
+    <li> It will also be possible to choose this as an english-speaking trip. </li>
+    </ul>
+</div>
+
+<div class="box">
+    <h3 class="SGh3">2-days introday</h3>
+    <ul class="df">
+    <li> These days will be available on both the Lyngby and Ballerup campuses. You will start and end the day on campus.</li>
+    <li> It will also be possible to choose this as an english-speaking trip. </li>
+    </ul>
+</div>
+
+<div class="box">
+    <h3 class="SGh3">3-days introday</h3>
+    <ul class="df">
+    <li>These days will be available on both the Lyngby and Ballerup campuses. You will start and end the day on campus.</li>
+    <li> It will also be possible to choose this as an english-speaking trip. </li>
+    </ul>
+</div>
+
+
+
+<!-- <div class="box"> DEN GAMLE!!!!!!
     <h3 class="SGh3">Mix Trip rustrip</h3>
     <ul class="df">
     <li>4 days</li>
@@ -67,7 +93,7 @@ title: All trips
     <li>Danish</li>
     <li>A caketeam to follow through the first semester</li>
     </ul>
-</div>
+</div> -->
 
 
 
