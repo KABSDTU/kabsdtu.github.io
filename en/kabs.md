@@ -19,7 +19,7 @@ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the bachel
 <li> Ane Veber - B.Sc. Enviromental Engineering </li>
 <li> Annekatrine Kirketerp-Møller - B.Sc. Biotechnology </li>
 <li> Daniel Mullenger Matthiesen - B.Eng. Byggeri og Infrastruktur </li>
-<li> Hans Christian Maturell Henriksen - B.Sc. Teknisk Biomedicin </li>
+<li> Hans Christian Maturell Henriksen - B.Sc. Technical Biomedicine </li>
 <li> Helena Tejs Knudsen - B.Sc. Software Technology	</li>
 <li> Johannes Skaaning Andersen	- B.Sc. Chemistry and Technology </li>
 <li> Kamilla Gottlob Baumgarten	- B.Sc. Data Science and Management	</li>
@@ -33,13 +33,13 @@ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the bachel
 <li> Mia Thao Enné - B.Sc. General Engineering	</li>
 <li> Mikkel Svendsen - B.Eng. Electrical Engineering & B.Eng. Electrical Energy Technology  </li>
 <li> Morten Werling Andreassen - B.Eng. Chemical and Bio Engineering & B.Eng. Chemical Engineering and International Business  </li>
-<li> Noel Pihl - B.Sc. Computer Engineering & BSc. Cyber Technology </li>
+<li> Noel Pihl - B.Sc. Computer Engineering & B.Sc. Cyber Technology </li>
 <li> Oliver Sorgenfrey - B.Sc. Mathematics and Technology </li>
 <li> Olivia Ngoc Ulrich Nielsen (Liv) - B.Sc. Biomedical Engineering	</li>
 <li> Sarah Larsen - B.Sc. Civil Engineering </li>
 <li> Tobias Christian Lintrup - B.Sc. Design of Sustainable Energy Systems </li>
 <li> Tobias Funk Vangsgaard	- B.Eng. Fødevaresikkerhed- og Kvalitet	</li>
-<li> Viktor Marius Nysøe Rehling - BSc. Artificial Intelligence and Data </li>
+<li> Viktor Marius Nysøe Rehling - B.Sc. Artificial Intelligence and Data </li>
 <li> William Kirk Andersen - B.Sc. Architectural Engineering </li>
 
 
