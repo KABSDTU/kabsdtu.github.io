@@ -14,38 +14,33 @@ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the bachel
 
 <ul>
 
-<li> Anders Strøbæk - B.Sc. Electrical Engineering & B.Sc. Cybertechnology </li>
-<li> Anna Hjort Danielsen - B.Sc. General Engineering </li>
-<li> Anna Weilsby - B.Sc. Biomedical Engineering </li>
-<li> August Johannsen - B.Sc. Chemistry & Technology & B.Sc. Technology </li>
-<li> Benedicte M. E. Jensen - B.Eng. Healthcare Technology & B.Eng. Computer Engineering </li>
-<li> Ea Quie Landgreen - B.Eng. Food Safety and Quality </li>
-<li> Emilie Rønbøg - B.Sc. Architectural Engineering </li>
-<li> Eske Haack - B.Sc. Artificial Intelligence and Data </li>
-<li> Frederik Jørgensen - B.Sc. Mechanical Engineering </li>
-<li> Gustav Heron Melhus - B.Sc. Design of Sustainable Energy Systems </li>
-<li> Hannah Leah Herlev Hvid - B.Eng. Global Business Engineering </li>
-<li> Helene Moesgaard - B.Sc. Software Technology </li>
-<li> Joakim Vestergaard Rasmussen - B.Eng. Electrical Engineering & B.Eng. Electrical Energy Technology </li>
-<li> Johan Rosenkrands - B.Eng. Civil Engineering </li>
-<li> Jonas Bennich - B.Eng. Process and Innovation </li>
-<li> Josefine Wibom - B.Sc. Civil Engineering </li>
-<li> Lachlan Houston - B.Sc. Mathematics and Technology </li>
-<li> Laurits Jürs Hahn - B.Eng. Mobility, Transport and Logistics & B.Eng. Manufacturing and Management </li>
-<li> Liam Barbosa - B.Sc. Environmental Engineering </li>
-<li> Mads Kofod Egestad - B.Eng. Mechanical Engineering </li>
-<li> Magnus Hilarious Ohlin Jepsen - B.Sc. Life Science Engineering </li>
-<li> Malou Liv Enevoldsen - B.Eng. Chemical and Bio Engineering & B.Eng. Chemical Engineering and International Business </li>
-<li> Marika Norby - B.Sc. Data Science and Management </li>
-<li> Marilouise J. Arbøl - B.Sc. Computer Engineering </li>
-<li> Niels Boelt Mortensen - B.Sc. Earth and Space Physics and Engineering </li>
-<li> Oliver Sellberg - B.Eng. Software Technology </li>
-<li> Sarah Ranzow - B.Eng. Arctic Civil Engineering & B.Eng. Fisheries of Engineering </li>
-<li> Sophie Plougmand - B.Sc. Design & Innovation </li>
-<li> Theis Harbers Rix - B.Eng. Civil Engineering </li>
-<li> Thomas Nielsen - B.Eng. IT and Economics </li>
-<li> Thor Deibert - B.Sc. Engineering Physics </li>
-<li> Tobias Bæk - B.Eng. Architectural Engineering </li>
+<li> Adam Jabiri - B.Sc. General Engineering </li>
+<li> Alexander Gabriel Kongstad	- B.Sc. Design and Innovation </li>
+<li> Ane Veber - B.Sc. Enviromental Engineering </li>
+<li> Annekatrine Kirketerp-Møller - B.Sc. Biotechnology </li>
+<li> Daniel Mullenger Matthiesen - B.Eng. Byggeri og Infrastruktur </li>
+<li> Hans Christian Maturell Henriksen - B.Sc. Teknisk Biomedicin </li>
+<li> Helena Tejs Knudsen - B.Sc. Software Technology	</li>
+<li> Johannes Skaaning Andersen	- B.Sc. Chemistry and Technology </li>
+<li> Kamilla Gottlob Baumgarten	- B.Sc. Data Science and Management	</li>
+<li> Kathrine Böech Kaas - B.Eng. Softwareteknologi </li>
+<li> Laura Lund Pontoppidan	- B.Sc. Engineering Physics 	</li>
+<li> Lærke Tang Münsberg - PROMO </li>
+<li> Maria Reginsdóttir Rørbo - B.Sc. Electrical Engineering	</li>
+<li> Markus Lundegaard - B.Eng. Mechanical Engineering </li>
+<li> Mathias Antonius Vestergaard - B.Eng. Healthcare Technology </li>
+<li> Mathias Frøjk - B.Sc. Earth and Space Physics and Engineering </li>
+<li> Mia Thao Enné - B.Sc. General Engineering	</li>
+<li> Mikkel Svendsen - B.Eng. Electrical Engineering & B.Eng. Electrical Energy Technology  </li>
+<li> Morten Werling Andreassen - B.Eng. Chemical and Bio Engineering & B.Eng. Chemical Engineering and International Business  </li>
+<li> Noel Pihl - B.Sc. Computer Engineering & BSc. Cyber Technology </li>
+<li> Oliver Sorgenfrey - B.Sc. Mathematics and Technology </li>
+<li> Olivia Ngoc Ulrich Nielsen (Liv) - B.Sc. Biomedical Engineering	</li>
+<li> Sarah Larsen - B.Sc. Civil Engineering </li>
+<li> Tobias Christian Lintrup - B.Sc. Design of Sustainable Energy Systems </li>
+<li> Tobias Funk Vangsgaard	- B.Eng. Fødevaresikkerhed- og Kvalitet	</li>
+<li> Viktor Marius Nysøe Rehling - BSc. Artificial Intelligence and Data </li>
+<li> William Kirk Andersen - B.Sc. Architectural Engineering </li>
 
 
 
