@@ -10,7 +10,7 @@ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the bachel
 </p>
 <p>To get in touch with KABS, you are always welcome to contact us on our mail at kabs@pf.dk</p>
 
-<h2>KABS23:</h2>
+<h2>KABS24:</h2>
 
 <ul>
 
