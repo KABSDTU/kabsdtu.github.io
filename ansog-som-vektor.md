@@ -7,7 +7,7 @@ title: Ansøg som Vektor
 <div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/Venter_pa_abner.gif');">
 </div>
 
-<p id ="n">Ansøgningen er til Vektor '23 er lukket for nu. </p>
+<p id ="n">Ansøgningen er til Vektor '24 åbner den 29. Januar!! </p>
 <p id ="nn">Vi ses snart.</p>
 <br />
 
@@ -22,7 +22,7 @@ Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
     var titel = document.getElementById("titel")
     titel.innerHTML = "Ansøgningen til Vektor '24 åbner snart!"
     n.remove()
-    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LpwLmtV32kJUd5sL9"><button class="applyBtn">Ansøg nu!</button></a><br />'
+    
   }
 
   var deadline = new Date("February 11, 2024 00:00:01");
@@ -31,3 +31,8 @@ Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
   }
     
 </script>
+
+
+<!--   Add this efter n.remove() in script once the link to applications open
+div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LpwLmtV32kJUd5sL9"><button class="applyBtn">Ansøg nu!</button></a><br />' 
+-->
