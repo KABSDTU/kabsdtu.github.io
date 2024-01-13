@@ -22,7 +22,7 @@ title: Alle ture
 </div>
 
 <div class="box">
-    <h3 class="SGh3">3-dag</h3>
+    <h3 class="SGh3">3-dag introdage</h3>
     <ul class="df">
     <li>Disse dage kommer til at kunne være på både Lyngby og Ballerup campus. Man skal starte og afslutte dagen på campus.</li>
     <li> Det vil også være muligt at vælge denne engelsktalende </li>
