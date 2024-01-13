@@ -6,9 +6,10 @@ title: KABS
 <h1>KABS</h1>
 
 <p>
-KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the bachelor study start). There are 27 KABS. Every KABS has one or more study lines which they are KABS for. <b>All KABS are also responsible for a rustrip, and the two largest trips have two collaborating KABS.There is a total of 30 rustrips, of which 2 are weekend trips, one is a campus trip, and three are one-day trips. </b>
+ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the bachelor study start). There are 27 KABS. Every KABS has one or more study lines which they are KABS for. <!-- <b>All KABS are also responsible for an introtrip.</b> -->
 </p>
-<p>To get in touch with KABS, you are always welcome to contact us on our mail at kabs@pf.dk</p>
+
+<p> <b> To get in touch with KABS, you are always welcome to contact us on our mail at kabs@pf.dk </b> </p>
 
 <h2>KABS24:</h2>
 
