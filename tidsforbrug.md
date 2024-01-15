@@ -14,7 +14,7 @@ Det kræver lidt tid at være vektor, og nogle perioder vil være mere tidskræv
 
 <p>
 Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansvarlig for den søgte retning.  
-Man skal som minimum regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OpTur, som vil ligge i påsken. I slutningen af august ligger introdagene. Inden introdagene ligger en forberedelsestur, man selv planlægger på tværholdet.
+Man skal som minimum regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OPtur, som vil ligge i påsken. I slutningen af august ligger introdagene. Inden introdagene ligger en forberedelsestur, man selv planlægger på tværholdet.
 </p>
 
 <p>

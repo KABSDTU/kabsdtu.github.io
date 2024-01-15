@@ -7,9 +7,9 @@ title: KABS
 
 <p> KABS står for Koordinator af Bachelor Studiestarten. Der er 27 KABS. 
 Hver har en eller flere studieretninger de er koordinator for. <b>
-<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p>
+<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p> </b>
 
-<h2><b> Alle KABS24: </b></h2>
+<h2> Alle KABS24: </h2>
 <ul>
 <li> Adam Jabiri - C. General Engineering </li>
 <li> Alexander Gabriel Kongstad	- C. Design og Innovation </li>
@@ -29,13 +29,13 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 <li> Mathias Frøjk - C. Geofysik og Rumteknologi </li>
 <li> Mia Thao Enné - C. General Engineering	</li>
 <li> Mikkel Svendsen - D. Elektroteknologi & D. Elektrisk Energiteknologi </li>
-<li> Morten Werling Andreassen - D. Kemi og Bioteknik og D. Kemi og International Business </li>
+<li> Morten Werling Andreassen - D. Kemi- og Bioteknik & D. Kemiteknik og International Business </li>
 <li> Noel Pihl - C. Computer Engineering & C. Cyberteknologi </li>
 <li> Oliver Sorgenfrey - C. Matematik og Teknologi </li>
 <li> Olivia Ngoc Ulrich Nielsen (Liv) - C. Medicin og Teknologi	</li>
 <li> Sarah Larsen - C. Byggeteknologi </li>
 <li> Tobias Christian Lintrup - C. Bæredygtig Energidesign </li>
-<li> Tobias Funk Vangsgaard	- D. Fødevaresikkerhed- og Kvalitet	</li>
+<li> Tobias Funk Vangsgaard	- D. Fødevaresikkerhed og -Kvalitet	</li>
 <li> Viktor Marius Nysøe Rehling - C. Kunstig Intelligens og Data </li>
 <li> William Kirk Andersen - C. Bygningsdesign </li>
 

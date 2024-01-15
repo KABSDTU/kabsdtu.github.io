@@ -9,10 +9,9 @@ title: Time consumption
 
 <p>Being a vector takes some time, and some periods will be more time consuming than others.</p>
 
-<p>If you apply as a vector, there will be an interview with the KABS that is responsible for the study programme you applied for.</p> 
 
 <p>
-If you are interested in being a vector, there will be an employment interview with the KABS responsible for the studyline you’ve applied to. You have to count on having one meeting a week, and some effort in costume sewing for OPtur on Easter break. The infodays will be in the end of August, and before then there's preparation trips, which you plan yourself with the rest of your vector teams.
+If you are interested in being a vector, there will be an employment interview with the KABS responsible for the studyline you’ve applied to. You have to count on having one meeting a week, and some effort in costume sewing for OPtur on Easter break. The introdays will be in the end of August, and before then there's preparation trips, which you plan yourself with the rest of your vector teams.
 </p>
 
 <p>
