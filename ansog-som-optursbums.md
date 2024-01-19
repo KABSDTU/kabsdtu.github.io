@@ -2,14 +2,18 @@
 layout: default
 title: Ansøg som OPtursbums
 ---
-<h1>Ansøgningen til OPtursbums24 åbner snart!</h1>
+<h1>Ansøgningen til OPtursbums24 er åben!</h1>
 
 <p>
 	<br/>
   	<a style="text-align: center;">
-  	<!-- <a href="https://forms.gle/fmk3CwAgvmHV6vi78" target="_blank"> -->
-	<button class="applyBtn">Vi åbner snart! </button></a>
+  	<a href="https://forms.gle/zdvqxMQ72K9sPED27" target="_blank">
+	<button class="applyBtn">Ansøg nu! </button></a>
 
 <p>
 	Vil du vide mere om det at være OPtursbums kan du læse mere under fanen <a href="https://blivawesome.dk/optursbums.html">OPtursbums</a>.
+</p>
+
+<p>
+	OBS: Fristen er d. 2/2 23:59
 </p>
