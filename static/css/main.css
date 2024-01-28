@@ -47,7 +47,7 @@ h4 {
 article a {
   text-decoration: none;
   font-weight: bold;
-  color: #f9e209;
+  color: #211e1f;
 }
 
 /*
@@ -257,7 +257,7 @@ Form
   font-size: 2.5em;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: #d42828;
+  background-color: #f00171;
 }
 
 input,

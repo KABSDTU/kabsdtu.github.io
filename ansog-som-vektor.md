@@ -4,7 +4,7 @@ title: Ansøg som Vektor
 ---
 <h1 id="titel">Ansøgningen til Vektor '23 er lukket! </h1>
 
-<div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/Venter_pa_abner.gif');">
+<div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
 <p id ="n">Ansøgningen er til Vektor '24 åbner den 29. Januar!! </p>
@@ -20,8 +20,9 @@ Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
     var div = document.getElementById("n")
     var n = document.getElementById("nn")
     var titel = document.getElementById("titel")
-    titel.innerHTML = "Ansøgningen til Vektor '24 åbner snart!"
+    titel.innerHTML = "Ansøgningen til Vektor '24 er åben!"
     n.remove()
+    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LtButuFWY1TNc82RA"><button class="applyBtn">Ansøg nu!</button></a><br />' 
     
   }
 
@@ -34,5 +35,5 @@ Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
 
 
 <!--   Add this efter n.remove() in script once the link to applications open
-div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LpwLmtV32kJUd5sL9"><button class="applyBtn">Ansøg nu!</button></a><br />' 
+div.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSd_wGM2P4LsQfe_a1YR8TYIhOQ1Ens3eHC6JateUD_RJiPzqA/viewform?usp=sf_link"><button class="applyBtn">Ansøg nu!</button></a><br />' 
 -->
