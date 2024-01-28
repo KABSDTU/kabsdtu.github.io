@@ -112,10 +112,10 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 180px;
-  background-image: url("/static/img/FakeLogo_KABS24.png");
+  background-image: url("/static/img/KABS24_REAL_THEME.PNG");
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 15%;
+  margin-left: 12.5%;
   text-align: center;
 }
 
