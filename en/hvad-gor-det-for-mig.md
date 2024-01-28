@@ -4,8 +4,8 @@ title: What's in it for me?
 ---
 <h1>What's in it for me?</h1>
 
-<div id="poster-image" style="margin: auto; height: 410px; width: 410px; background-image: url('/static/img/hvadgordetformigSommer23.gif');">
-</div>
+<!-- <div id="poster-image" style="margin: auto; height: 410px; width: 410px; background-image: url('/static/img/hvadgordetformigSommer23.gif');">
+</div> -->
 
 <p>
 As a vector, you will get to take responsibility for, and leave your mark on various projects in regards to studystart. The experience which comes with planning the various events including the introtrip, Welcome Day and studyline’s cabintrip, etc. will be useful later on. On introtrips and studyline cabintrips things like finances, schedules, materials, etc. must be kept in order. This gives you as a vector the possibility for greater responsibility.
