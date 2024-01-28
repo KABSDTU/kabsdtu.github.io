@@ -5,7 +5,7 @@ title: vector
 
 <h1>Do you want to be part of the study start?</h1>
 
-<div id="poster-image" style="margin: auto; width: 400px; height: 400px; background-image: url('/static/img/vektorSommer23.gif');">
+<div id="poster-image" style="margin: auto; background-image: url('/static/img/cat.gif');">
 </div>
 
 <p>
