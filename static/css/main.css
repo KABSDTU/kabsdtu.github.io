@@ -1,11 +1,11 @@
 :root {
   --article-color: rgba(255, 255, 255, 0.654);
   --nav-color: rgba(246, 5, 144, 0.92);
-  --cdwn-color: rgba(0, 0, 0, 0.5);
+  --cdwn-color: rgba(92, 92, 92, 0.5);
 }
 
 body {
-  background-color:rgb(31, 22, 29);
+  background-color:rgb(137, 60, 121);
 }
 
 #container {
@@ -13,7 +13,7 @@ body {
   top: 0;
   font-family: "Droid", sans-serif;
   color: #000000;
-  background-image: url("/static/img/Midlertidig_baggrund.png");
+  background-image: url("/static/img/kabs_24_real_background.jpg");
   background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
@@ -104,7 +104,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgb(246, 225, 186);
+  background-color: rgb(226, 177, 234);
   color: rgb(118, 114, 112);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
