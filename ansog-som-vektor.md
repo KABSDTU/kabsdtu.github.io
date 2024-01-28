@@ -22,7 +22,7 @@ Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
     var titel = document.getElementById("titel")
     titel.innerHTML = "Ansøgningen til Vektor '24 er åben!"
     n.remove()
-    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LtButuFWY1TNc82RA"><button class="applyBtn">Ansøg nu!</button></a><br />' 
+    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LtButuFWY1TNc82RA"; target="_blank"><button class="applyBtn">Ansøg nu!</button></a><br />' 
     
   }
 
