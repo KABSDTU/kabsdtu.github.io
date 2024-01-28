@@ -5,7 +5,8 @@ title: Bathtub/Beverages
 
 <h1>Bathtub and Beverages</h1>
 
-<div id="poster-image" style=" background-image: url('/static/img/Badekar_falsk_tema.png');">
+<div id="poster-image" style= " background-image: url('/static/img/confettiBathtub.png');">
+
 </div>
 
 <br>
