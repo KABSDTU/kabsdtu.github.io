@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(255, 254, 247, 0.92);
-  --nav-color: rgba(205, 203, 193, 0.92);
+  --article-color: rgba(255, 255, 255, 0.654);
+  --nav-color: rgba(246, 5, 144, 0.92);
   --cdwn-color: rgba(0, 0, 0, 0.5);
 }
 
 body {
-  background-color:rgb(255, 231, 145);
+  background-color:rgb(31, 22, 29);
 }
 
 #container {
@@ -13,7 +13,7 @@ body {
   top: 0;
   font-family: "Droid", sans-serif;
   color: #000000;
-  background-image: url("/static/img/FakeBackground_KABS24.png");
+  background-image: url("/static/img/Midlertidig_baggrund.png");
   background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
@@ -112,10 +112,10 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 180px;
-  background-image: url("/static/img/FakeLogo_KABS24.png");
+  background-image: url("/static/img/Logo_diskoKABS.PNG");
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 15%;
+  margin-left: 10%;
   text-align: center;
 }
 
@@ -413,7 +413,7 @@ li{
   /*height: 100vh;*/
   padding: 1% 2%;
   margin: 0px 25px 25px 0px;
-  background: rgba(255, 231, 145, 0.761);
+  background: rgba(255, 255, 255);
   min-height: 200px;
   /*max-height: 370px;*/
   box-sizing: border-box;
