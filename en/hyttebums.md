@@ -4,7 +4,7 @@ title: Cabin Bum
 ---
 <h1>Cabin bum in 2024?</h1>
 
-<div id="poster-image" style="height: 330px; background-image: url('/static/img/hyttebumsSommer23.gif');">
+<div id="poster-image" style="background-image: url('/static/img/mousehungry.gif');">
 </div>
 
 <h1> Cabin Bum </h1>

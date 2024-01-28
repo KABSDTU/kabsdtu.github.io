@@ -6,7 +6,7 @@ title: International trip
 <h1>International trip</h1>
 
 <p>
-In PF and KABS, we do everything we can to include everyone, even if you aren’t necessarily Danish-speaking, or if you start on the international studyline <em>General Engineering</em> (abbreviated GE). Therefore, there is a chance to go on an international rustrip - the so-called <em>Mixed Trip</em>. On this type of trip, the organizers (KABS, vectors and bums) will only speak English, and Russes are strongly encouraged to do the same, as this greatly helps the feeling of community on the trip. Apart from the spoken language, this type of trip functions largely like the other rustrips that are most often held.
+In PF and KABS, we do everything we can to include everyone, even if you aren’t necessarily Danish-speaking, or if you start on the international studyline <em>General Engineering</em> (abbreviated GE). Therefore, there is a chance to go on an international introday trip - the so-called <em>Mixed Trip</em>. On this type of trip, the organizers (KABS, vectors and bums) will only speak English, and Russes are strongly encouraged to do the same, as this greatly helps the feeling of community on the trip. Apart from the spoken language, this type of trip functions largely like the other rustrips that are most often held.
 </p>
 
 <h2>Mixed trip</h2>
