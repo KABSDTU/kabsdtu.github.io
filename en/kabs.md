@@ -6,7 +6,7 @@ title: KABS
 <h1>KABS</h1>
 
 <p>
- KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are 27 KABS. Every KABS has one or more study lines which they are KABS for. <!-- <b>All KABS are also responsible for an introtrip.</b> -->
+ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are 29 KABS. Every KABS has one or more study lines which they are KABS for. <!-- <b>All KABS are also responsible for an introtrip.</b> -->
 </p>
 
 <p> <b> To get in touch with KABS, you are always welcome to contact us on our mail at kabs@pf.dk </b> </p>
@@ -20,6 +20,7 @@ title: KABS
 <li> Ane Veber - B.Sc. Enviromental Engineering </li>
 <li> Annekatrine Kirketerp-Møller - B.Sc. Biotechnology </li>
 <li> Daniel Mullenger Matthiesen - B.Eng. Byggeri og Infrastruktur </li>
+<li> Daniel Weper Jensen - D. IT-electronics & D. IT og Economy </li>
 <li> Hans Christian Maturell Henriksen - B.Sc. Technical Biomedicine </li>
 <li> Helena Tejs Knudsen - B.Sc. Software Technology	</li>
 <li> Johannes Skaaning Andersen	- B.Sc. Chemistry and Technology </li>
@@ -35,6 +36,7 @@ title: KABS
 <li> Mikkel Svendsen - B.Eng. Electrical Engineering & B.Eng. Electrical Energy Technology  </li>
 <li> Morten Werling Andreassen - B.Eng. Chemical and Bio Engineering & B.Eng. Chemical Engineering and International Business  </li>
 <li> Noel Pihl - B.Sc. Computer Engineering & B.Sc. Cyber Technology </li>
+<li> Oliver Badike Hansen - B.Sc. Production and Construction </li>
 <li> Oliver Sorgenfrey - B.Sc. Mathematics and Technology </li>
 <li> Olivia Ngoc Ulrich Nielsen (Liv) - B.Sc. Biomedical Engineering	</li>
 <li> Sarah Larsen - B.Sc. Civil Engineering </li>

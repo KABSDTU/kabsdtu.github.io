@@ -5,7 +5,7 @@ title: KABS
 
 <h1>KABS</h1>
 
-<p> KABS står for Koordinator af Bachelor Studiestarten. Der er 27 KABS. 
+<p> KABS står for Koordinator af Bachelor Studiestarten. Der er 29 KABS. 
 Hver har en eller flere studieretninger de er koordinator for. <b>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p> </b>
 
@@ -16,6 +16,7 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 <li> Ane Veber - C. Miljøteknologi </li>
 <li> Annekatrine Kirketerp-Møller - C. Bioteknologi </li>
 <li> Daniel Mullenger Matthiesen - D. Byggeri og Infrastruktur </li>
+<li> Daniel Weper Jensen - D. IT-elektronik & D. IT og økonomi </li>
 <li> Hans Christian Maturell Henriksen - C. Teknisk Biomedicin </li>
 <li> Helena Tejs Knudsen - C. Softwareteknologi	</li>
 <li> Johannes Skaaning Andersen	- C. Kemi og Teknologi </li>
@@ -31,6 +32,7 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 <li> Mikkel Svendsen - D. Elektroteknologi & D. Elektrisk Energiteknologi </li>
 <li> Morten Werling Andreassen - D. Kemi- og Bioteknik & D. Kemiteknik og International Business </li>
 <li> Noel Pihl - C. Computer Engineering & C. Cyberteknologi </li>
+<li> Oliver Badike Hansen - C. Produktion og Konstruktion </li>
 <li> Oliver Sorgenfrey - C. Matematik og Teknologi </li>
 <li> Olivia Ngoc Ulrich Nielsen (Liv) - C. Medicin og Teknologi	</li>
 <li> Sarah Larsen - C. Byggeteknologi </li>
