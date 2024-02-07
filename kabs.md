@@ -16,7 +16,7 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 <li> Ane Veber - C. Miljøteknologi </li>
 <li> Annekatrine Kirketerp-Møller - C. Bioteknologi </li>
 <li> Daniel Mullenger Matthiesen - D. Byggeri og Infrastruktur </li>
-<li> Daniel Weper Jensen - D. IT-elektronik & D. IT og økonomi </li>
+<li> Daniel Weper Jensen - D. IT-Elektronik & D. IT og Økonomi </li>
 <li> Hans Christian Maturell Henriksen - C. Teknisk Biomedicin </li>
 <li> Helena Tejs Knudsen - C. Softwareteknologi	</li>
 <li> Johannes Skaaning Andersen	- C. Kemi og Teknologi </li>

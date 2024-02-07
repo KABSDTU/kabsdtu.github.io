@@ -20,7 +20,7 @@ title: KABS
 <li> Ane Veber - B.Sc. Enviromental Engineering </li>
 <li> Annekatrine Kirketerp-Møller - B.Sc. Biotechnology </li>
 <li> Daniel Mullenger Matthiesen - B.Eng. Byggeri og Infrastruktur </li>
-<li> Daniel Weper Jensen - D. IT-electronics & D. IT og Economy </li>
+<li> Daniel Weper Jensen - D. IT-Electronics & D. IT og Economy </li>
 <li> Hans Christian Maturell Henriksen - B.Sc. Technical Biomedicine </li>
 <li> Helena Tejs Knudsen - B.Sc. Software Technology	</li>
 <li> Johannes Skaaning Andersen	- B.Sc. Chemistry and Technology </li>
