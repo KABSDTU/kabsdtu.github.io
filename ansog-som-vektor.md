@@ -2,36 +2,18 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1 id="titel">Ansøgningen til Vektor '23 er lukket! </h1>
+<h1 id="titel">Ansøgningen til Vektor '24! </h1>
 
 <div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
-<p id ="n">Ansøgningen er til Vektor '24 åbner den 29. Januar!! </p>
-<p id ="nn">Vi ses snart.</p>
-<br />
+<h2>Ansøgning til Vektor '24 sker stadigvæk!</h2> 
 
+<h2> Vil du gerne være vektor, så send en mail til kabs@pf.dk</h2>
+<br/>
 
 Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
 
-<script>
-
-  function showVectorApplication() {
-    var div = document.getElementById("n")
-    var n = document.getElementById("nn")
-    var titel = document.getElementById("titel")
-    titel.innerHTML = "Ansøgningen til Vektor '24 er åben!"
-    n.remove()
-    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LtQ5aKVS3YCN8Cbq6"; target="_blank"><button class="applyBtn">Ansøg nu!</button></a><br />' 
-    
-  }
-
-  var deadline = new Date("February 11, 2024 00:00:01");
-  if (deadline > new Date) {
-    showVectorApplication()
-  }
-    
-</script>
 
 
 <!--   Add this efter n.remove() in script once the link to applications open

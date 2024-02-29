@@ -4,9 +4,16 @@ title: Hvad får jeg ud af det?
 ---
 <h1>Hvad får <i>jeg</i> ud af det?</h1>
 
+<p> 
+	Det at være vektor giver rigtigt meget på flere forskellige måder.
+	Den største og nok den vigtigste er muligheden for at opbygge et <b>socialt fællesskab</b> og netværk. 
+	Du får mulighed for at lære folk at kende på tværs af retninger og årgange samt at være med til diverse fester og andre sociale arrangementer. Dette kan være relevant fremover ved sociale såsom faglige projekter.
+
+</p>
+
 
 <p>
-	Du vil som vektor få lov til at tage ansvar for, og sætte dit præg på diverse projekter inden for studiestarten. De erfaringer følger med at planlægge de forskellige begivenheder inklusive velkomstdag, introdagene og retningshyttetur m.fl. vil kunne bruges fremadrettet. På introdagene og retningshyttetur skal der holdes styr på økonomi, tidsplaner, materialer, mm. Dette giver dig som vektor muligheden for et større ansvar.
+	Du vil som vektor få lov til at tage ansvar for, og sætte dit præg på diverse projekter inden for studiestarten. De erfaringer følger med at planlægge de forskellige begivenheder inklusive velkomstdag, introdagene og retningshyttetur m.fl. vil kunne bruges fremadrettet. På introdagene og retningshyttetur skal der holdes styr på økonomi, tidsplaner, materialer, mm. Dette giver dig som vektor muligheden for et større ansvar og personlig udvikling.
 </p>
 <p>
 	Som vektor bliver du uddannet i diverse taleteknikker, konflikthåndtering og andre personorienterede evner. Dette giver dig et godt grundlag, og hjælper dig til at være imødekommende over for de nystartede og have fokus på deres behov. Derudover vil du også opnå et meget større indblik i opbygningen af PF, bestyrelsen og diverse klubber o.lign., der tilbyder en masse for de nye studerende.
