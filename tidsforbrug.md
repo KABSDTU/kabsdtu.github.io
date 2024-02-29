@@ -8,22 +8,19 @@ title: Tidsforbrug
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/tidsforbrugSommer23.gif');">
 </div>
 
-<p>
-Det kræver lidt tid at være vektor, og nogle perioder vil være mere tidskrævende end andre.
-</p>
+<p> Som vektor kommer man til at bruge noget tid på forberedelse som er ture, uddannelse, osv. Nogle tidsperioder kommer til at være mere tidskrævende end andre. Det skal dog siges at der er stor forståelse for både fra KABS og PF's side at man er frivillig og at man derfor også har studie, arbejde, osv. at passe ved siden af at være vektor. Dette vil sige skulle have brug for en pause engang i mellem så er det i orden man skal bare informere sin KABS </p>
 
-<p>
-Søger du vektor, vil der være en ansættelsessamtale med den KABS, der er ansvarlig for den søgte retning.  
-Man skal som minimum regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OPtur, som vil ligge i påsken. I slutningen af august ligger introdagene. Inden introdagene ligger en forberedelsestur, man selv planlægger på tværholdet.
+<p> 
+I det store hele skal man regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OPtur, som vil ligge i påsken. I slutningen af august ligger introdagene, som man også ligger en del arbejde i. Inden introdagene ligger to forberedelsestur, hvilket er noget man selv fastlægger på tværholdet og retningsholdet
 </p>
 
 <p>
 <b>VIGTIGE DATOER:</b>
 </p>
 
-<li>Ansøgningsfrist (9. februar kl. 23:59)	        </li>
+<!-- <li>Ansøgningsfrist (9. februar kl. 23:59)	        </li>
 <li>Vektor-interviews (12.-14. februar)             </li>
-<li>Første vektormøde (15. februar efter kl. 17:00)	</li>
+<li>Første vektormøde (15. februar efter kl. 17:00)	</li> -->
 <li>Første uddannelsesdag (10. marts)				</li>
 <li>OpTur (22. til 26. Marts)			</li>
 <li>Førstehjælpskursus (Kommer til at ligge 1 dag i juni. Der vil være flere dage at vælge imellem) </li>
