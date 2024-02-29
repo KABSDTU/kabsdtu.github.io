@@ -8,11 +8,10 @@ title: Apply as a vector
 <div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
-<p id ="nn">It is still possible to become a Vector'24! If you wanna become a vector send a mail to kabs@pf.dk.
-</p>
+<h2 style="text-align: center;"> It is still possible to become a Vector'24! If you wanna become a vector send a mail to kabs@pf.dk.</h2>
 
 
-If you have questions, check out: <a href="/en/vektor">Vector</a>
+<p style="text-align: center;">If you have questions, check out: <a href="/en/vektor">Vector</a> </p>
 
 <script>
 
