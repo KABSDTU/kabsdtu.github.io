@@ -6,15 +6,15 @@ title: Studiestarten
 
 
 <p>
-    I studiestarten ansættes lige under 300 vektorer fordelt på omkring 20-30 tværhold på sommerstudiestarten, som sammen tager imod de nye russere, der starter i slutningen af august. Dette koordineres af de i alt {{layout.numOfKABS}} KABS, der står for uddannelsesdage, OPtur, og meget andet for vektorene i forbindelse med studiestarten. <br> 
-    KABS, vektorer og hyttetursbumser skaber i fællesskab den bedst mulige rustur og studiestart for de kommende russer <br>
+    I studiestarten ansættes lige under 300 vektorer fordelt på omkring 20-30 tværhold på sommerstudiestarten, som sammen tager imod de nye studerende, der starter i slutningen af august. Dette koordineres af de i alt {{layout.numOfKABS}} KABS, der står for uddannelsesdage, OPtur, og meget andet for vektorene i forbindelse med studiestarten. <br> 
+    KABS, vektorer og hyttetursbumser skaber i fællesskab den bedst mulige  studiestart for de kommende studerende <br>
 
 </p>
 
 <h2>Ny studiestart </h2>
 
 <p>
-Det er ingen hemmelighed at studiestarten i år kommer til at foregå på en næsten ny måde. Rusturene afholdes ikke mere, og vi vil lave campusture/introdage i stedet. Dette er dog ikke ensbetydende med at studiestarten bliver dårligere, og som vektor i år vil du også have en kæmpe mulighed for at være med til at danne den nye studiestart her på DTU. <br> 
+Det er ingen hemmelighed at studiestarten i år kommer til at foregå på en næsten ny måde. Rusturene afholdes ikke mere, og vi vil lave campusture/introdage i stedet. Dette er dog ikke ensbetydende med at studiestarten bliver dårligere, og som vektor i år vil du også have en kæmpe mulighed for at være med til at danne den nye studiestart. <br> 
 Vi er I KABS (Koordinater af Bachelor Studiestart) ved at gøre en masse omkring at sætte rammerne for den nye studiestart, og få det hele til at hænge sammen.  <br> 
 Studiestarten på retningsholdene kommer til at være det samme som tidligere, med en velkomstdag, kagemøder og en hyttetur, som du kender det. <br> 
 <p>
