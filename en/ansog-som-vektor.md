@@ -3,14 +3,13 @@ layout: en
 title: Apply as a vector
 ---
 
-<h1 id="titel">Applications for Summer Vector '24 opens soon!</h1>
+<h1 id="titel">Applications for Summer Vector '24!</h1>
 
 <div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
-<p id ="n">The applications for Vector '24 opens soon!.</p>
-<p id ="nn">See you!</p>
-<br />
+<p id ="nn">It is still possible to become a Vector'24! If you wanna become a vector send a mail to kabs@pf.dk.
+</p>
 
 
 If you have questions, check out: <a href="/en/vektor">Vector</a>
