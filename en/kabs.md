@@ -43,7 +43,7 @@ title: KABS
 <li> Tobias Christian Lintrup - B.Sc. Design of Sustainable Energy Systems </li>
 <li> Tobias Funk Vangsgaard	- B.Eng. Fødevaresikkerhed- og Kvalitet	</li>
 <li> Viktor Marius Nysøe Rehling - B.Sc. Artificial Intelligence and Data </li>
-<li> William Kirk Andersen - B.Sc. Architectural Engineering </li>
+<li> William Kirk Andersen - B.Sc. Architectural Engineering & B.Eng. Architectural Engineering</li>
 
 
 

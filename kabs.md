@@ -39,6 +39,6 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 <li> Tobias Christian Lintrup - C. Bæredygtig Energidesign </li>
 <li> Tobias Funk Vangsgaard	- D. Fødevaresikkerhed og -Kvalitet	</li>
 <li> Viktor Marius Nysøe Rehling - C. Kunstig Intelligens og Data </li>
-<li> William Kirk Andersen - C. Bygningsdesign </li>
+<li> William Kirk Andersen - C. Bygningsdesign & D. Bygningsdesign </li>
 
 </ul>
