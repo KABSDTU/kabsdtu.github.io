@@ -17,8 +17,8 @@ title: FAQ
 <h3><b>When and where do you apply?</b></h3>
 <p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
 
-<h3><b>What kinds of trips are offered?</b></h3>
-<p>See <a href="/en/alle-ture.html"><u>All trips</u></a>.</p>
+<h3><b>What is the structure of the new study start?</b></h3>
+<p>See <a href="/en/general-structure.html"><u>All trips</u></a>.</p>
 
 <!--
 <ul>
