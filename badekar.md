@@ -15,7 +15,7 @@ Når du bestiller så download Google Sheetet du finder ved at klikke på linket
 <p>Når du er færdig, så send det udfyldte sheet som en Excel-kompatibel formateret fil til studiestartKABS@pf.dk. Udfyld emnefeltet med <i>”Order for [turnavn]”</i>. Det er i orden at sende mailen på Engelsk.</p>
 <p>Navngiv venligst filen som <i>[turnavn]</i>. <b>Vær venligst opmærksom på at vedhæfte filen direkte til selve e-mailen, og ikke et delt link til et Google Drive. Vi har heller ikke adgang til SharePoint-deling.</b></p>
 <p>Angiv venligst i e-mailen, hvis du har brug for hjælp til afhentning af badekarret. Ellers antages det at din egen KABS kan hjælpe med afhentning og tilbagelevering.</p>
-<p>Hvis du ikke har modtaget en regning indenfor 10 arbejdsdage fra at badekaret blev returneret, så vil du ikke blive opkrævet for ordren.</p>
+<!--<p>Hvis du ikke har modtaget en regning indenfor 10 arbejdsdage fra at badekaret blev returneret, så vil du ikke blive opkrævet for ordren.</p>-->
 <p>Har du problemer med badekarret, så kontakt din nærmeste KABS.</p>
 <p><b>Sørg for at bestille badekaret senest to uger før at badekaret skal bruges, så det er pakket i tide.</b></p>
 
