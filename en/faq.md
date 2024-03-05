@@ -18,7 +18,7 @@ title: FAQ
 <p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
 
 <h3><b>What is the structure of the new study start?</b></h3>
-<p>See <a href="/en/general-structure.html"><u>All trips</u></a>.</p>
+<p>See <a href="/en/general-structure.html"><u>General structure</u></a>.</p>
 
 <!--
 <ul>

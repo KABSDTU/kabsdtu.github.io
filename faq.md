@@ -23,7 +23,7 @@ title: FAQ
 
 <h3><b>Hvordan bliver strukturen i den nye studiestart?</b></h3>
 
-<p>Se <a href="./generel-struktur.html"><u>Alle ture</u></a>.</p>
+<p>Se <a href="./generel-struktur.html"><u>Generel struktur</u></a>.</p>
 
 <!----
 <ul>
