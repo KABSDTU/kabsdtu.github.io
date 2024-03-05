@@ -6,8 +6,8 @@ title: Hvad får jeg ud af det?
 
 <p> 
 	Det at være vektor giver rigtigt meget på flere forskellige måder.
-	Den største og nok den vigtigste er muligheden for at opbygge et <b>socialt fællesskab</b> og netværk. 
-	Du får mulighed for at lære folk at kende på tværs af retninger og årgange samt at være med til diverse fester og andre sociale arrangementer. Dette kan være relevant fremover ved sociale såsom faglige projekter.
+	Den største og nok den vigtigste er, muligheden for at opbygge et <b>socialt fællesskab</b> og netværk. 
+	Du får mulighed for at lære folk at kende på tværs af retninger og årgange, samt at være med til diverse fester og andre sociale arrangementer. Dette kan være relevant fremover ved sociale såsom faglige projekter.
 
 </p>
 
