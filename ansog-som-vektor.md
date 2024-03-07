@@ -7,12 +7,10 @@ title: Ansøg som Vektor
 <div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
-<h2>Ansøgning til Vektor '24 sker stadigvæk!</h2> 
 
-<h2> Vil du gerne være vektor, så send en mail til kabs@pf.dk</h2>
-<br/>
+<h1 style="text-align: center;">Vil du gerne være vektor, så send en mail til kabs@pf.dk</h1>
 
-Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
+<p style="text-align: center;"> Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
 
 
 
