@@ -11,7 +11,7 @@ title: Ansøg som Vektor
 <p>
 	<br/>
   	<a style="text-align: center;">
-  	<a href="https://forms.gle/zdvqxMQ72K9sPED27" target="_blank">
+  	<a href="https://forms.gle/RbAEkbadRTaW6dCQA" target="_blank">
 	<button class="applyBtn">Ansøg nu! </button></a>
 
 

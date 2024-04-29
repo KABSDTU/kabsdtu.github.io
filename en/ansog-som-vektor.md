@@ -8,7 +8,14 @@ title: Apply as a vector
 <div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
-<h2 style="text-align: center;"> It is still possible to become a Vector'24! If you wanna become a vector send a mail to kabs@pf.dk.</h2>
+<p>
+	<br/>
+  	<a style="text-align: center;">
+  	<a href="https://forms.gle/RbAEkbadRTaW6dCQA" target="_blank">
+	<button class="applyBtn">Apply now! </button></a>
+
+
+<h2 style="text-align: center;"> If you want to become a vector, click the button above!</h2>
 
 
 <p style="text-align: center;">If you have questions, check out: <a href="/en/vektor">Vector</a> </p>
