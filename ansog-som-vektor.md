@@ -8,7 +8,14 @@ title: Ansøg som Vektor
 </div>
 
 
-<h1 style="text-align: center;">Vil du gerne være vektor, så send en mail til kabs@pf.dk</h1>
+<p>
+	<br/>
+  	<a style="text-align: center;">
+  	<a href="https://forms.gle/zdvqxMQ72K9sPED27" target="_blank">
+	<button class="applyBtn">Ansøg nu! </button></a>
+
+
+<h1 style="text-align: center;">Vil du gerne være vektor, så tryk på knappen ovenover!</h1>
 
 <p style="text-align: center;"> Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
 
