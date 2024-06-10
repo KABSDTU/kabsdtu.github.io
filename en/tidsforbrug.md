@@ -25,8 +25,8 @@ If you are interested in being a vector, there will be an employment interview w
 <li>OpTur (22nd - 26th of March)					    </li>
 <li>First aid course (will be one day in June. There will be multiple days to choose from)           </li>
 <li>The second education day (14th of April)				    </li>
-<li>Welcome Day (28th of August)						        </li>
-<li>Introday/s (29th - 31th of August)							    </li>
+<li>Welcome Day (29th of August)						        </li>
+<li>Introday/s (30th - 31th of August)							    </li>
 
 
 

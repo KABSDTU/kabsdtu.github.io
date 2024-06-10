@@ -25,8 +25,8 @@ I det store hele skal man regne med et aftenmøde om ugen, og en større indsats
 <li>OpTur (22. til 26. Marts)			</li>
 <li>Førstehjælpskursus (Kommer til at ligge 1 dag i juni. Der vil være flere dage at vælge imellem) </li>
 <li>Anden uddannelsesdag (14. april)				</li>
-<li>Velkomstdag (28. august)						</li>
-<li>Introdage (29. til 31. august)					</li>
+<li>Velkomstdag (29. august)						</li>
+<li>Introdage (30. til 31. august)					</li>
 
 <p>
 Den tid og arbejdet der lægges i vektorhvervet kan ikke måles med de bekendtskaber, de personlige erfaringer og den viden, man får i løbet af sin vektorperiode. Og derudover er det bare mega sjovt.
