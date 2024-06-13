@@ -19,7 +19,7 @@ title: Bathtub/Beverages
 <p>If you have trouble with the bathtub, contact Ea on phone no. 21783066, or Gustav on phone no. 52119477.</p>
 <p><b>Make sure to order the bathtub two weeks before it's needed at the latest, such that it is packed in due time.</b></p>
 
-<a style="text-align: center" href="https://docs.google.com/spreadsheets/d/1SgOvnlSenMQmEAE8B5bNf45-Zlgmrxu1yPELj5_KuG0/edit#gid=0">
+<a style="text-align: center" href="https://docs.google.com/spreadsheets/d/1tNMf3txd2a1Js-rQsooB9xri_Yf7MVfT9xIVhe84hhM/edit">
 	<button class="applyBtn">
 	  Order bathtub
 	</button>
