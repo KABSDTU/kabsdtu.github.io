@@ -4,7 +4,7 @@ title: Ansøg som OPtursbums
 ---
 <h1>Ansøgningen til OPtursbums24 er lukket.</h1>
 
-<!-- <p>
+<!--<p>
 	<br/>
   	<a style="text-align: center;">
   	<a href="https://forms.gle/zdvqxMQ72K9sPED27" target="_blank">
