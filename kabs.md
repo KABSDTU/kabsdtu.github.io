@@ -9,7 +9,7 @@ title: KABS
 Hver har en eller flere studieretninger de er koordinator for. <b>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p> </b>
 
-<h2> Alle KABS24: </h2>
+<h2> Alle KABS25: </h2>
 <ul>
 <li> Adam Jabiri - C. General Engineering </li>
 <li> Alexander Gabriel Kongstad	- C. Design og Innovation </li>
