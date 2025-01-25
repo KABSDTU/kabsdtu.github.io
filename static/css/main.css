@@ -1,5 +1,5 @@
 :root {
-  --article-color: rgba(255, 255, 255, 0.654);
+  --article-color: rgba(255, 255, 255, 0.9);
   --nav-color: rgba(46, 187, 46, 0.92);
   --cdwn-color: rgba(92, 92, 92, 0.5);
 }
@@ -112,7 +112,7 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 180px;
-  background-image: url("/static/img/Logo_diskoKABS.PNG");
+  background-image: url("/static/img/KABS_25_Logo.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 10%;
@@ -259,7 +259,7 @@ Form
   font-size: 2.5em;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: #f00171;
+  background-color: rgb(46, 187, 46);
 }
 
 input,
