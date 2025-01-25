@@ -7,7 +7,8 @@ title: KABS
 
 <p> KABS står for Koordinator af Bachelor Studiestarten. Der er 28 KABS. 
 Hver har en eller flere studieretninger de er koordinator for. <b>
-<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk.</p> </b>
+<p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk .</p> </b>
+
 
 <h2> Alle KABS25: </h2>
 <ul>
@@ -37,4 +38,5 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 <li> Saar Vincent Wightman Jochum - C. General Engineering </li>
 <li> Sebastian Mariegaard - C. Bæredygtig energidesign </li>
 <li> Thor Thomsen Brown - C. Produktion og Konstruktion </li>
+
 </ul>
