@@ -12,6 +12,7 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 
 <h2> Alle KABS25: </h2>
 <ul>
+<li> Amalie Maria O'Reilly Bojsen - D. IT - elektronik og IT - økonomi</li>
 <li> Anna Damsgaard Koch - D. Bygningsdesign, C. BygTek </li>
 <li> Anne Hygebjerg-Hansen - D. Byggeri og Infrastruktur, D. Maskin </li>
 <li> Annemette Aufeldt - C. Teknisk biomedicin </li>
@@ -38,5 +39,5 @@ Hver har en eller flere studieretninger de er koordinator for. <b>
 <li> Saar Vincent Wightman Jochum - C. General Engineering </li>
 <li> Sebastian Mariegaard - C. Bæredygtig energidesign </li>
 <li> Thor Thomsen Brown - C. Produktion og Konstruktion </li>
-
+<li> Tusnelda Victoria Gram Ludvigsen - C. Data Science & Management</li>
 </ul>

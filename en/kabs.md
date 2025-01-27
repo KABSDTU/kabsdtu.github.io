@@ -6,45 +6,40 @@ title: KABS
 <h1>KABS</h1>
 
 <p>
- KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are 29 KABS. Every KABS has one or more study lines which they are KABS for. <!-- <b>All KABS are also responsible for an introtrip.</b> -->
+ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are 28 KABS. Every KABS has one or more study lines which they are KABS for. <!-- <b>All KABS are also responsible for an introtrip.</b> -->
 </p>
 
 <p> <b> To get in touch with KABS, you are always welcome to contact us on our mail at kabs@pf.dk </b> </p>
 
-<h2>KABS24:</h2>
+<h2>KABS25:</h2>
 
 <ul>
-
-<li> Adam Jabiri - B.Sc. General Engineering </li>
-<li> Alexander Gabriel Kongstad	- B.Sc. Design and Innovation </li>
-<li> Ane Veber - B.Sc. Enviromental Engineering </li>
-<li> Annekatrine Kirketerp-Møller - B.Sc. Biotechnology </li>
-<li> Daniel Mullenger Matthiesen - B.Eng. Byggeri og Infrastruktur </li>
-<li> Daniel Weper Jensen - D. IT-Electronics & D. IT og Economy </li>
-<li> Hans Christian Maturell Henriksen - B.Sc. Technical Biomedicine </li>
-<li> Helena Tejs Knudsen - B.Sc. Software Technology	</li>
-<li> Johannes Skaaning Andersen	- B.Sc. Chemistry and Technology </li>
-<li> Kamilla Gottlob Baumgarten	- B.Sc. Data Science and Management	</li>
-<li> Kathrine Böech Kaas - B.Eng. Softwareteknologi </li>
-<li> Laura Lund Pontoppidan	- B.Sc. Engineering Physics 	</li>
-<li> Lærke Tang Münsberg - PROMO </li>
-<li> Maria Reginsdóttir Rørbo - B.Sc. Electrical Engineering	</li>
-<li> Markus Lundegaard - B.Eng. Mechanical Engineering </li>
-<li> Mathias Antonius Vestergaard - B.Eng. Healthcare Technology </li>
-<li> Mathias Frøjk - B.Sc. Earth and Space Physics and Engineering </li>
-<li> Mia Thao Enné - B.Sc. General Engineering	</li>
-<li> Mikkel Svendsen - B.Eng. Electrical Engineering & B.Eng. Electrical Energy Technology  </li>
-<li> Morten Werling Andreassen - B.Eng. Chemical and Bio Engineering & B.Eng. Chemical Engineering and International Business  </li>
-<li> Noel Pihl - B.Sc. Computer Engineering & B.Sc. Cyber Technology </li>
-<li> Oliver Badike Hansen - B.Sc. Production and Construction </li>
-<li> Oliver Sorgenfrey - B.Sc. Mathematics and Technology </li>
-<li> Olivia Ngoc Ulrich Nielsen (Liv) - B.Sc. Biomedical Engineering	</li>
-<li> Sarah Larsen - B.Sc. Civil Engineering </li>
-<li> Tobias Christian Lintrup - B.Sc. Design of Sustainable Energy Systems </li>
-<li> Tobias Funk Vangsgaard	- B.Eng. Fødevaresikkerhed- og Kvalitet	</li>
-<li> Viktor Marius Nysøe Rehling - B.Sc. Artificial Intelligence and Data </li>
-<li> William Kirk Andersen - B.Sc. Architectural Engineering & B.Eng. Architectural Engineering</li>
-
-
-
+<li> Amalie Maria O'Reilly Bojsen - D. IT - elektronik og IT - økonomi</li>
+<li> Anna Damsgaard Koch - D. Bygningsdesign, C. BygTek </li>
+<li> Anne Hygebjerg-Hansen - D. Byggeri og Infrastruktur, D. Maskin </li>
+<li> Annemette Aufeldt - C. Teknisk biomedicin </li>
+<li> August Tambour Petersen - C. Miljøteknologi </li>
+<li> Baldur G. Toftegaard - PROMO </li>
+<li> Bengisu Isik - C. Architectural Engineering </li>
+<li> Erik Pagh Goodwin - D. Software technology </li>
+<li> Frederik Listov-Saabye Pedersen - C. Artificial Intelligence and Data Science </li>
+<li> Johannes Lei - C. Chemistry and Technology & C. Technology </li>
+<li> Julie Buch - C Bioteknologi </li>
+<li> Julie Fiirgaard Nielsen - C. Design & Innovation </li>
+<li> Karo Saxtorph Schulz - C. Earth and Space Physics and Engineering </li>
+<li> Laura Kate Elisabeth Melchior - C. Engineering (Biomedical Engineering) </li>
+<li> Louise Høybye Sønder - C. Cybertechnology & C. Computer Engineering </li>
+<li> Magnus Lundsgaard - C.Elektro, C. Fisk, ARKTEK </li>
+<li> Malik Zaabalawi - C. Engineering physics </li>
+<li> Mathias Bækgaard Wacher - PROMO </li>
+<li> Mathias Nørgaard-Andersen - C. Mathematics & Technology, C. Software </li>
+<li> Mathilde Louise Howell - D. Sundhedsteknologi </li>
+<li> Mia Wang - D. Kemi </li>
+<li> Nicolai Balskov Jakobsen - D. Elektroteknologier </li>
+<li> Nicoline Sparresø Bærentzen - D. Fødevaresikkerhed og -kvalitet </li>
+<li> Robin Brandt - C. General Engineering </li>
+<li> Saar Vincent Wightman Jochum - C. General Engineering </li>
+<li> Sebastian Mariegaard - C. Bæredygtig energidesign </li>
+<li> Thor Thomsen Brown - C. Produktion og Konstruktion </li>
+<li> Tusnelda Victoria Gram Ludvigsen - C. Data Science & Management</li>
 </ul>
