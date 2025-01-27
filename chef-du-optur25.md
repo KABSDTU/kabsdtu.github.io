@@ -2,9 +2,9 @@
 layout: default
 title: OPtursbums
 ---
-<h1>OPtursbums i 2024?</h1>
+<h1>Chef du OPtur i 2025?</h1>
 
-<div id="poster-image" style="background-image: url('/static/img/hyttebums.jpg');">
+<div id="poster-image" style="background-image: url('/static/img/chef.gif');">
 </div>
 
 <p>

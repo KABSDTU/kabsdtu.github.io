@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(255, 255, 255, 0.654);
-  --nav-color: rgba(246, 5, 144, 0.92);
+  --article-color: rgba(255, 255, 255, 0.9);
+  --nav-color: rgba(46, 187, 46, 0.92);
   --cdwn-color: rgba(92, 92, 92, 0.5);
 }
 
 body {
-  background-color:rgb(137, 60, 121);
+  background-color:rgb(220, 253, 158);
 }
 
 #container {
@@ -13,7 +13,7 @@ body {
   top: 0;
   font-family: "Droid", sans-serif;
   color: #000000;
-  background-image: url("/static/img/kabs_24_real_background.jpg");
+  background-image: url("/static/img/KABS_25_Bakground.png");
   background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
@@ -104,7 +104,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgb(226, 177, 234);
+  background-color: rgb(46, 187, 46);
   color: rgb(118, 114, 112);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
@@ -112,7 +112,7 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 180px;
-  background-image: url("/static/img/Logo_diskoKABS.PNG");
+  background-image: url("/static/img/KABS_25_Logo.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 10%;
@@ -259,7 +259,7 @@ Form
   font-size: 2.5em;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: #f00171;
+  background-color: rgb(46, 187, 46);
 }
 
 input,
