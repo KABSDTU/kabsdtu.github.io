@@ -235,12 +235,12 @@ footer {
   width: 250px;
   height: 50px;
   bottom: 0;
-  background-image: url("/static/img/pf_logo_negativ.png");
-  transform: scale(2.5);
+  background-image: url("/static/img/pfDtu.png");
+  transform: scale(1.5);
   background-size: contain;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   
 }
 
