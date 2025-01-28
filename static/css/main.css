@@ -1,11 +1,11 @@
 :root {
   --article-color: rgba(255, 255, 255, 0.9);
-  --nav-color: rgba(46, 187, 46, 0.92);
+  --nav-color: rgba(0, 124, 165, 0.92);
   --cdwn-color: rgba(92, 92, 92, 0.5);
 }
 
 body {
-  background-color:rgb(220, 253, 158);
+  background-color:rgb(250, 192, 6);
 }
 
 #container {
@@ -104,8 +104,8 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgb(46, 187, 46);
-  color: rgb(118, 114, 112);
+  background-color: #007ca5;
+  color: white;
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -259,7 +259,7 @@ Form
   font-size: 2.5em;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: rgb(46, 187, 46);
+  background-color: #007ca5;
 }
 
 input,
