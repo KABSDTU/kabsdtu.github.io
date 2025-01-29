@@ -8,7 +8,8 @@ title: Tidsforbrug
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/billedekabs1.jpg');">
 </div>
 
-<p> Billede: DTU
+<p> Billede: DTU </p>
+<p>  
   Som vektor kommer man til at bruge noget tid på forberedelse som er ture, uddannelse, osv. Nogle tidsperioder kommer til at være mere tidskrævende end andre. Det skal dog siges at der er stor forståelse for både fra KABS og PF's side at man er frivillig og at man derfor også har studie, arbejde, osv. at passe ved siden af at være vektor. Dette vil sige skulle have brug for en pause engang i mellem så er det i orden man skal bare informere sin KABS </p>
 
 <p> 
