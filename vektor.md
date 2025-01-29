@@ -9,14 +9,14 @@ title: Vektor
 </div>
 
 <p>
-	Som vektor kommer du til at være en del af to hold: et retningshold og et tværhold. Retningsholdet består af vektorer, der er vektor for samme retning som dig, mens tværholdet består af vektorer fra forskellige retningshold. Disse hold er dem, du skal samarbejde med igennem din vektorperiode. På tværholdet står i for at planlægge og afholde introdagen/e. På retningsholdet står I for at planlægge velkomstdagen for de nye studerende på retningen, samt andre sociale og retningsrelaterede arrangementer, som for eksempel: studiecaféer, biografture mm. - dette beslutter i jer for sammen som vektorhold.
+	Som vektor kommer du til at være en del af to hold: et retningshold og et tværhold. Retningsholdet består af vektorer, der er vektor for samme retning som dig, mens tværholdet består af vektorer fra forskellige retningshold. Disse hold er dem, du skal samarbejde med igennem din vektorperiode. På tværholdet står i for at planlægge og afholde introdagen/e. På retningsholdet står I for at planlægge velkomstdagen for de nye studerende på retningen, samt andre sociale og retningsrelaterede arrangementer, som for eksempel: studiecaféer, biografture mm. - dette beslutter I sammen som vektorhold.
 	<!-- GE er også blandet
 	Er man vektor for General Engineering kan ens retningshold og tværhold være det samme - vil du gerne vide mere om at være vektor for General Engineering,
 	se <a href="/internationale-ture.html">Internationale ture</a> -->
 </p>
 
 <p>
-	Din første officielle opgave som vektor bliver at modtage de nystartede studerende på velkomstdagen. Det er på denne dag, de nye studerende møder deres medstuderende for første gang. Ligesom du her bliver introduceret for det hold af nye studerende du skal følge gennem hele første semester - dit kagehold. Det er også på denne dag, de nye introduceres til deres studie, til campus, og generelt får deres førstehåndsintryk af DTU.
+	Din første officielle opgave som vektor bliver, at modtage de nystartede studerende på velkomstdagen. Det er på denne dag, de nye studerende møder deres medstuderende for første gang. Ligesom du her bliver introduceret for det hold af nye studerende du skal følge gennem hele første semester - dit kagehold. Det er også på denne dag, de nye introduceres til deres studie, til campus, og generelt får deres førstehåndsintryk af DTU.
 </p>
 
 <p>
