@@ -25,7 +25,7 @@ When you apply to volunteer in the studystart, we ask you to provide some person
     <li>Phone number</li>
     <li>Age</li>
     <li>Driver's license status</li>
-    <li>Which trip-type you prefer</li>
+    <li>Which team-type you prefer</li>
 </ul>
 
 <h3>Vector</h3>
