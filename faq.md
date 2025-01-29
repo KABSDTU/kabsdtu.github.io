@@ -66,11 +66,11 @@ title: FAQ
 
 <h3><b>Hvad betyder det at være vektor for en anden linje?</b></h3>
 <p>Hvis man har søgt vektor for en retning med flere ansøgere end vektorpladser, kan man få tilbudt at blive vektor for en anden linje end den man selv læser. At være vektor for en anden linje end sin egen indeholder alle de samme oplevelser, som man får ved at være vektor for sin egen linje. En fordel ved at være vektor for en anden linje er, at det giver et meget bredere netværk på DTU. Man kommer til at kende mange, man ellers ikke ville have mødt.
-Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor at man ikke læser det samme som sine russer. Er der noget retningsspecifikt man skal vide som vektor, får man informationen af den KABS der står for den pågældende retning.
+Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor at man ikke læser det samme som sine nye studerende. Er der noget retningsspecifikt man skal vide som vektor, får man informationen af den KABS der står for den pågældende retning.
 </p>
 
 <h3><b>Hvad får man ud af at være vektor?</b></h3>
-<p>Udover de mange erfaringer man får i forbindelse med at deltage i planlægningen af en studiestart med <b>rustur</b>, velkomstdag, kagemøder mm., får man også et kæmpe socialt netværk. Som vektor lærer man folk fra hele DTU at kende, og får bekendtskaber for livet.
+<p>Udover de mange erfaringer man får i forbindelse med at deltage i planlægningen af en studiestart med velkomstdag, kagemøder mm., får man også et kæmpe socialt netværk. Som vektor lærer man folk fra hele DTU at kende, og får bekendtskaber for livet.
 </p>
 
 <h3><b>Kan man tage på ferie i sommerferien?</b></h3>
@@ -87,7 +87,7 @@ Da vektorer hovedsageligt vejleder socialt og ikke fagligt, gør det ikke spor a
 
 
 <h3><b>Hvad betyder det at være online vektor?</b></h3>
-<p>Som noget nyt, har DTU online studieretninger. Hvis du bliver vektor for en studieretning, der er online, vil du stadig som vektor afholde introdagene på campus sammen med dit tværhold. Dine online russer får også tilbuddet om at komme med på denne. 
+<p>Som noget nyt, har DTU online studieretninger. Hvis du bliver vektor for en studieretning, der er online, vil du stadig som vektor afholde introdagene på campus sammen med dit tværhold. Dine nye studerende online får også tilbuddet om at komme med på denne. 
 De kagemøder du skal holde med retningsrusserne hver uge i deres første semester, afvikles online. 
 Alt undtagen velkomstdagen og kagemøderne er altså fysisk, ligesom et 'almindeligt' vektorforløb.
 </p>
