@@ -27,14 +27,14 @@ body {
 
 article {
   position: relative;
-  top: 1em;
+  top: 2em;
   width: 600px;
   left: 300px;
   padding: 2em;
   z-index: 10;
   margin-bottom: 2em;
   background-color: var(--article-color);
-  line-height: 1.5;
+  line-height: 1.0;
 }
 
 h1,
