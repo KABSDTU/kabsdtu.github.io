@@ -230,6 +230,7 @@ a:hover .new {
 */
 
 footer {
+  margin-top: 20px;
   pointer-events: none;
   position: fixed;
   width: 250px;
