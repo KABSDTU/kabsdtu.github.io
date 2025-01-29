@@ -8,7 +8,8 @@ title: Vektor
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/vektorer2.jpg');">
 </div>
 
-<p><a href="https://www.facebook.com/www.pf.dk"></a>Billede: Facebook.com/www.pf.dk</p>
+<p><a href="https://www.facebook.com/www.pf.dk">Billede:<img src="Facebook.com/www.pf.dk" alt="Facebook"></a></p>
+
 
 <p>
 	Som vektor kommer du til at være en del af to hold: et retningshold og et tværhold. Retningsholdet består af vektorer, der er vektor for samme retning som dig, mens tværholdet består af vektorer fra forskellige retningshold. Disse hold er dem, du skal samarbejde med igennem din vektorperiode. På tværholdet står i for at planlægge og afholde introdagen/e. På retningsholdet står I for at planlægge velkomstdagen for de nye studerende på retningen, samt andre sociale og retningsrelaterede arrangementer, som for eksempel: studiecaféer, biografture mm. - dette beslutter I sammen som vektorhold.
