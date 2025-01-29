@@ -1,6 +1,6 @@
 ---
 layout: en
-title: International trip
+title: English speaking teams
 ---
 
 <h1>International trip</h1>
