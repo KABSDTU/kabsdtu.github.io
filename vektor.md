@@ -8,7 +8,7 @@ title: Vektor
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/vektorer2.jpg');">
 </div>
 
-<p><a href="https://www.facebook.com/www.pf.dk">Billede:<img alt="Facebook.com/www.pf.dk"></a></p>
+<p><a href="https://www.facebook.com/www.pf.dk">Facebook.com/www.pf.dk</a></p>
 
 
 <p>
