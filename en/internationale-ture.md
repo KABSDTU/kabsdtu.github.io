@@ -9,7 +9,7 @@ title: English speaking teams
 <p> Picture: DTU </p>
 
 <p>
-In PF and KABS, we do everything we can to include everyone, even if you aren’t necessarily Danish-speaking, or if you start on the international studyline <em>General Engineering</em> (abbreviated GE). Therefore, there is a chance to go on an international introday trip - the so-called <em>Mixed Team</em>. On this type of trip, the organizers (KABS, vectors and bums) will only speak English, and Russes are strongly encouraged to do the same, as this greatly helps the feeling of community on the trip. Apart from the spoken language, this type of trip functions largely like the other rustrips that are most often held.
+In PF and KABS, we do everything we can to include everyone, even if you aren’t necessarily Danish-speaking, or if you start on the international studyline <em>General Engineering</em> (abbreviated GE). Therefore, there is a chance to go on an international introday trip - the so-called <em>Mixed Team</em>. On this type of trip, the organizers (KABS, vectors and Chefs) will only speak English, and Russes are strongly encouraged to do the same, as this greatly helps the feeling of community on the trip. Apart from the spoken language, this type of trip functions largely like the other rustrips that are most often held.
 </p>
 
 
