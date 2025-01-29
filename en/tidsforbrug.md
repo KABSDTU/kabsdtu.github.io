@@ -4,7 +4,7 @@ title: Time consumption
 ---
 <h1>Time spent on being a vector</h1>
 
-<div id="poster-image" style="height: 335px; background-image: url('/static/img/bildekabs1.jpg.gif');">
+<div id="poster-image" style="height: 335px; background-image: url('/static/img/billedekabs1.jpg');">
 </div>
 
 <p>Being a vector takes some time, and some periods will be more time consuming than others.</p>
