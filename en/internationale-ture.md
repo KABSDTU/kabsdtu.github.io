@@ -3,7 +3,7 @@ layout: en
 title: English speaking teams
 ---
 
-<h1>International trip</h1>
+<h1>English speaking teams</h1>
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/gekabs.jpg');">
 </div> 
 <p> Picture: DTU </p>
