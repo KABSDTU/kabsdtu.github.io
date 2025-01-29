@@ -63,12 +63,12 @@ In short that means, that PF stores your personal data confidentially.
 
 <h3>Insight in data</h3>
 <p>
-Should you wish to know what data we have registered about you, in our member database, you can contact us via kabs@pf.dk. As we take good care of your data, you will be asked to identify yourself, before we disclose any data.
+Should you wish to know what data we have registered about you, in our member database, you can contact our GDPR responsible; Baldur@kabs.pf.dk, or the organisations GDPR responsible at GDPR@pf.dk. As we take good care of your data, you will be asked to identify yourself, before we disclose any data.
 </p>
 
 <h3>Updating data</h3>
 <p>
-If the information we have on you is incorrect, if you move, get a new e-mail or the like, you can always request the data be updated by contacting us via kabs@pf.dk.
+If the information we have on you is incorrect, if you move, get a new e-mail or the like, you can always request the data be updated by contacting our GDPR responsible; Baldur@kabs.dk or kabs@pf.dk.
 </p>
 
 <h3>Data lifetime</h3>
@@ -79,13 +79,13 @@ In this case we will possibly contact you to offer you the position, and the dat
 
 <h3>Who can access my data?</h3>
 <p>
-In most cases it is only KABS (Coorinators of the Bachelor Studystart), the board of PF, and PF employees, who have permission to access the data. In some cases this will be different, and if such it will be clear from the application which additional parties can
-access your data. An example of this is if you apply as a cabin bum, where your data will also be visible to the vectors from the trips you apply to.
+In most cases it is only KABS (Coorinators of the Bachelor Studystart), the board of PF, PF employees and DTU, who have permission to access the data. In some cases this will be different, and if such it will be clear from the application which additional parties can access your data. An example of this is if you apply as a cabin bum, where your data will also be visible to the vectors from the trips you apply to.
 </p>
 
 <h3>Deleting data</h3>
 <p>
-Should you wish to be deleted entirely from our database, please contact us via kabs@pf.dk. Subsequently all personal data we have on you, will be erased.
+Should you wish to be deleted entirely from our database, please contact our GDPR responsible Baldur@kabs.pf.dk, or the organisations GDPR responsible at GDPR@pf.dk. Subsequently all personal data we have on you, will be erased.
 </p>
 
 <p><i>Translated by Anton Thestrup Jørgensen (KABS for C. Software Technology 2021) February 4, 2021</i></p>
+<p><i>Updated by Baldur G. Toftegaard (KABS for PROMO 2025) Februar 29, 2025</i></p>
