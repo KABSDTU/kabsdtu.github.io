@@ -8,7 +8,8 @@ title: vector
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/vektorer2.jpg');">
 </div>
 
-<p><a href="https://www.facebook.com/www.pf.dk">Image:<img src="Facebook.com/www.pf.dk" alt="Facebook"></a></p>
+<p><a href="https://www.facebook.com/www.pf.dk">Bildede: Facebook.com/www.pf.dk</a></p>
+
 
 <p>
 As a vector, you will be part of two teams: a studyline team and a cross team. The studyline team consists of vectors that are a vector for the same studyline as you, while the cross team consists of vectors from different studylines. These teams are the ones you will be working with throughout your vector period. On the cross team, you are responsible for planning the introdays. On the studyline team, you are responsible for planning the Welcome Day for the new students on the same studyline, as well as other social and study line-related events, such as study cafés, cinema trips etc. - you decide this together as a vector team.
