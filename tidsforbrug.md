@@ -8,7 +8,8 @@ title: Tidsforbrug
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/billedekabs1.jpg');">
 </div>
 
-<p> Som vektor kommer man til at bruge noget tid på forberedelse som er ture, uddannelse, osv. Nogle tidsperioder kommer til at være mere tidskrævende end andre. Det skal dog siges at der er stor forståelse for både fra KABS og PF's side at man er frivillig og at man derfor også har studie, arbejde, osv. at passe ved siden af at være vektor. Dette vil sige skulle have brug for en pause engang i mellem så er det i orden man skal bare informere sin KABS </p>
+<p> Billede: DTU
+  Som vektor kommer man til at bruge noget tid på forberedelse som er ture, uddannelse, osv. Nogle tidsperioder kommer til at være mere tidskrævende end andre. Det skal dog siges at der er stor forståelse for både fra KABS og PF's side at man er frivillig og at man derfor også har studie, arbejde, osv. at passe ved siden af at være vektor. Dette vil sige skulle have brug for en pause engang i mellem så er det i orden man skal bare informere sin KABS </p>
 
 <p> 
 I det store hele skal man regne med et aftenmøde om ugen, og en større indsats ved kostumesyning til OPtur, som vil ligge i påsken. I slutningen af august ligger introdagene, som man også ligger en del arbejde i. Inden introdagene ligger to forberedelsesture, hvilket er noget man selv fastlægger på tværholdet og retningsholdet.
