@@ -9,7 +9,7 @@ title: FAQ
 <br/>
 
 <h3><b>Hvor meget tid i dagligdagen tager det at være vektor?</b></h3>
-<p>Som standard skal du møde op til et ugentligt vektormøde - hvilken dag på ugen det ligger, bliver besluttet indbyrdes på de enkelte vektorhold. Du skal også forvente at bruge lidt tid uden for møderne, da der vil være opgaver du vil påtage dig.
+<p>Som standard skal du møde op til et ugentligt vektormøde - hvilken dag på ugen det ligger, bliver besluttet indbyrdes på de enkelte vektorhold.Dog vil dette ofte være mandag, tirsdag eller onsdag. Du skal også forvente at bruge lidt tid uden for møderne, da der vil være opgaver du vil påtage dig.
 </p>
 
 <h3><b>Hvilke datoer er vigtige at sætte af til at være vektor?</b></h3>
