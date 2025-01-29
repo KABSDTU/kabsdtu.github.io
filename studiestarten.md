@@ -6,7 +6,7 @@ title: Studiestarten
 
 
 <p>
-    I studiestarten ansættes lige under 300 vektorer fordelt på omkring 20-30 tværhold på sommerstudiestarten, som sammen tager imod de nye studerende, der starter i slutningen af august. Dette koordineres af de i alt {{layout.numOfKABS}} KABS, der står for uddannelsesdage, OPtur, og meget andet for vektorene i forbindelse med studiestarten. <br> 
+    I studiestarten ansættes lige under 300 vektorer fordelt på omkring 20 tværhold på sommerstudiestarten, som sammen tager imod de nye studerende, der starter i slutningen af august. Dette koordineres af de i alt {{layout.numOfKABS}} KABS, der står for uddannelsesdage, OPtur, og meget andet for vektorene i forbindelse med studiestarten. <br> 
     KABS, vektorer og hyttetursbumser skaber i fællesskab den bedst mulige  studiestart for de kommende studerende <br>
 
 </p>
