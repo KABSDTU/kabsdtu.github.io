@@ -2,7 +2,7 @@
 layout: en
 title: Time consumption
 ---
-<h1>Time spent on being a vector</h1>
+<h1>Time consumption as a vector</h1>
 
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/billedekabs1.jpg');">
 </div>
