@@ -5,8 +5,8 @@ title: KABS
 
 <h1>KABS</h1>
 
-<p> KABS står for Koordinator af Bachelor Studiestarten. Der er {{layout.numOfKABS}} KABS. 
-Hver har en eller flere studieretninger de er koordinator for. <b>
+<p> KABS står for Koordinator af Bachelor Studiestarten. Der er {{layout.numOfKABS}} KABS i år. 
+Hver har én eller flere studieretninger, som de er koordinator for. <b>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk .</p> </b>
 
 
