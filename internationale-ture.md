@@ -6,7 +6,7 @@ title: Internationale ture
 <h1>Engelsktalende hold</h1>
 
 <p>
-I PF og KABS gør vi alt vi kan for at inkludere alle, selvom man ikke nødvendigvis er dansktalende, eller starter på den internationale studieretning <em> General Engineering </em> (Forkortet GE). Derfor er der i studiestarten mulighed for at komme med på introdagene på engelsk- det såkaldte <em>Mixed Team</em>. På denne type tur vil arrangørerne (KABS og vektorer) kun tale engelsk, og russerne bliver stærkt opfordret til at gøre det samme, da dette hjælper meget på fællesskabet på turen.
+I PF og KABS gør vi alt vi kan for at inkludere alle, selvom man ikke nødvendigvis er dansktalende, eller starter på den internationale studieretning <em> General Engineering </em> (Forkortet GE). Derfor er der i studiestarten mulighed for at komme med på introdagene på engelsk- det såkaldte <em>Mixed Team</em>. På denne type tur vil arrangørerne (KABS og vektorer) kun tale engelsk, og de nye studerende bliver stærkt opfordret til at gøre det samme, da dette hjælper meget på fællesskabet på turen.
 </p>
 
 <!-- OLD (2022 and 2025)
