@@ -25,7 +25,7 @@ Når du søger om en frivilig post i studiestarten, beder vi dig om at sende nog
     <li>Telefonnumer</li>
     <li>Alder</li>
     <li>Om du har kørekort</li>
-    <li>Hvilken tur-type, som fortrækkes</li>
+    <li>Hvilken hold-type, som fortrækkes</li>
 </ul>
 
 <h3>Vektor</h3>
