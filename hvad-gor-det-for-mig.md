@@ -5,6 +5,7 @@ title: Hvad får jeg ud af det?
 <h1>Hvad får <i>jeg</i> ud af det?</h1>
 <div id="poster-image" style="height: 335px; background-image: url('/static/img/vektorbillede1.jpg');">
 </div>
+
 <p> Billede: DTU </p>
 <p> 
 	Det at være vektor giver rigtigt meget på flere forskellige måder.
