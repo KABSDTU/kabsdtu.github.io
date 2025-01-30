@@ -21,6 +21,7 @@ body {
   min-height: 100%;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
   padding-bottom: 2em;
+  padding-left: 30em;
   position: absolute;
   left: calc(50% - 510px);
 }
