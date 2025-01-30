@@ -22,7 +22,7 @@ body {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
   padding-bottom: 2em;
   position: absolute;
-  left: calc(80% - 510px);
+  left: calc(50% - 510px);
 }
 
 article {
