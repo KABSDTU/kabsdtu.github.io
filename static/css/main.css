@@ -420,3 +420,7 @@ li{
   /*max-height: 370px;*/
   box-sizing: border-box;
 }
+
+center{
+  text-align: center;
+}
