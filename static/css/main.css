@@ -209,7 +209,7 @@ a:hover .new {
 }
 
 #poster-image blockquote p {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 1);
   padding: 20px;
   font-size: 2em;
   font-style: italic;
