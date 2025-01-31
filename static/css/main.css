@@ -1,7 +1,7 @@
 :root {
   --article-color: rgba(255, 239, 247, 0.8); 
   --nav-color: rgba(46, 187, 46, 0.9);
-  --cdwn-color: rgba(0, 0, 0, 0.9);
+  --cdwn-color: rgba(0, 0, 0, 0.39);
 }
 
 body {
