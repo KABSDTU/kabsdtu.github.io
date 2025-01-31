@@ -3,7 +3,7 @@ layout: default
 title: Hyttebums
 ---
 
-<div id="poster-image" style="height: 500px; background-image: url('/static/img/Fake_NomCat_KABS24.gif');">
+<div id="poster-image" style="height: 500px; background-image: url('/static/img/finallygoodfood.jpg');">
 </div>
 
 <h1>Hyttebums</h1>

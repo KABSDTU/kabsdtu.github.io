@@ -9,24 +9,24 @@ title: Alle ture
     <h3 class="SGh3">1-dags introdag</h3>
     <ul class="df">
     <li> Denne dag kommer til at foregå på det campus dit kagehold kommer fra. Det vil så vidt muligt være med så mange for kageholdets retning som muligt. </li>
-    <li> Det vil også være muligt at vælge denne engelsktalene </li>
+    <li> Det vil også være muligt at vælge denne engelsktalende </li>
     </ul>
 </div>
 
 <div class="box">
     <h3 class="SGh3">2-dags introdage</h3>
     <ul class="df">
-    <li> Disse dage kommer til at kunne være på både Lyngby og Ballerup campus. Man skal starte og aflsutte dagen på campus. </li>
+    <li> Disse dage kommer til at kunne være på både Lyngby og Ballerup campus. Man skal starte og afslutte dagen på campus. </li>
+    <li> Det vil også være muligt at vælge denne engelsktalende </li>
     </ul>
-    <li> Det vil også være muligt at vælge denne engelsktalene </li>
 </div>
 
 <div class="box">
-    <h3 class="SGh3">3-dag</h3>
+    <h3 class="SGh3">3-dag introdage</h3>
     <ul class="df">
-    <li>Disse dage kommer til at kunne være på både Lyngby og Ballerup campus. Man skal starte og aflsutte dagen på campus.</li>
+    <li>Disse dage kommer til at kunne være på både Lyngby og Ballerup campus. Man skal starte og afslutte dagen på campus.</li>
+    <li> Det vil også være muligt at vælge denne engelsktalende </li>
     </ul>
-    <li> Det vil også være muligt at vælge denne engelsktalene </li>
 </div>
 
 

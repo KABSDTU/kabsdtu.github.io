@@ -3,19 +3,24 @@ layout: default
 title: Internationale ture
 ---
 
-<h1>Internationale ture - Engelsktalende tur</h1>
-<h2><b><i>Gælder kun sommerstarten!</i></b></h2>
+<h1>Engelsktalende hold</h1>
+<div id="poster-image" style="height: 335px; background-image: url('/static/img/gekabs.jpg');">
+</div>  
 <p>
-I PF og KABS gør vi alt vi kan for at inkludere alle, selvom man ikke nødvendigvis er dansktalende, eller starter på den internationale studieretning <em> General Engineering </em> (Forkortet GE). Derfor er der i studiestarten mulighed for at komme på en international studietur - det såkaldte <em>Mixed Trip</em>. På denne type tur vil arrangørerne (KABS, vektorer og bumser) kun tale engelsk, og russerne bliver stærkt opfordret til at gøre det samme, da dette hjælper meget på fællesskabet på turen. Udover det talte sprog fungerer denne type tur stort set som de andre tværfaglige <b>rusture</b>, der oftest afholdes.
+Billede: DTU
+</p>
+<p>
+I PF og KABS gør vi alt vi kan for at inkludere alle, selvom man ikke nødvendigvis er dansktalende, eller starter på den internationale studieretning <em> General Engineering </em> (Forkortet GE). Derfor er der i studiestarten mulighed for at komme med på introdagene på engelsk- det såkaldte <em>Mixed Team</em>. På denne type tur vil arrangørerne (KABS og vektorer) kun tale engelsk, og de nye studerende bliver stærkt opfordret til at gøre det samme, da dette hjælper meget på fællesskabet på turen.
 </p>
 
+<!-- OLD (2022 and 2025)
 <h2>Mixed trip</h2>
 <p>
-På et Mixed Trip bliver der lavet et hold af russer fra <em>GE</em>, og folk fra andre studier der har valgt at sige ja til at tage på en engelsktalende tur. Mixed trip har til formål at blande mennesker med forskellig baggrund, og tillade at ikke-dansktalende russer møder russer fra andre studier og vice versa. Størrelsen på disse ture er ikke fastlagt på nuværende tidspunkt, og antallet af vektorer og bumser kan derfor ikke angives. Vektorerne på Mixed Trip-ture er også fra både <em>GE</em> og andre studieretninger. <br><br>
+På et Mixed Trip bliver der lavet et hold af russer fra <em>GE</em>, og folk fra andre studier der har valgt at sige ja til at tage på en engelsktalende tur. Mixed trip har til formål at blande mennesker med forskellig baggrund, og tillade at ikke-dansktalende russer møder russer fra andre studier og vice versa. Størrelsen på disse ture er ikke fastlagt på nuværende tidspunkt, og antallet af vektorer kan derfor ikke angives. Vektorerne på Mixed Trip-ture er fra både <em>GE</em> og andre studieretninger. <br><br>
 Det første Mixed Trip blev afholdt i 2019.
 </p>
 
-<!-- OLD (2022)
+
 <p>
 I PF og KABS gør vi alt for at inkuderer alle, selvom man nødvendigvis ikke er dansktalende og starter på vores internationale studie <em>General Engineering (GE)</em>, derfor er der i PF-studiestarten mulighed for at komme på en international studietur. Denne tur er den såkaldte <em>Mixed Trip</em>. På turen vil arrangørerne (KABS, vektorer, bumser) kun snakke engelsk, og russerne er stærkt opfordret til at gøre det samme, da det hjælper meget med fællesskabet på turen. Udover dette fungerer turen meget som de andre tværfaglig rusture, som oftest bliver afholdt på DTU.
 </p>

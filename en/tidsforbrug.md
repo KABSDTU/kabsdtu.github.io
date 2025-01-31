@@ -2,17 +2,16 @@
 layout: en
 title: Time consumption
 ---
-<h1>Time spent on being a vector</h1>
+<h1>Time consumption as a vector</h1>
 
-<div id="poster-image" style="height: 335px; background-image: url('/static/img/tidsforbrugSommer23.gif');">
+<div id="poster-image" style="height: 335px; background-image: url('/static/img/billedekabs1.jpg');">
 </div>
 
 <p>Being a vector takes some time, and some periods will be more time consuming than others.</p>
 
-<p>If you apply as a vector, there will be an interview with the KABS that is responsible for the study programme you applied for.</p> 
 
 <p>
-If you are interested in being a vector, there will be an employment interview with the KABS responsible for the studyline you’ve applied to. You have to count on having one meeting a week, and some effort in costume sewing for OPtur on Easter break. The infodays will be in the end of August, and before then there's preparation trips, which you plan yourself with the rest of your vector teams.
+If you are interested in being a vector, there will be an employment interview with the KABS responsible for the studyline you’ve applied to. You have to count on having one meeting a week, and some effort in costume sewing for OPtur on Easter break. The introdays will be in the end of August, and before then there's preparation trips, which you plan yourself with the rest of your vector teams.
 </p>
 
 <p>
@@ -24,10 +23,10 @@ If you are interested in being a vector, there will be an employment interview w
 <li>The first vector-meeting (15th of February after 05:00 pm)	</li>
 <li>The first education day (10th of March)				        </li>
 <li>OpTur (22nd - 26th of March)					    </li>
-<li>First aid course (will be one day in june. There will be multiple days to choose from)           </li>
+<li>First aid course (will be one day in June. There will be multiple days to choose from)           </li>
 <li>The second education day (14th of April)				    </li>
-<li>Welcome Day (28th of August)						        </li>
-<li>Rustrip (29th - 31th of August)							    </li>
+<li>Welcome Day (29th of August)						        </li>
+<li>Introday/s (30th - 31th of August)							    </li>
 
 
 

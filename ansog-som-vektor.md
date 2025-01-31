@@ -2,32 +2,25 @@
 layout: default
 title: Ansøg som Vektor
 ---
-<h1 id="titel">Ansøgningen til Vektor '23 er lukket! </h1>
+<h1 id="titel">Ansøgningen til Vektor '25! </h1>
 
-<div id="poster-image" style="margin: auto; width: 530px; height: 800px; background-image: url('/static/img/ansognuSommerDa23.png');">
+<div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
-<p id ="n">Ansøgningen er til Vektor '23 er lukket for nu. </p>
-<p id ="nn">Vi ses snart.</p>
-<br />
+
+<p>
+	<br/>
+  	<a style="text-align: center;">
+  	<a href="https://forms.gle/RbAEkbadRTaW6dCQA" target="_blank">
+	<button class="applyBtn">Ansøg nu! </button></a>
 
 
-Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
+<h1 style="text-align: center;">Vil du gerne være vektor, så tryk på knappen ovenover!</h1>
 
-<script>
+<p style="text-align: center;"> Hvis du har nogle spørgsmål, kig her: <a href="/vektor">Vektor</a>
 
-  function showVectorApplication() {
-    var div = document.getElementById("n")
-    var n = document.getElementById("nn")
-    var titel = document.getElementById("titel")
-    titel.innerHTML = "Ansøgningen til Vektor '24 er åben!"
-    n.remove()
-    div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LpwLmtV32kJUd5sL9"><button class="applyBtn">Ansøg nu!</button></a><br />'
-  }
 
-  var deadline = new Date("February 11, 2024 00:00:01");
-  if (deadline > new Date) {
-    showVectorApplication()
-  }
-    
-</script>
+
+<!--   Add this efter n.remove() in script once the link to applications open
+div.innerHTML = '<br / ><a style="text-align: center;"href="https://docs.google.com/forms/d/e/1FAIpQLSd_wGM2P4LsQfe_a1YR8TYIhOQ1Ens3eHC6JateUD_RJiPzqA/viewform?usp=sf_link"><button class="applyBtn">Ansøg nu!</button></a><br />' 
+-->

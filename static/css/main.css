@@ -1,11 +1,11 @@
 :root {
-  --article-color: rgba(255, 254, 247, 0.92);
-  --nav-color: rgba(205, 203, 193, 0.92);
-  --cdwn-color: rgba(0, 0, 0, 0.5);
+  --article-color: rgba(255, 239, 247, 0.8); 
+  --nav-color: rgba(46, 187, 46, 0.9);
+  --cdwn-color: rgba(0, 0, 0, 0.9);
 }
 
 body {
-  background-color:rgb(207, 174, 103);
+  background-color:rgb(220, 253, 158);
 }
 
 #container {
@@ -34,7 +34,7 @@ article {
   z-index: 10;
   margin-bottom: 2em;
   background-color: var(--article-color);
-  line-height: 1.5;
+  line-height: 1.0;
 }
 
 h1,
@@ -47,7 +47,7 @@ h4 {
 article a {
   text-decoration: none;
   font-weight: bold;
-  color: #f9e209;
+  color: #211e1f;
 }
 
 /*
@@ -89,21 +89,22 @@ nav ul {
 
 nav ul li a {
   display: block;
-  font-size: 1.3em;
-  padding-top: 0.3em;
-  padding-bottom: 0.3em;
-  color: #ffffff;
+  font-size: 0.9em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  font-weight: 600;
+  color: #000000;
   text-decoration: none;
   transition: background-color 0.25s;
 }
 
 nav ul li ul li a {
   padding-left: 3em;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 nav ul li a:hover {
-  background-color: rgb(246, 225, 186);
+  background-color: rgb(46, 187, 46);
   color: rgb(118, 114, 112);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
@@ -111,10 +112,10 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 180px;
-  background-image: url("/static/img/FakeLogo_KABS24.png");
+  background-image: url("/static/img/KABS_25_Logo.png");
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 15%;
+  margin-left: 10%;
   text-align: center;
 }
 
@@ -229,15 +230,18 @@ a:hover .new {
 */
 
 footer {
+  margin-top: 20px;
+  pointer-events: none;
   position: fixed;
   width: 250px;
   height: 50px;
   bottom: 0;
   background-image: url("/static/img/pfDtu.png");
+  transform: scale(1.5);
   background-size: contain;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   
 }
 
@@ -256,7 +260,7 @@ Form
   font-size: 2.5em;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: #d42828;
+  background-color: rgb(46, 187, 46);
 }
 
 input,
@@ -412,7 +416,7 @@ li{
   /*height: 100vh;*/
   padding: 1% 2%;
   margin: 0px 25px 25px 0px;
-  background: rgba(166, 161, 159, 0.761);
+  background: rgba(255, 255, 255);
   min-height: 200px;
   /*max-height: 370px;*/
   box-sizing: border-box;
