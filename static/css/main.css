@@ -41,7 +41,7 @@ article {
   z-index: 10;
   margin-bottom: 2em;
   background-color: var(--article-color);
-  line-height: 1.5;
+  line-height: 1.0;
 }
 
 h1,
