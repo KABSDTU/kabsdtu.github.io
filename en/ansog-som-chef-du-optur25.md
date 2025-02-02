@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: en
 title: Ansøg som OPtursbums
 ---
 <h1>Ansøgningen til chef du OPtur25.</h1>
