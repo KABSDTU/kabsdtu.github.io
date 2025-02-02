@@ -1,22 +1,14 @@
 :root {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  --article-color: rgba(255, 239, 247, 0.8); 
-  --nav-color: rgba(46, 187, 46, 0.9);
-  --cdwn-color: rgba(0, 0, 0, 0.39);
-=======
-=======
->>>>>>> Stashed changes
+
   --article-color: rgba(255, 255, 255, 0.9);
   --nav-color: rgba(46, 187, 46, 0.92);
+  --nav-text-color: white;
   --cdwn-color: rgba(92, 92, 92, 0.5);
   --background-image: url("/static/img/KABS_25_Bakground.png");
   --background-color: rgb(220, 253, 158);
   --kabs-logo: url("/static/img/KABS_25_Logo.png");
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+  
 }
 
 body {
@@ -27,18 +19,8 @@ body {
   margin: auto;
   top: 0;
   font-family: "Droid", sans-serif;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  color: #131313;
-  background-image: url("/static/img/KABS_25_Bakground.png");
-=======
   color: #000000;
   background-image: var(--background-image);
->>>>>>> Stashed changes
-=======
-  color: #000000;
-  background-image: var(--background-image);
->>>>>>> Stashed changes
   background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
@@ -119,7 +101,7 @@ nav ul li a {
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   font-weight: 600;
-  color: #000000;
+  color: var(--nav-text-color);
   text-decoration: none;
   transition: background-color 0.25s;
 }
@@ -131,7 +113,7 @@ nav ul li ul li a {
 
 nav ul li a:hover {
   background-color: rgb(46, 187, 46);
-  color: rgb(0, 0, 0);
+  color: var(--nav-text-color);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
 
