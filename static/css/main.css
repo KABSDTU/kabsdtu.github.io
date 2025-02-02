@@ -1,38 +1,37 @@
+/* Hey, if you add code, add a comment !!! - Kind regards KABS25 :^D */
+
 :root {
-
-  --article-color: rgba(255, 255, 255, 0.9);
-  --nav-color: rgba(46, 187, 46, 0.92);
-  --nav-text-color: white;
-  --cdwn-color: rgba(92, 92, 92, 0.5);
-  --background-image: url("/static/img/KABS_25_Bakground.png");
-  --background-color: rgb(220, 253, 158);
-  --kabs-logo: url("/static/img/KABS_25_Logo.png");
-
-  
+  --article-color: rgba(255, 255, 255, 0.9);                                 /* The background color behind the (article) text shown when you click on the different items in the menu */
+  --nav-color: rgba(46, 187, 46, 0.92);                                      /* The background color behind the KABS logo an the menu */
+  --nav-text-color: white;                                                   /* The color of the text in the menu below the KABS logo */
+  --cdwn-color: rgba(92, 92, 92, 0.5);                                       /* The background color of the countdown timer */
+  --background-image: url("/static/img/KABS_25_Bakground.png");              /* Defining the background image of the main container  */
+  --background-color: rgb(220, 253, 158);                                    /* Defining the background color of the main container */
+  --kabs-logo: url("/static/img/KABS_25_Logo.png");                          /* Defining the KABS logo displayed at the top of the color band */ 
 }
 
 body {
-  background-color:var(--background-color);
+  background-color:var(--background-color);                                  /* Setting the background color of the main container */
 }
 
-#container {
+#container {                                                                 /* The main container, everything else on the page is placed inside of this container */
   margin: auto;
-  top: 0;
-  font-family: "Droid", sans-serif;
-  color: #000000;
-  background-image: var(--background-image);
-  background-size: auto 100%;
-  background-position: top;
+  top: 0;                                                                    /* Places the top of the container to the top of the page */
+  font-family: "Droid", sans-serif;                                          /* The font used for the text on the page */
+  color: #000000;                                                            /* The color of text written in the articles */
+  background-image: var(--background-image);                                 /* Setting the background image (the one with multiple KABS logos) */
+  background-size: auto 100%;                                                /* Scalling of the background image, if the image is not big enoug it will repeat */
+  background-position: top;                                                  /* Placing the oregin of the background image */
   background-attachment: fixed;
-  width: 1020px;
+  width: 1020px;                                                             /* The with of the main container */
   min-height: 100%;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
-  padding-bottom: 2em;
-  position: absolute;
-  left: calc(50% - 510px);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);                                   /* Shadow placed behind the container, the RGB-value determins the color, and the alpha value sets how intens the shadow is */
+  padding-bottom: 2em;                                                       /* Padding added to the bottom of the container, this ensures that when you scrowl all the down there is a space between the bottom of the page and the article */
+  position: absolute;                                                        /* Stops the element from changing the position of other elements, and other elements changing the position of itself */
+  left: calc(50% - 510px);                                                   /* The left-right position of the main container, the value given places the container in the center of the page with some empty space on the sides */
 }
 
-article {
+article {                                                                    /* Article is the part where you can read the information, vektor, KABS, Study start etc. */
   position: relative;
   top: 2em;
   width: 600px;
@@ -75,12 +74,12 @@ header a {
  Header
 */
 
-.header-container {
+.header-container {                                                          /* Header is the section on the side containing the main KABS logo, color band and menu */
   position: fixed;
-  width: 250px;
-  height: 100%;
-  background-color: var(--nav-color);
-  text-align: left;
+  width: 250px;                                                              /* Set the width of the colord band in pixels */  
+  height: 90%;                                                              /* Set The hight of the band to be the total hight of the page */
+  background-color: var(--nav-color);                                        /* Seting the color of the band */
+  text-align: left;                                                          /* Make the text in the container (menu) left oriented */
 }
 
 nav ul li a,
