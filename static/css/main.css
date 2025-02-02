@@ -1,39 +1,36 @@
+
+Hey, if you add code, add a comment !!! - Kind regards KABS25 :^D
+
+
 :root {
-
-  --article-color: rgba(255, 255, 255, 0.9);
-  --nav-color: rgba(46, 187, 46, 0.92);
-  --nav-text-color: white;
-  --cdwn-color: rgba(92, 92, 92, 0.5);
-  --background-image: url("/static/img/KABS_25_Bakground.png");
-  --background-color: rgb(220, 253, 158);
-  --kabs-logo: url("/static/img/KABS_25_Logo.png");
-
-  
+  --article-color: rgba(255, 239, 247, 0.8);        /* The background color behind the (article) text shown when you click on the different items in the menu */
+  --nav-color: rgba(46, 187, 46, 0.9);              /* The background color behind the KABS logo an the menu */
+  --cdwn-color: rgba(0, 0, 0, 0.39);                /* The background color of the countdown timer */
 }
 
 body {
-  background-color:var(--background-color);
+  background-color:rgb(220, 253, 158);              /* The background color of the whole page (this is only visible where there is no text, color or images placed on the site) */
 }
 
-#container {
+#container {                                                             /* The main container, everything else on the page is placed inside of this container */
   margin: auto;
-  top: 0;
-  font-family: "Droid", sans-serif;
-  color: #000000;
-  background-image: var(--background-image);
-  background-size: auto 100%;
-  background-position: top;
-  background-attachment: fixed;
+  top: 0;                                                                /* Places the top of the container to the top of the page */
+  font-family: "Droid", sans-serif;                                      /* The font used for the text on the page */
+  color: #131313;                                                        /* The color of text written in the articles */
+  background-image: url("/static/img/KABS_25_Bakground.png");            /* The background image (the one with multiple KABS logos)  */
+  background-size: auto 100%;                                            /* Scalling of the background image, if the image is not big enoug it will repeat */
+  background-position: top;                                              /* Placing the oregin of the background image */
+  background-attachment: fixed;|                                         /* The with of the background image */
   width: 1020px;
   min-height: 100%;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
-  padding-bottom: 2em;
-  position: absolute;
-  left: calc(50% - 510px);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);                              /* Shadow placed behind the container, the RGB-value determins the color, and the alpha value sets how intens the shadow is */
+  padding-bottom: 2em;                                                  /* Padding added to the bottom of the container, this ensures that when you scrowl all the down there is a space between the bottom of the page and the article */
+  position: absolute;                                                   /* Stops the element from changing the position of other elements, and other elements changing the position of itself */
+  left: calc(50% - 510px);                                              /* The left-right position of the main container, the value given places the container in the center of the page with some empty padding on the sides */
 }
 
-article {
-  position: relative;
+article {                                                               /* Article is the part where you can read the information, vektor, KABS, Study start etc. */
+  position: relative;                                                   /*  */
   top: 2em;
   width: 600px;
   left: 300px;
@@ -41,7 +38,7 @@ article {
   z-index: 10;
   margin-bottom: 2em;
   background-color: var(--article-color);
-  line-height: 1.5;
+  line-height: 1.0;
 }
 
 h1,
@@ -75,12 +72,12 @@ header a {
  Header
 */
 
-.header-container {
+.header-container {                                                      /* Header is the section on the side containing the main KABS logo, color band and menu */
   position: fixed;
-  width: 250px;
-  height: 100%;
-  background-color: var(--nav-color);
-  text-align: left;
+  width: 250px;                                                          /* Set the width of the colord band in pixels */
+  height: 100%;                                                          /* Set The hight of the band to be the total hight of the page */ 
+  background-color: var(--nav-color);                                    /* Seting the color of the band */
+  text-align: left;                                                      /*  */
 }
 
 nav ul li a,
@@ -90,37 +87,36 @@ nav ul li a,
 }
 
 nav ul {
-  list-style: none;
   margin: 0;
   padding: 0;
 }
 
-nav ul li a {
+nav ul li a { 
   display: block;
-  font-size: 1.0em;
+  font-size: 0.9em;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   font-weight: 600;
-  color: var(--nav-text-color);
+  color: #000000;
   text-decoration: none;
   transition: background-color 0.25s;
 }
 
 nav ul li ul li a {
   padding-left: 3em;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 nav ul li a:hover {
   background-color: rgb(46, 187, 46);
-  color: var(--nav-text-color);
+  color: rgb(0, 0, 0);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
 
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 180px;
-  background-image: var(--kabs-logo);
+  background-image: url("/static/img/KABS_25_Logo.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 10%;
@@ -238,7 +234,7 @@ a:hover .new {
 */
 
 footer {
-  margin-top: 2em;
+  margin-top: 20px;
   pointer-events: none;
   position: fixed;
   width: 250px;
@@ -326,12 +322,6 @@ td {
   text-align: left;
 }
 
-
-/* Media Queries */
-
-
-
-
 @media screen and (max-width: 1000px) {
   .header-container {
     position: static;
@@ -361,52 +351,20 @@ td {
   }
 
   footer {
-    align-items: center;
-    margin: 0 auto;
     position: static;
-    
-    
-    background-color: var(--nav-color);
-
+    width: 100%;
+    margin-bottom: 0;
   }
 
   aside {
     display: none;
   }
-
 }
 
 @media screen and (max-height: 680px) {
   header aside {
     display: none;
   }
-
-  #container {
-    display: flex;
-    flex-direction: row;
-  }
-
-  nav {
-    width: 250px;
-    flex-shrink: 0;
-  }
-
-  article {
-    width: calc(100% - 250px);
-    padding: 2em;
-  }
-
-  footer {
-    width: calc(100%);
-    margin: 0 auto;
-    align-items: center;
-    padding-left: 1em;
-    position: static;
-    margin-bottom: 2em;
-    background-color: var(--nav-color);
-  }
-
-  
 }
 
 .X{
