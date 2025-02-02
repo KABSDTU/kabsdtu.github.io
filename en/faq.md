@@ -15,11 +15,11 @@ title: FAQ
 <p>See <a href="/en/tidsforbrug.html"><u>Time consumption</u></a>.</p>
 
 <h3><b>When and where do you apply?</b></h3>
-
-<p>The vector application opens the 3 of february.</p>
 <!--
-<p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
+<p>The vector application opens the 3 of february.</p>
 -->
+<p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
+
 <h3><b>What is the structure of the new study start?</b></h3>
 <p>See <a href="/en/general-structure.html"><u>General structure</u></a>.</p>
 

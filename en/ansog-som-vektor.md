@@ -3,7 +3,7 @@ layout: en
 title: Apply as a vector
 ---
 
-<h1 id="titel">Applications for Summer Vector '24!</h1>
+<h1 id="titel">Applications for Summer Vector '25!</h1>
 
 <div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>

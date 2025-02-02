@@ -18,10 +18,11 @@ title: FAQ
 
 
 <h3><b>Hvornår og hvordan søger man?</b></h3>
-<p>Vektor ansøgningen åbner den 3 Februar. </p>
 <!--
-<p>Se <a href="/ansog-som-vektor.html"><u>Ansøg nu!</u></a>.</p>
+<p>Vektor ansøgningen åbner den 3 Februar. </p>
 -->
+<p>Se <a href="/ansog-som-vektor.html"><u>Ansøg nu!</u></a>.</p>
+
 <h3><b>Hvordan bliver strukturen i den nye studiestart?</b></h3>
 
 <p>Se <a href="./generel-struktur.html"><u>Generel struktur</u></a>.</p>
