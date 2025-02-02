@@ -1,13 +1,14 @@
 :root {
 
   --article-color: rgba(255, 255, 255, 0.9);
-  --nav-color: rgba(46, 187, 46, 0.92);
-  --nav-text-color: white;
+  
   --cdwn-color: rgba(92, 92, 92, 0.5);
   --background-image: url("/static/img/KABS_25_Bakground.png");
-  --background-color: rgb(220, 253, 158);
+  --background-color: #007ca5;
   --kabs-logo: url("/static/img/KABS_25_Logo.png");
-
+  --nav-color: rgba(250, 192, 6, 0.92);
+  --nav-text-color: white;
+  --nav-hover-color: #fac006;
   
 }
 
@@ -112,7 +113,7 @@ nav ul li ul li a {
 }
 
 nav ul li a:hover {
-  background-color: rgb(46, 187, 46);
+  background-color: var(--nav-hover-color);
   color: var(--nav-text-color);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
 }
