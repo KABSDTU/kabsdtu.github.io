@@ -4,8 +4,9 @@ title: What's in it for me?
 ---
 <h1>What's in it for me?</h1>
 
-<!-- <div id="poster-image" style="margin: auto; height: 410px; width: 410px; background-image: url('/static/img/hvadgordetformigSommer23.gif');">
-</div> -->
+<div id="poster-image" style="height: 335px; background-image: url('/static/img/vektorbillede1.jpg');">
+</div>
+<p>Picture: DTU</p>
 
 <p>There are many benefits to being a vector.</p>
 

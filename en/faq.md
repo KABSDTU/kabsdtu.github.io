@@ -15,8 +15,11 @@ title: FAQ
 <p>See <a href="/en/tidsforbrug.html"><u>Time consumption</u></a>.</p>
 
 <h3><b>When and where do you apply?</b></h3>
-<p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
 
+<p>The vector application opens the 3 of february.</p>
+<!--
+<p>See <a href="/en/ansog-som-vektor.html"><u>Apply now!</u></a>.</p>
+-->
 <h3><b>What is the structure of the new study start?</b></h3>
 <p>See <a href="/en/general-structure.html"><u>General structure</u></a>.</p>
 
@@ -84,7 +87,7 @@ If you have applied for a studyline, where there more applicants than available 
 <p>As a new concept, DTU now has online study lines. If you become a vector for an online study line, you will as a vector still host a physical introday/s with your cross team. The online russes also get the offer to attend a physical introday/s. The cake meetings which you'll have with your study line russes each week during their first semester, will be done online. Everything except the Welcome Day and the cake meetings will be physical, like a 'normal' vector period.</p>
 
 <h3><b>Do you have to be able to speak danish to be a vector?</b></h3>
-<p>No, but you will be limited to the mixed-trips if you do not.</p>
+<p>No, but you will be limited to the mixed teams if you do not.</p>
 
 <br/>
 <p>Still missing an answer to the question you have? You are always welcome to write us at <a href="https://www.facebook.com/kabsdtu/?__tn__=%2Cd%2CP-R&eid=ARCRPL6ZlJWK0Xq3uzUB-eyE69Da7zXRRCY6-XgeR3B-yfcxXdg9zG1AoV0DghCD7HBE5xC7BdWXIS1r">KABS Facebook</a> or to our mail at kabs@pf.dk and we will answer your questions. 
