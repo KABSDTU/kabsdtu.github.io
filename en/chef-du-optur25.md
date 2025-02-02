@@ -1,7 +1,6 @@
-
 ---
-layout: default
-title: Chef du OPtur i 2025
+layout: en
+title: OPtursbums 
 ---
 <h1>Chef du OPtur i 2025?</h1>
 
