@@ -365,7 +365,7 @@ td {
     align-items: center;
     margin: 0 auto;
     position: static;
-    
+    width: 100%;
     
     background-color: var(--nav-color);
 
@@ -378,34 +378,16 @@ td {
 }
 
 @media screen and (max-height: 680px) {
-  header aside {
-    display: none;
-  }
-
-  #container {
-    display: flex;
-    flex-direction: row;
-  }
-
-  nav {
-    width: 250px;
-    flex-shrink: 0;
-  }
-
-  article {
-    width: calc(100% - 250px);
-    padding: 2em;
-  }
-
+  
   footer {
-    width: calc(100%);
-    margin: 0 auto;
-    align-items: center;
-    padding-left: 1em;
-    position: static;
-    margin-bottom: 2em;
-    background-color: var(--nav-color);
+    
+    background-image: url("");
   }
+
+
+  
+  
+}
 
   
 }
