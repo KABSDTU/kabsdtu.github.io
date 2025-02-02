@@ -77,7 +77,7 @@ header a {
 .header-container {                                                          /* Header is the section on the side containing the main KABS logo, color band and menu */
   position: fixed;
   width: 250px;                                                              /* Set the width of the colord band in pixels */  
-  height: 90%;                                                              /* Set The hight of the band to be the total hight of the page */
+  height: 100%;                                                              /* Set The hight of the band to be the total hight of the page */
   background-color: var(--nav-color);                                        /* Seting the color of the band */
   text-align: left;                                                          /* Make the text in the container (menu) left oriented */
 }
@@ -237,18 +237,18 @@ a:hover .new {
 */
 
 footer {
-  margin-top: 2em;
+  /* margin-top: 2em; */
   pointer-events: none;
   position: fixed;
   width: 250px;
   height: 50px;
   bottom: 0;
   background-image: url("/static/img/pfDtu.png");
-  transform: scale(1.5);
+  transform: scale(1.0);
   background-size: contain;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  margin-bottom: 2em;
+  /* margin-bottom: 2em; */
   
 }
 
