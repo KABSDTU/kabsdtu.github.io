@@ -1,19 +1,33 @@
 :root {
+<<<<<<< Updated upstream
   --article-color: rgba(255, 239, 247, 0.8); 
   --nav-color: rgba(46, 187, 46, 0.9);
   --cdwn-color: rgba(0, 0, 0, 0.39);
+=======
+  --article-color: rgba(255, 255, 255, 0.9);
+  --nav-color: rgba(46, 187, 46, 0.92);
+  --cdwn-color: rgba(92, 92, 92, 0.5);
+  --background-image: url("/static/img/KABS_25_Bakground.png");
+  --background-color: rgb(220, 253, 158);
+  --kabs-logo: url("/static/img/KABS_25_Logo.png");
+>>>>>>> Stashed changes
 }
 
 body {
-  background-color:rgb(220, 253, 158);
+  background-color:var(--background-color);
 }
 
 #container {
   margin: auto;
   top: 0;
   font-family: "Droid", sans-serif;
+<<<<<<< Updated upstream
   color: #131313;
   background-image: url("/static/img/KABS_25_Bakground.png");
+=======
+  color: #000000;
+  background-image: var(--background-image);
+>>>>>>> Stashed changes
   background-size: auto 100%;
   background-position: top;
   background-attachment: fixed;
@@ -34,7 +48,7 @@ article {
   z-index: 10;
   margin-bottom: 2em;
   background-color: var(--article-color);
-  line-height: 1.0;
+  line-height: 1.5;
 }
 
 h1,
@@ -83,13 +97,14 @@ nav ul li a,
 }
 
 nav ul {
+  list-style: none;
   margin: 0;
   padding: 0;
 }
 
 nav ul li a {
   display: block;
-  font-size: 0.9em;
+  font-size: 1.0em;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   font-weight: 600;
@@ -100,7 +115,7 @@ nav ul li a {
 
 nav ul li ul li a {
   padding-left: 3em;
-  font-size: 0.9em;
+  font-size: 1em;
 }
 
 nav ul li a:hover {
@@ -112,7 +127,7 @@ nav ul li a:hover {
 h1.title {
   color: rgba(0, 0, 0, 0);
   height: 180px;
-  background-image: url("/static/img/KABS_25_Logo.png");
+  background-image: var(--kabs-logo);
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 10%;
@@ -230,7 +245,7 @@ a:hover .new {
 */
 
 footer {
-  margin-top: 20px;
+  margin-top: 2em;
   pointer-events: none;
   position: fixed;
   width: 250px;
@@ -318,6 +333,12 @@ td {
   text-align: left;
 }
 
+
+/* Media Queries */
+
+
+
+
 @media screen and (max-width: 1000px) {
   .header-container {
     position: static;
@@ -347,20 +368,52 @@ td {
   }
 
   footer {
+    align-items: center;
+    margin: 0 auto;
     position: static;
-    width: 100%;
-    margin-bottom: 0;
+    
+    
+    background-color: var(--nav-color);
+
   }
 
   aside {
     display: none;
   }
+
 }
 
 @media screen and (max-height: 680px) {
   header aside {
     display: none;
   }
+
+  #container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  nav {
+    width: 250px;
+    flex-shrink: 0;
+  }
+
+  article {
+    width: calc(100% - 250px);
+    padding: 2em;
+  }
+
+  footer {
+    width: calc(100%);
+    margin: 0 auto;
+    align-items: center;
+    padding-left: 1em;
+    position: static;
+    margin-bottom: 2em;
+    background-color: var(--nav-color);
+  }
+
+  
 }
 
 .X{
