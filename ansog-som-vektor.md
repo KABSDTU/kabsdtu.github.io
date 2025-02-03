@@ -4,14 +4,14 @@ title: Ansøg som Vektor
 ---
 <h1 id="titel">Ansøgningen til Vektor '25! </h1>
 
-<div id="poster-image" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
+<div id="poster-image-long" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
 </div>
 
 
 <p>
 	<br/>
   	<a style="text-align: center;">
-  	<a href="https://forms.gle/RbAEkbadRTaW6dCQA" target="_blank">
+  	<a href="{{layout.vectorSingnupLink}}" target="_blank">
 	<button class="applyBtn">Ansøg nu! </button></a>
 
 
