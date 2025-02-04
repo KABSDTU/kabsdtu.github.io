@@ -22,10 +22,7 @@ title: Vektor
 	Din første officielle opgave som vektor bliver, at modtage de nystartede studerende på velkomstdagen. Det er på denne dag, de nye studerende møder deres medstuderende for første gang. Ligesom du her bliver introduceret for det hold af nye studerende du skal følge gennem hele første semester - dit kagehold. Det er også på denne dag, de nye introduceres til deres studie, til campus, og generelt får deres førstehåndsintryk af DTU.
 </p>
 
-<p>
-	For at blive vektor <b>skal</b> du være medlem af PF. 
-	Er du endnu ikke medlem af PF kan du melde dig ind på PF-sekretariatet, eller på <a href="https://www.pf.dk">www.pf.dk</a>.
-</p>
+
 
 
 <!-- OLD (2022)
