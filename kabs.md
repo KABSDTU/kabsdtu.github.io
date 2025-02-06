@@ -12,14 +12,14 @@ Hver har én eller flere studieretninger, som de er koordinator for. <b>
 
 <h2> Alle KABS25: </h2>
 <ul>
-<li> Amalie Maria O'Reilly Bojsen - D. IT - elektronik og IT - økonomi</li>
+<li> Amalie Maria O'Reilly Bojsen - D. Computer Engineering & D. IT og Økonomi</li>
 <li> Anna Damsgaard Koch - D. Bygningsdesign, C. BygTek </li>
-<li> Anne Hygebjerg-Hansen - D. Byggeri og Infrastruktur, D. Maskin </li>
+<li> Anne Hygebjerg-Hansen - D. Byggeri og Infrastruktur, D. Maskin og D. Maritim </li>
 <li> Annemette Aufeldt - C. Teknisk biomedicin </li>
 <li> August Tambour Petersen - C. Miljøteknologi </li>
 <li> Baldur G. Toftegaard - PROMO </li>
 <li> Bengisu Isik - C. Architectural Engineering </li>
-<li> Erik Pagh Goodwin - D. Software technology </li>
+<li> Erik Pagh Goodwin - D. Software Technology </li>
 <li> Frederik Listov-Saabye Pedersen - C. Artificial Intelligence and Data Science </li>
 <li> Johannes Lei - C. Chemistry and Technology & C. Technology </li>
 <li> Julie Buch - C Bioteknologi </li>
@@ -37,7 +37,7 @@ Hver har én eller flere studieretninger, som de er koordinator for. <b>
 <li> Nicoline Sparresø Bærentzen - D. Fødevaresikkerhed og -kvalitet </li>
 <li> Robin Brandt - C. General Engineering </li>
 <li> Saar Vincent Wightman Jochum - C. General Engineering </li>
-<li> Sebastian Mariegaard - C. Bæredygtig energidesign </li>
+<li> Sebastian Mariegaard - C. Bæredygtig Energidesign </li>
 <li> Thor Thomsen Brown - C. Produktion og Konstruktion </li>
 <li> Tusnelda Victoria Gram Ludvigsen - C. Data Science & Management</li>
 </ul>
