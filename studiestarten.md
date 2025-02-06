@@ -11,12 +11,9 @@ title: Studiestarten
 
 </p>
 
-<h2>Ny studiestart </h2>
-
 <p>
-Studiestarten i år kommer til at foregå en lidt anderledes måde end sidste år. Rusturene afholdes ikke mere, og vi ønsker derfor at lave flere introdage på campus i stedet. Dette er dog ikke ensbetydende med at studiestarten bliver dårligere, og som vektor i år vil du også have god mulighed for at være med til at danne den nye studiestart. <br> 
-Vi er I KABS (Koordinater af Bachelor Studiestart) ved at sætte rammerne for den nye studiestart, i samarbejde med DTU, for at få det hele til at hænge sammen.  <br> 
-Studiestarten på retningsholdene kommer til at være det samme som tidligere, med en velkomstdag, kagemøder og en hyttetur. <br> 
+Vi er I KABS (Koordinater af Bachelor Studiestart) ved at sætte rammerne for den studiestarten, i samarbejde med DTU, for at få det hele til at hænge sammen. 
+Studiestarten på retningsholdene kommer til at være det samme som tidligere, med en velkomstdag, kagemøder og en hyttetur. 
 <p>
     
 
