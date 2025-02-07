@@ -19,14 +19,22 @@ If you are interested in being a vector, there will be an employment interview w
 </p>
 
 <li>Application deadline (9th of February 12:59 pm)            </li>
+
 <li>Vector-interviews (12th - 14th of February)                   </li>
+
 <li>The first vector-meeting (15th of February after 05:00 pm)	</li>
-<li>The first education day (10th of March)				        </li>
-<li>OpTur (22nd - 26th of March)					    </li>
+
+<li>The first education day (30th of March)				        </li>
+
+<li>OpTur (11nd - 15th of March)					    </li>
+
 <li>First aid course (will be one day in June. There will be multiple days to choose from)           </li>
-<li>The second education day (14th of April)				    </li>
-<li>Welcome Day (29th of August)						        </li>
-<li>Introday/s (30th - 31th of August)							    </li>
+
+<li>The second education day (27th of April)				    </li>
+
+<li>Welcome Day (27th of August)						        </li>
+
+<li>Introday/s (28th - 30th of August)							    </li>
 
 
 
@@ -49,6 +57,7 @@ If you are interested in being a vector, there will be an employment interview w
 <p>
 The time and work put into the vector job can't be measured against the connections, the personal experiences and the knowledge you gain during your vector period. And besides, it's just great fun.
 </p>
+
 
 
 
