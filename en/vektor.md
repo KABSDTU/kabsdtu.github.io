@@ -19,5 +19,4 @@ As a vector, you will be part of two teams: a studyline team and a cross team. T
 Your first official task as a vector will be to receive the newly started students on the Welcome Day. It is on this day that the new students meet their classmates for the first time, just like you are introduced to your team of new students that you will follow throughout the first semester - your cake team. It is also on this day that the new students are introduced to their studies, to the campus, and generally get their first impression of DTU.
 </p>
 
-<p>To become a vector, you must be a member of PF. If you are not yet a member of PF, you can register at the PF secretariat, or at <a href="https://www.pf.dk">www.pf.dk</a>.
-</p>
+
