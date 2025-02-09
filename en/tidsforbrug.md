@@ -18,11 +18,11 @@ If you are interested in being a vector, there will be an employment interview w
 <b>IMPORTANT DATES:</b>
 </p>
 
-<li>Application deadline (9th of February 12:59 pm)            </li>
+<li>Application deadline (14th of February 12:59 pm)            </li>
 
-<li>Vector-interviews (12th - 14th of February)                   </li>
+<li>Vector-interviews (17th - 19th of February)                   </li>
 
-<li>The first vector-meeting (15th of February after 05:00 pm)	</li>
+<li>The first vector-meeting (20th of February after 05:00 pm)	</li>
 
 <li>The first education day (30th of March)				        </li>
 
