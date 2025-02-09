@@ -6,7 +6,7 @@ title: KABS
 <h1>KABS</h1>
 
 <p>
- KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are {{layout.numOfKABS}} KABS. Every KABS has one or more study lines which they are KABS for. <!-- <b>All KABS are also responsible for an introtrip.</b> -->
+ KABS stands for Koordinator af Bachelor Studiestarten (Coordinator of the Bachelor Study Start). There are {{layout.numOfKABS}} KABS this year. Every KABS has one or more study lines which they are KABS for. <!-- <b>All KABS are also responsible for an introtrip.</b> -->
 </p>
 
 <p> <b> To get in touch with KABS, you are always welcome to contact us on our mail at kabs@pf.dk </b> </p>
@@ -14,15 +14,15 @@ title: KABS
 <h2>KABS25:</h2>
 
 <ul>
-<li> Amalie Maria O'Reilly Bojsen - D. IT - elektronik og IT - økonomi</li>
+<li> Amalie Maria O'Reilly Bojsen - D. Computer Engineering,  D. IT og Økonomi</li>
 <li> Anna Damsgaard Koch - D. Bygningsdesign, C. BygTek </li>
-<li> Anne Hygebjerg-Hansen - D. Byggeri og Infrastruktur, D. Maskin </li>
-<li> Annemette Aufeldt - C. Teknisk biomedicin </li>
+<li> Anne Hygebjerg-Hansen - D. Byggeri og Infrastruktur, D. Maskin, D. Maritim </li>
+<li> Annemette Aufeldt - C. Teknisk Biomedicin </li>
 <li> August Tambour Petersen - C. Miljøteknologi </li>
 <li> Baldur G. Toftegaard - PROMO </li>
 <li> Bengisu Isik - C. Architectural Engineering </li>
-<li> Erik Pagh Goodwin - D. Software technology </li>
-<li> Frederik Listov-Saabye Pedersen - C. Artificial Intelligence and Data Science </li>
+<li> Erik Pagh Goodwin - D. Software Technology </li>
+<li> Frederik Listov-Saabye Pedersen - C. Artificial Intelligence and Data  </li>
 <li> Johannes Lei - C. Chemistry and Technology & C. Technology </li>
 <li> Julie Buch - C Bioteknologi </li>
 <li> Julie Fiirgaard Nielsen - C. Design & Innovation </li>
