@@ -6,6 +6,16 @@ title: Studiestarten
 
 
 <p>
+I studiestarten ansættes lige under 300 vektorer fordelt på omkring 20-30 tværhold, på sommerstudiestarten. Sammen tager imod de nye studerende, som starter i slutningen af august. Dette koordineres af de i alt {{layout.numOfKABS}} KABS, som står for uddannelsesdage, OPtur, og meget andet for vektorene i forbindelse med studiestarten. <br> 
+    KABS, vektorer og Chefs du Optur skaber i fællesskab den bedst mulige studiestart for de kommende studerende <br>
+    Vi i KABS (Koordinatorer af Bachelor Studiestart) arbejder på at forbedre studiestarten, i samarbejde med DTU, og vektorerne kommer også til at spille en stor rolle i dette. Studiestarten kommer til at minde meget om den i 2024, med 3 introdag fra onsdag-fredag i uge 35, hvor hovedfokuset bliver retningshold. Derudover kommer der også stadig til at være kagemøder og en hyttetur.
+    
+</p>
+
+
+
+<!--
+<p>
     I studiestarten ansættes lige under 300 vektorer fordelt på omkring 20-30 tværhold på sommerstudiestarten, som sammen tager imod de nye studerende, der starter i slutningen af august. Dette koordineres af de i alt {{layout.numOfKABS}} KABS, der står for uddannelsesdage, OPtur, og meget andet for vektorene i forbindelse med studiestarten. <br> 
     KABS, vektorer og Chefs du Optur skaber i fællesskab den bedst mulige studiestart for de kommende studerende <br>
 
@@ -16,7 +26,7 @@ Vi er I KABS (Koordinater af Bachelor Studiestart) ved at sætte rammerne for de
 Studiestarten på retningsholdene kommer til at være det samme som tidligere, med en velkomstdag, kagemøder og en hyttetur. 
 <p>
     
-
+-->
 
     
 
