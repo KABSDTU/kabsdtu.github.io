@@ -16,7 +16,7 @@ title: What's in it for me?
 </p>
 
 <p>
-As a vector, you will get to take responsibility for, and leave your mark on various projects in regards to studystart. The experience which comes with planning the various events including the introtrip, Welcome Day and studyline’s cabintrip, etc. will be useful later on. On introtrips and studyline cabintrips things like finances, schedules, materials, etc. must be kept in order. This gives you as a vector the possibility for greater responsibility and personal development.
+As a vector, you will get to take responsibility for, and leave your mark on various projects in regards to studystart. The experience which comes with planning the various events including the introdays, Welcome Day and studyline’s cabintrip, etc. will be useful later on. On introdays and studyline cabintrips things like finances, schedules, materials, etc. must be kept in order. This gives you as a vector the possibility for greater responsibility and personal development.
 </p>
 
 <p>
