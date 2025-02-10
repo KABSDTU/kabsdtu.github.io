@@ -9,7 +9,7 @@ title: English speaking teams
 <p> Picture: DTU </p>
 
 <p>
-In PF and KABS, we do everything we can to include everyone, even if you aren’t necessarily Danish-speaking, or if you start on the international studyline <em>General Engineering</em> (abbreviated GE). Therefore, there is a chance to go on an international introday trip - the so-called <em>Mixed Team</em>. On this type of team, the organizers (KABS, vectors and Chefs) will only speak English, and new students are strongly encouraged to do the same, as this greatly helps the feeling of community on the team Apart from the spoken language, this type of team functions largely like the other teams that are most often held.
+In PF and KABS, we do everything we can to include everyone, even if you aren’t necessarily Danish-speaking, or if you start on the international studyline <em>General Engineering</em> (abbreviated GE). Therefore, there is a chance to go on international introdays - the so-called <em>Mixed Team</em>. On this type of team, the organizers (KABS, vectors and Chefs) will only speak English, and new students are strongly encouraged to do the same, as this greatly helps the feeling of community on the team. Apart from the spoken language, this type of team functions largely like the other teams that are most often held.
 </p>
 
 
