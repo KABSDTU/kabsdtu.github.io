@@ -26,7 +26,7 @@ If you are interested in being a vector, there will be an employment interview w
 
 <li>The first education day (30th of March)				        </li>
 
-<li>OpTur (11nd - 15th of April)					    </li>
+<li>OpTur (11th - 15th of April)					    </li>
 
 <li>First aid course (will be one day in June. There will be multiple days to choose from)           </li>
 
