@@ -19,7 +19,7 @@ Når du bestiller så download Google Sheetet du finder ved at klikke på linket
 <p>Har du problemer med badekarret, så kontakt din nærmeste KABS.</p>
 <p><b>Sørg for at bestille badekaret senest to uger før at badekaret skal bruges, så det er pakket i tide.</b></p>
 
-<a style="text-align: center" href="https://docs.google.com/spreadsheets/d/1tNMf3txd2a1Js-rQsooB9xri_Yf7MVfT9xIVhe84hhM/edit?usp=sharing">
+<a style="text-align: center" href="[https://docs.google.com/spreadsheets/d/1tNMf3txd2a1Js-rQsooB9xri_Yf7MVfT9xIVhe84hhM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1WTqF99WlXICWVj7j5HKGriR3Q80uV45I/export?format=xlsx&ouid=104413246624751318292&rtpof=true&sd=true)">
 	<button class="applyBtn">
 	  Bestil badekar
 	</button>
