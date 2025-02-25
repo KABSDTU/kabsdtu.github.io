@@ -20,9 +20,9 @@ Når du bestiller så download Google Sheetet du finder ved at klikke på linket
 <p><b>Sørg for at bestille badekaret senest to uger før at badekaret skal bruges, så det er pakket i tide.</b></p>
 
 <a style="text-align: center" href="https://docs.google.com/spreadsheets/d/1WTqF99WlXICWVj7j5HKGriR3Q80uV45I/export?format=xlsx">
-	<button class="applyBtn">
-	  Bestil badekar
-	</button>
+    <button class="applyBtn">
+        Bestil badekar
+    </button>
 </a>
 
 <br>
