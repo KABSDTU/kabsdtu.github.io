@@ -5,8 +5,7 @@ title: Badekar
 
 <h1>Badekar </h1>
 
-<div id="poster-image" style="background-image: url('/static/img/bathtub.png');">
-</div>
+<div id="poster-image" style="background-image: url('static/img/bathtub.png');"> </div>
 
 <br>
 <div class="box">
