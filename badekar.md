@@ -5,7 +5,7 @@ title: Badekar
 
 <h1>Badekar </h1>
 
-<div id="poster-image" style="background-image: url('/static/img/confettiBathtub.png');">
+<div id="poster-image" style="background-image: url('/static/img/bathtub.png');">
 </div>
 
 <br>
