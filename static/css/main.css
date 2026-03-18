@@ -5,12 +5,12 @@
   --article-color: rgba(255, 255, 255, 0.9);
   
   --cdwn-color: rgba(92, 92, 92, 0.5);
-  --background-image: url("/static/img/KABS_Bakground.png");
-  --background-color: #80503A;
-  --kabs-logo: url("/static/img/KABS_Logo.png");
+  --background-image: url("/static/img/KABS_Bakground.png");                /* Your KABS theam backgronund don't change the reference name, just replace the file and name it the same */
+  --background-color: #80503A;                                              /* The "main" background color, found on the left and right side of the page*/
+  --kabs-logo: url("/static/img/KABS_Logo.png");                            /* Your KABS logo don't change the reference name, just replave the file and name it the same */
   --nav-color: rgba(250, 192, 6, 0.92);
   --nav-text-color: white;
-  --nav-hover-color: #fac006;
+  --nav-hover-color: #CABEBE;                                                /* The color of the  */
   
 }
 
