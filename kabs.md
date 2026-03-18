@@ -9,35 +9,37 @@ title: KABS
 Hver har én eller flere studieretninger, som de er koordinator for. <b>
 <p>Hvis du gerne vil i kontakt med KABS er du altid velkommen til at kontakte os via vores mail: kabs@pf.dk .</p> </b>
 
+<h2> Alle KABS26: </h2>
 
-<h2> Alle KABS25: </h2>
 <ul>
-<li> Amalie Maria O'Reilly Bojsen - D. Computer Engineering & D. IT og Økonomi</li>
-<li> Anna Damsgaard Koch - D. Bygningsdesign, C. BygTek </li>
-<li> Anne Hygebjerg-Hansen - D. Byggeri og Infrastruktur, D. Maskin og D. Maritim </li>
-<li> Annemette Aufeldt - C. Teknisk biomedicin </li>
-<li> August Tambour Petersen - C. Miljøteknologi </li>
-<li> Baldur G. Toftegaard - PROMO </li>
-<li> Bengisu Isik - C. Architectural Engineering </li>
-<li> Erik Pagh Goodwin - D. Software Technology </li>
-<li> Frederik Listov-Saabye Pedersen - C. Artificial Intelligence and Data Science </li>
-<li> Johannes Lei - C. Chemistry and Technology & C. Technology </li>
-<li> Julie Buch - C Bioteknologi </li>
-<li> Julie Fiirgaard Nielsen - C. Design & Innovation </li>
-<li> Karo Saxtorph Schulz - C. Earth and Space Physics and Engineering </li>
-<li> Laura Kate Elisabeth Melchior - C. Engineering (Biomedical Engineering) </li>
-<li> Louise Høybye Sønder - C. Cybertechnology & C. Computer Engineering </li>
-<li> Magnus Lundsgaard - C.Elektro, C. Fisk, ARKTEK </li>
-<li> Malik Zaabalawi - C. Engineering physics </li>
-<li> Mathias Bækgaard Wacher - PROMO </li>
-<li> Mathias Nørgaard-Andersen - C. Mathematics & Technology, C. Software </li>
-<li> Mathilde Louise Howell - D. Sundhedsteknologi </li>
-<li> Mia Wang - D. Kemi </li>
-<li> Nicolai Balskov Jakobsen - D. Elektroteknologier </li>
-<li> Nicoline Sparresø Bærentzen - D. Fødevaresikkerhed og -kvalitet </li>
-<li> Robin Brandt - C. General Engineering </li>
-<li> Saar Vincent Wightman Jochum - C. General Engineering </li>
-<li> Sebastian Mariegaard - C. Bæredygtig Energidesign </li>
-<li> Thor Thomsen Brown - C. Produktion og Konstruktion </li>
-<li> Tusnelda Victoria Gram Ludvigsen - C. Data Science & Management</li>
+<li> Aaliyah N. Hunt-Khawaja - D. Kemiteknik og International Business, Kemi og Bioteknik </li>
+<li> Amalie Lomborg Manigoff - C. General Engineering </li>
+<li> Andreas Stampe Dalgaard - C. Software Teknologi </li>
+<li> Anna Victoria Spang Kollerup - C. Kunstig Intelligens og Data </li>
+<li> Aske Kirk Parner - C. Medicin og Teknologi </li>
+<li> Asta Birch Jørgensen - C. Design og Innovation </li>
+<li> Cilla Pilegaard Glud - D. og C. Bygningsdesign </li>
+<li> Cordelie Kähler Hjenner - C. Medicin og Teknologi </li>
+<li> Elias Valbjørn Dahl Lyng - C. Mekanisk Design og Teknologi </li>
+<li> Frederik Bjerg Andersen - D. Byggeri og Infrastruktur </li>
+<li> Helena S. Olsson Jacobsen - C. Fysik og Ingeniørvidenskab </li>
+<li> Hjalte Frederiksen - C. Miljøteknologi </li>
+<li> Isabella Skalbo Albrechtsen - C. Bioteknologi </li>
+<li> Kathrine Ruth Cochran Bech - C. Kemi og Teknologi, C. Teknologi </li>
+<li> Kevin Ronild Hansen - D. Elektroteknologi, D. Elektrisk Energiteknologi </li>
+<li>Linus Lau Thomsen - D. IT & økonomi </li>
+<li> Louise Høybye Sønder - C. Cyberteknologi, C. Computer Engineering, D. Arktisk Byggeri og Infrastruktur </li>
+<li> Lucas Hyldgaard - C. Geofysik og Rumteknologi </li>
+<li> Lucas Adelhardt Høeg - D. Produktion, D. Process & Inovation, D. Global Business & Teknologi og D. Mobilitet, Transport & Logistik </li>
+<li> Malwina Dębska - C. General Engineering </li>
+<li> Marcus Lundgaard Blinkenberg Christensen - C. Bæredygtigt Energidesign </li>
+<li> Marius Kopp Armangué - C. Teknisk Biomedicin </li>
+<li> Nanna Hulbæk Scheel - D. Fødevaresikkerhed og -kvalitet </li>
+<li> Nat Skovlund - C. Elektroteknologi </li>
+<li> Oliver Gram Lazarotti - D. Softwareteknologi </li>
+<li> Peter Fabio Baagøe Stirpe - D. Skibsteknik og Maritimt Design (D. Maskinteknik, midlertidigt) </li>
+<li> Rolf Karmark Andersen - D. Bygningsdesign </li>
+<li> Rune Chemnitz Thygesen - C. Byggeteknologi </li>
+<li> Thomas Helboe Poulsen - C. Softwareteknologi </li>
+<li> Victor Cornelius Bigum - D. Computer Engineering </li>
 </ul>
