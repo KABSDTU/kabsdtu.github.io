@@ -3,7 +3,7 @@ layout: default
 title: Ansøg som Hyttebums
 ---
 
-<h1>KABS24 søger hyttebumser!</h1>
+<h1>KABS26 søger hyttebumser!</h1>
 
 <p> Kan du hakke dig igennem ledetrådene? <br>
 Koge sagen ind til kernen? <br>

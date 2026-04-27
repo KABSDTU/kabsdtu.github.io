@@ -2,7 +2,7 @@
 layout: en
 title: Apply as cabin bum
 ---
-<h1>KABS24 is looking for cabin bums!</h1>
+<h1>KABS26 is looking for cabin bums!</h1>
 
 <p> Can you chop your way through the leads? <br>
 Boil the case down to its core? <br>

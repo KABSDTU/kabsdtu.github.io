@@ -459,3 +459,154 @@ li{
 center{
   text-align: center;
 }
+
+/* ===== Bathtub order form ===== */
+.bathtub-form {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+}
+.bathtub-form .bathtub-section {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: rgba(0, 124, 165, 0.06);
+  border-left: 4px solid #007ca5;
+  border-radius: 4px;
+}
+.bathtub-form .bathtub-section h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
+  color: #007ca5;
+}
+.bathtub-form .bathtub-note {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0.25rem 0 0.75rem;
+}
+.bathtub-form .bathtub-warn {
+  background: #fff7d6;
+  border: 1px solid #f1c40f;
+  padding: 0.6rem 0.9rem;
+  border-radius: 4px;
+  margin: 0 0 1rem;
+}
+.bathtub-form .bathtub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem 1rem;
+}
+.bathtub-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #333;
+}
+.bathtub-form .bathtub-checkbox {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+}
+.bathtub-form input[type="text"],
+.bathtub-form input[type="email"],
+.bathtub-form input[type="tel"],
+.bathtub-form input[type="date"],
+.bathtub-form input[type="number"],
+.bathtub-form textarea {
+  margin-top: 0.25rem;
+  padding: 0.45rem 0.6rem;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  font-family: inherit;
+  background: #fff;
+  font-weight: 400;
+}
+.bathtub-form input:focus,
+.bathtub-form textarea:focus {
+  outline: none;
+  border-color: #007ca5;
+  box-shadow: 0 0 0 2px rgba(0, 124, 165, 0.2);
+}
+.bathtub-form input[readonly] {
+  background: #f3f3f3;
+  color: #555;
+}
+.bathtub-form textarea {
+  width: 100%;
+  resize: vertical;
+}
+.bathtub-form .bathtub-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+  background: #fff;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.bathtub-form .bathtub-table th,
+.bathtub-form .bathtub-table td {
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+  font-size: 0.9rem;
+}
+.bathtub-form .bathtub-table th {
+  background: #007ca5;
+  color: #fff;
+  font-weight: 600;
+}
+.bathtub-form .bathtub-table .b-qty {
+  width: 110px;
+}
+.bathtub-form .bathtub-table .b-fine {
+  width: 160px;
+  color: #777;
+  font-size: 0.85rem;
+}
+.bathtub-form .bathtub-table input[type="number"] {
+  width: 80px;
+  margin: 0;
+}
+.bathtub-form .bathtub-table small {
+  color: #777;
+  font-weight: 400;
+}
+.bathtub-form .bathtub-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.25rem;
+  padding: 1rem 1.25rem;
+  background: #007ca5;
+  color: #fff;
+  border-radius: 4px;
+}
+.bathtub-form .bathtub-summary .applyBtn {
+  margin: 0;
+}
+.bathtub-form .bathtub-status {
+  margin-top: 0.75rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  font-weight: 600;
+  min-height: 1.5em;
+}
+.bathtub-form .bathtub-status.success {
+  background: #e0f5e2;
+  color: #1e7d2c;
+  border: 1px solid #1e7d2c;
+}
+.bathtub-form .bathtub-status.error {
+  background: #fce4e4;
+  color: #a02020;
+  border: 1px solid #a02020;
+}
+@media (max-width: 600px) {
+  .bathtub-form .bathtub-table .b-fine {
+    display: none;
+  }
+}
