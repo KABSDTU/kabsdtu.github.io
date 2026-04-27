@@ -1,0 +1,31 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1,6 +1,6 @@
+ ---
+ layout: default
+-title: KABS23 Detective Agency søger vektorer
++title: KABS26 søger vektorer
+ ---
+ 
+ 
+@@ -27,7 +27,7 @@ title: KABS23 Detective Agency søger vektorer
+ 
+  <p style="text-align: center; font-size: large;">Ansøgning til Vektor '26 er åben og lukker om:</p> 
+ <!-- 
+-<p style="text-align: center; font-size: large;">Ansøgning til Vektor '25 åbner om:</p>
++<p style="text-align: center; font-size: large;">Ansøgning til Vektor '26 åbner om:</p>
+     -->
+ 
+ <div style="text-align: center; padding-bottom: 20px;">
+@@ -56,8 +56,10 @@ title: KABS23 Detective Agency søger vektorer
+     <!-- Link to the JavaScript file -->
+     <script src="/static/js/countdown.js"></script>
+     <script>
+-        // Set the end time for the countdown to 12:00 on the 3rd of February 2025
+-        var deadline = new Date(Date.UTC(2027, 1, 15, 0, 0, 0)); // Note: Months are zero-based in JavaScript Date
++        // End time for the Vector'26 application countdown.
++        // NOTE: months are zero-based in JS Date, so 1 = February.
++        // Confirm the exact deadline with the rest of KABS26 before going live.
++        var deadline = new Date(Date.UTC(2027, 1, 15, 0, 0, 0));
+         initializeClock('clockdiv', deadline);
+     </script>
+ <!-- End Countdown til vektoransøgning -->

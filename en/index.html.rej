@@ -1,0 +1,40 @@
+diff a/en/index.html b/en/index.html	(rejected hunks)
+@@ -1,14 +1,13 @@
+ ---
+ layout: en
+-title: DiscoKABS is looking for vectors!
++title: KABS26 is looking for vectors!
+ ---
+ 
+ 
+ 
+ <h1>Become awesome - sign up for Vektor <b>2026!</b></h1>
+ 
+-<p>If you are regretting that you haven't signed up for vector'26,  dread not there is still a chance! Join the community and help create an awesome study start!
+-</p>
++<p>Want to help create the best possible study start at DTU? Sign up as a vector for 2026 and join the community.</p>
+ 
+ <p>
+ 	<br/>
+@@ -26,7 +25,7 @@ title: DiscoKABS is looking for vectors!
+ 
+ 
+ 
+-<p style="text-align: center;"> Count down to vecktor signup closes.</p>
++<p style="text-align: center;"> Countdown until vector signup closes:</p>
+ 
+ <div style="text-align: center; padding-bottom: 20px;">
+   <a href="{{layout.vectorSingnupLink}}">
+@@ -53,8 +52,10 @@ title: DiscoKABS is looking for vectors!
+ 		
+ <script src="/static/js/countdown.js"></script>
+ <script>
+-  // Set the end time for the countdown to 12:00 on the 3rd of February 2025
+-  var deadline = new Date(Date.UTC(2025, 1, 15, 0, 0, 0)); // Note: Months are zero-based in JavaScript Date
++  // End time for the Vector'26 application countdown.
++  // NOTE: months are zero-based in JS Date, so 1 = February.
++  // Keep this in sync with index.html (the Danish front page).
++  var deadline = new Date(Date.UTC(2027, 1, 15, 0, 0, 0));
+   initializeClock('clockdiv', deadline);
+ </script>
+ 

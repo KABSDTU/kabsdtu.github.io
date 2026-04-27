@@ -1,0 +1,26 @@
+diff a/en/ansog-som-vektor.md b/en/ansog-som-vektor.md	(rejected hunks)
+@@ -3,7 +3,7 @@ layout: en
+ title: Apply as a vector
+ ---
+ 
+-<h1 id="titel">Applications for Summer Vector '25!</h1>
++<h1 id="titel">Applications for Summer Vector '26!</h1>
+ 
+ <div id="poster-image-long" style="margin: auto; width: 530px; height: 300px; background-image: url('/static/img/endeligåbent.gif');">
+ </div>
+@@ -30,12 +30,13 @@ title: Apply as a vector
+     var div = document.getElementById("n")
+     var n = document.getElementById("nn")
+     var titel = document.getElementById("titel")
+-    titel.innerHTML = "The application for Vector'25 is open!"
++    titel.innerHTML = "The application for Vector'26 is open!"
+     n.remove()
+     div.innerHTML = '<br / ><a style="text-align: center;"href="https://forms.gle/LtQ5aKVS3YCN8Cbq6"; target="_blank"><button class="applyBtn">Apply now!</button></a><br />'
+   }
+ 
+-  var deadline = new Date("February 14, 2025 00:00:01");
++  // Keep this deadline in sync with the front-page countdown.
++  var deadline = new Date("February 15, 2027 00:00:01");
+   if (deadline > new Date) {
+     showVectorApplication()
+   }
