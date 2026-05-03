@@ -1,17 +1,54 @@
 /* Hey, if you add code, add a comment !!! - Kind regards KABS25 :^D */
 
-:root {
+.upload-area {
+  text-align: center;
+  margin-top: 30px;
+}
 
+.drop-zone {
+  width: 300px;
+  height: 150px;
+  margin: 20px auto;
+  border: 0;
+  border-radius: 25px;
+  background-color: #007ca5;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.drop-zone:hover {
+  background-color: rgba(0, 124, 165, 0.18);
+  transform: scale(1.02);
+}
+
+.drop-title {
+  font-size: 2em;
+}
+
+.drop-subtitle {
+  margin-top: 10px;
+  font-size: 1em;
+}
+
+
+
+
+/* -------------------------------------- */
+:root {
   --article-color: rgba(255, 255, 255, 0.9);
-  
   --cdwn-color: rgba(92, 92, 92, 0.5);
-  --background-image: url("/static/img/KABS_Bakground.png");                /* Your KABS theam backgronund don't change the reference name, just replace the file and name it the same */
+  --background-image: url("/static/img/KABS_Bakground.png");                  /* Your KABS theam backgronund don't change the reference name, just replace the file and name it the same */
   --background-color: #80503A;                                              /* The "main" background color, found on the left and right side of the page*/
-  --kabs-logo: url("/static/img/KABS_Logo.png");                            /* Your KABS logo don't change the reference name, just replave the file and name it the same */
+  --kabs-logo: url("/static/img/KABS_Logo.png");                              /* Your KABS logo don't change the reference name, just replave the file and name it the same */
   --nav-color: #CDB49E;                                                     /* Color of the vertical band placed bellow the logo/menu */
   --nav-text-color: white;                                                  /* Color of the text found in the container */
   --nav-hover-color: #CABEBE;                                               /* The color of the  */
-  
 }
 
 body {
@@ -22,14 +59,14 @@ body {
   margin: auto;
   top: 0;                                                                    /* Places the top of the container to the top of the page */
   font-family: "Droid", sans-serif;                                          /* The font used for the text on the page */
-  color: #000000;                                                            /* The color of text written in the articles */
+  color: #000000;                                                          /* The color of text written in the articles */
   background-image: var(--background-image);                                 /* Setting the background image (the one with multiple KABS logos) */
   background-size: auto 100%;                                                /* Scalling of the background image, if the image is not big enoug it will repeat */
   background-position: top;                                                  /* Placing the oregin of the background image */
   background-attachment: fixed;
   width: 1020px;                                                             /* The with of the main container */
   min-height: 100%;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);                                   /* Shadow placed behind the container, the RGB-value determins the color, and the alpha value sets how intens the shadow is */
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);                                 /* Shadow placed behind the container, the RGB-value determins the color, and the alpha value sets how intens the shadow is */
   padding-bottom: 2em;                                                       /* Padding added to the bottom of the container, this ensures that when you scrowl all the down there is a space between the bottom of the page and the article */
   position: absolute;                                                        /* Stops the element from changing the position of other elements, and other elements changing the position of itself */
   left: calc(50% - 510px);                                                   /* The left-right position of the main container, the value given places the container in the center of the page with some empty space on the sides */
@@ -47,10 +84,7 @@ article {                                                                    /* 
   line-height: 1.0;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4 {
   font-weight: normal;
 }
 
@@ -256,7 +290,6 @@ footer {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   /* margin-bottom: 2em; */
-  
 }
 
 /*
@@ -277,15 +310,11 @@ Form
   background-color: #007ca5;
 }
 
-input,
-textarea,
-select,
-button {
+input, textarea, select, button {
   font-family: "Droid", sans-serif;
 }
 
-input,
-textarea {
+input, textarea {
   border: 0;
   border-radius: 2px;
   padding: 5px;
@@ -295,9 +324,7 @@ input[type="file"] {
   background-color: rgba(0, 0, 0, 0);
 }
 
-input,
-textarea,
-select {
+input, textarea, select {
   margin-top: 0.25em;
   margin-bottom: 1.5em;
 }
@@ -332,11 +359,7 @@ td {
   text-align: left;
 }
 
-
 /* Media Queries */
-
-
-
 
 @media screen and (max-width: 1000px) {
   .header-container {
@@ -383,19 +406,10 @@ td {
 }
 
 @media screen and (max-height: 680px) {
-  
   footer {
-    
     background-image: url("");
   }
-
-
-  
-  
 }
-
-  
-
 
 .X{
   margin: auto;
@@ -405,8 +419,6 @@ td {
   background: #ecf0f1;
   box-shadow: 0 2px 6px 0 rgba(0,0,0, .3);
 }
-
-
 
 /*
 li{
@@ -452,7 +464,6 @@ li{
   margin: 0px 25px 25px 0px;
   background: rgba(255, 255, 255);
   min-height: 200px;
-  /*max-height: 370px;*/
   box-sizing: border-box;
 }
 
